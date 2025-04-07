@@ -1,0 +1,222 @@
+[
+  {
+    "paper_title": "Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI",
+    "papers": [
+      {
+        "title": "Introduction to stream: An Extensible Framework for Data Stream Clustering Research with R",
+        "url": "https://www.semanticscholar.org/paper/49fecf25194b2e0f5ab6eae9f0a6445442c8eb8e",
+        "abstract": "In recent years, data streams have become an increasingly important area of research for the computer science, database and statistics communities. Data streams are ordered and potentially unbounded sequences of data points created by a typically non-stationary data generating process. Common data mining tasks associated with data streams include clustering, classification and frequent pattern mining. New algorithms for these types of data are proposed regularly and it is important to evaluate them thoroughly under standardized conditions. In this paper we introduce stream, a research tool that includes modeling and simulating data streams as well as an extensible framework for implementing, interfacing and experimenting with algorithms for various data stream mining tasks. The main advantage of stream is that it seamlessly integrates with the large existing infrastructure provided by R. In addition to data handling, plotting and easy scripting capabilities, R also provides many existing algorithms and enables users to interface code written in many programming languages popular among data mining researchers (e.g., C/C++, Java and Python). In this paper we describe the architecture of stream and focus on its use for data stream clustering research. stream was implemented with extensibility in mind and will be extended in the future to cover additional data stream mining tasks like classification and frequent pattern mining.",
+        "source": "semantic_scholar",
+        "score": 0.381,
+        "matched_concept": "stream"
+      },
+      {
+        "title": "INTRODUCTION OF THE NATIONAL SYSTEM OF ACCOUNTING OF THE LENGTH OF HIGHWAYS IN SINGLE-LANE CALCULATION",
+        "url": "https://www.semanticscholar.org/paper/ad30dae41ba44092fef89c21e8395c24ad0d2bd7",
+        "abstract": "Introduction. The use of geographical spatial data of the public road network has led to the question of the feasibility of applying existing methods of road length accounting and the need to introduce single-lane road length accounting. Problem statement. The search for alternative ways to account for the length of a road calls for improving the principles of forming road titles, which have certain solutions for accounting for sections with more than one lane in each direction and establishing the lengths of traffic interchanges, additional lanes on ascents, external and internal transitional high-speed lanes, dedicated (channelized) lanes, etc. Objective. To improve the system of accounting for the length of public roads of national importance. Materials and methods. The principles of road titling introduced in [1] have certain solutions for accounting for sections with more than 1 lane in each direction and establishing the lengths of traffic interchanges, which were rational at the time of adoption, but without further improvement may be ineffective and increasingly lead to contradictions. The need to introduce the term \"length of a public road in single-lane calculation\" is due to the fact that there are fundamental differences between the lengths of roads approved by the Resolution of the Cabinet of Ministers of Ukraine \"On Approval of the List of Public Roads of National Importance\" of December 15, 2023 No. 1318 [2] and the actual length (area) of lanes subject to repair and maintenance, since the road may have a different number of main lanes along its length, additional lanes on ascents, external and internal transitional high-speed lanes, dedicated (channelized) lanes, and exits may have several lanes in one direction.",
+        "source": "semantic_scholar",
+        "score": 0.339,
+        "matched_concept": "length"
+      }
+    ]
+  },
+  {
+    "paper_title": "Explanation in Artificial Intelligence: Insights from the Social Sciences",
+    "papers": [
+      {
+        "title": "TomoReal: Tomographic Displays",
+        "url": "http://arxiv.org/abs/1804.04619v1",
+        "abstract": "Since the history of display technologies began, people have dreamed an\nultimate 3D display system. In order to get close to the dream, 3D displays\nshould provide both of psychological and physiological cues for recognition of\ndepth information. However, it is challenging to satisfy the essential features\nwithout sacrifice in conventional technical values including resolution, frame\nrate, and eye-box. Here, we present a new type of 3D displays: tomographic\ndisplays. We claim that tomographic displays may support extremely wide depth\nof field, quasi-continuous accommodation, omni-directional motion parallax,\npreserved resolution, full frame, and moderate field of view within enough\neye-box. Tomographic displays consist of focus-tunable optics, 2D display\npanel, and fast spatially adjustable backlight. The synchronization of the\nfocus-tunable optics and the backlight enables the 2D display panel to express\nthe depth information. Tomographic displays have various applications including\ntabletop 3D displays, head-up displays, and near-eye stereoscopes. In this\nstudy, we implement a near-eye display named TomoReal, which is one of the most\npromising application of tomographic displays. We conclude with the detailed\nanalysis and thorough discussion for tomographic displays, which would open a\nnew research field.",
+        "source": "arxiv",
+        "score": 0.393,
+        "matched_concept": "display"
+      },
+      {
+        "title": "Universal Numeric Segmented Display",
+        "url": "http://arxiv.org/abs/1009.4977v1",
+        "abstract": "Segmentation display plays a vital role to display numerals. But in today's\nworld matrix display is also used in displaying numerals. Because numerals has\nlots of curve edges which is better supported by matrix display. But as matrix\ndisplay is costly and complex to implement and also needs more memory, segment\ndisplay is generally used to display numerals. But as there is yet no proposed\ncompact display architecture to display multiple language numerals at a time,\nthis paper proposes uniform display architecture to display multiple language\ndigits and general mathematical expressions with higher accuracy and simplicity\nby using a 18-segment display, which is an improvement over the 16 segment\ndisplay.",
+        "source": "arxiv",
+        "score": 0.443,
+        "matched_concept": "display"
+      },
+      {
+        "title": "Truncated Barsotti-Tate Groups and Displays",
+        "url": "http://arxiv.org/abs/1412.3032v1",
+        "abstract": "We define truncated displays over rings in which a prime p is nilpotent, we\nassociate crystals to truncated displays, and we define functors from truncated\ndisplays to truncated Barsotti-Tate groups.",
+        "source": "arxiv",
+        "score": 0.343,
+        "matched_concept": "display"
+      },
+      {
+        "title": "Alternative Approach to 3D Displaying",
+        "url": "http://arxiv.org/abs/0707.0477v1",
+        "abstract": "A method for displaying volumetric images, which exploits our binocular\nvision and does not require eyewear, is discussed. The display can be rendered\nas a matrix of pivoting micromirrors irradiated by a light beam; each\nmicromirror focuses its pixel beams to the same point of displayed volumetric\nimage. 3D perception of image can be achieved by scanning the point of beams\nintersection over a virtual surface of displayed image in space.",
+        "source": "arxiv",
+        "score": 0.342,
+        "matched_concept": "display"
+      },
+      {
+        "title": "Size matters: performance declines if your pixels are too big or too\n  small",
+        "url": "http://arxiv.org/abs/0804.3103v1",
+        "abstract": "We present a conceptual model that describes the effect of pixel size on\ntarget acquisition. We demonstrate the use of our conceptual model by applying\nit to predict and explain the results of an experiment to evaluate users'\nperformance in a target acquisition task involving three distinct display\nsizes: standard desktop, small and large displays. The results indicate that\nusers are fastest on standard desktop displays, undershoots are the most common\nerror on small displays and overshoots are the most common error on large\ndisplays. We propose heuristics to maintain usability when changing displays.\nFinally, we contribute to the growing body of evidence that amplitude does\naffect performance in a display-based pointing task.",
+        "source": "arxiv",
+        "score": 0.355,
+        "matched_concept": "display"
+      },
+      {
+        "title": "HtmlRAG: HTML is Better Than Plain Text for Modeling Retrieved Knowledge\n  in RAG Systems",
+        "url": "http://arxiv.org/abs/2411.02959v2",
+        "abstract": "Retrieval-Augmented Generation (RAG) has been shown to improve knowledge\ncapabilities and alleviate the hallucination problem of LLMs. The Web is a\nmajor source of external knowledge used in RAG systems, and many commercial RAG\nsystems have used Web search engines as their major retrieval systems.\nTypically, such RAG systems retrieve search results, download HTML sources of\nthe results, and then extract plain texts from the HTML sources. Plain text\ndocuments or chunks are fed into the LLMs to augment the generation. However,\nmuch of the structural and semantic information inherent in HTML, such as\nheadings and table structures, is lost during this plain-text-based RAG\nprocess. To alleviate this problem, we propose HtmlRAG, which uses HTML instead\nof plain text as the format of retrieved knowledge in RAG. We believe HTML is\nbetter than plain text in modeling knowledge in external documents, and most\nLLMs possess robust capacities to understand HTML. However, utilizing HTML\npresents new challenges. HTML contains additional content such as tags,\nJavaScript, and CSS specifications, which bring extra input tokens and noise to\nthe RAG system. To address this issue, we propose HTML cleaning, compression,\nand a two-step block-tree-based pruning strategy, to shorten the HTML while\nminimizing the loss of information. Experiments on six QA datasets confirm the\nsuperiority of using HTML in RAG systems.",
+        "source": "arxiv",
+        "score": 0.482,
+        "matched_concept": "html"
+      },
+      {
+        "title": "WAFFLE: Multi-Modal Model for Automated Front-End Development",
+        "url": "http://arxiv.org/abs/2410.18362v1",
+        "abstract": "Web development involves turning UI designs into functional webpages, which\ncan be difficult for both beginners and experienced developers due to the\ncomplexity of HTML's hierarchical structures and styles. While Large Language\nModels (LLMs) have shown promise in generating source code, two major\nchallenges persist in UI-to-HTML code generation: (1) effectively representing\nHTML's hierarchical structure for LLMs, and (2) bridging the gap between the\nvisual nature of UI designs and the text-based format of HTML code. To tackle\nthese challenges, we introduce Waffle, a new fine-tuning strategy that uses a\nstructure-aware attention mechanism to improve LLMs' understanding of HTML's\nstructure and a contrastive fine-tuning approach to align LLMs' understanding\nof UI images and HTML code. Models fine-tuned with Waffle show up to 9.00 pp\n(percentage point) higher HTML match, 0.0982 higher CW-SSIM, 32.99 higher CLIP,\nand 27.12 pp higher LLEM on our new benchmark WebSight-Test and an existing\nbenchmark Design2Code, outperforming current fine-tuning methods.",
+        "source": "arxiv",
+        "score": 0.495,
+        "matched_concept": "html"
+      },
+      {
+        "title": "HTML-LSTM: Information Extraction from HTML Tables in Web Pages using\n  Tree-Structured LSTM",
+        "url": "http://arxiv.org/abs/2409.19445v1",
+        "abstract": "In this paper, we propose a novel method for extracting information from HTML\ntables with similar contents but with a different structure. We aim to\nintegrate multiple HTML tables into a single table for retrieval of information\ncontaining in various Web pages. The method is designed by extending\ntree-structured LSTM, the neural network for tree-structured data, in order to\nextract information that is both linguistic and structural information of HTML\ndata. We evaluate the proposed method through experiments using real data\npublished on the WWW.",
+        "source": "arxiv",
+        "score": 0.406,
+        "matched_concept": "html"
+      },
+      {
+        "title": "Content Analysis: An Introduction to Its Methodology",
+        "url": "https://www.semanticscholar.org/paper/25075e27b0df6f2be5a8c519171bdabd1c3ed817",
+        "abstract": "History Conceptual Foundations Uses and Kinds of Inference The Logic of Content Analysis Designs Unitizing Sampling Recording Data Languages Constructs for Inference Analytical Techniques The Use of Computers Reliability Validity A Practical Guide",
+        "source": "semantic_scholar",
+        "score": 0.305,
+        "matched_concept": "content"
+      },
+      {
+        "title": "Type Inference for Guarded Recursive Data Types",
+        "url": "http://arxiv.org/abs/cs/0507037v1",
+        "abstract": "We consider type inference for guarded recursive data types (GRDTs) -- a\nrecent generalization of algebraic data types. We reduce type inference for\nGRDTs to unification under a mixed prefix. Thus, we obtain efficient type\ninference. Inference is incomplete because the set of type constraints allowed\nto appear in the type system is only a subset of those type constraints\ngenerated by type inference. Hence, inference only succeeds if the program is\nsufficiently type annotated. We present refined procedures to infer types\nincrementally and to assist the user in identifying which pieces of type\ninformation are missing. Additionally, we introduce procedures to test if a\ntype is not principal and to find a principal type if one exists.",
+        "source": "arxiv",
+        "score": 0.422,
+        "matched_concept": "type"
+      },
+      {
+        "title": "Bidirectional Typing",
+        "url": "http://arxiv.org/abs/1908.05839v2",
+        "abstract": "Bidirectional typing combines two modes of typing: type checking, which\nchecks that a program satisfies a known type, and type synthesis, which\ndetermines a type from the program. Using checking enables bidirectional typing\nto support features for which inference is undecidable; using synthesis enables\nbidirectional typing to avoid the large annotation burden of explicitly typed\nlanguages. In addition, bidirectional typing improves error locality. We\nhighlight the design principles that underlie bidirectional type systems,\nsurvey the development of bidirectional typing from the prehistoric period\nbefore Pierce and Turner's local type inference to the present day, and provide\nguidance for future investigations.",
+        "source": "arxiv",
+        "score": 0.472,
+        "matched_concept": "type"
+      },
+      {
+        "title": "New interpretations for noncrossing partitions of classical types",
+        "url": "http://arxiv.org/abs/0910.2036v2",
+        "abstract": "We interpret noncrossing partitions of type $B$ and type $D$ in terms of\nnoncrossing partitions of type $A$. As an application, we get type-preserving\nbijections between noncrossing and nonnesting partitions of type $B$, type $C$\nand type $D$ which are different from those in the recent work of Fink and\nGiraldo. We also define Catalan tableaux of type $B$ and type $D$, and find\nbijections between them and noncrossing partitions of type $B$ and type $D$\nrespectively.",
+        "source": "arxiv",
+        "score": 0.303,
+        "matched_concept": "type"
+      },
+      {
+        "title": "Toward a Corpus Study of the Dynamic Gradual Type",
+        "url": "http://arxiv.org/abs/2503.08928v1",
+        "abstract": "Gradually-typed languages feature a dynamic type that supports implicit\ncoercions, greatly weakening the type system but making types easier to adopt.\nUnderstanding how developers use this dynamic type is a critical question for\nthe design of useful and usable type systems. This paper reports on an\nin-progress corpus study of the dynamic type in Python, targeting 221 GitHub\nprojects that use the mypy type checker. The study reveals eight\npatterns-of-use for the dynamic type, which have implications for future\nrefinements of the mypy type system and for tool support to encourage precise\ntype annotations.",
+        "source": "arxiv",
+        "score": 0.474,
+        "matched_concept": "type"
+      },
+      {
+        "title": "A Unified Framework for Generalizable Style Transfer: Style and Content\n  Separation",
+        "url": "http://arxiv.org/abs/1806.05173v1",
+        "abstract": "Image style transfer has drawn broad attention in recent years. However, most\nexisting methods aim to explicitly model the transformation between different\nstyles, and the learned model is thus not generalizable to new styles. We here\npropose a unified style transfer framework for both character typeface transfer\nand neural style transfer tasks leveraging style and content separation. A key\nmerit of such framework is its generalizability to new styles and contents. The\noverall framework consists of style encoder, content encoder, mixer and\ndecoder. The style encoder and content encoder are used to extract the style\nand content representations from the corresponding reference images. The mixer\nintegrates the above two representations and feeds it into the decoder to\ngenerate images with the target style and content. During training, the encoder\nnetworks learn to extract styles and contents from limited size of\nstyle/content reference images. This learning framework allows simultaneous\nstyle transfer among multiple styles and can be deemed as a special\n`multi-task' learning scenario. The encoders are expected to capture the\nunderlying features for different styles and contents which is generalizable to\nnew styles and contents. Under this framework, we design two individual\nnetworks for character typeface transfer and neural style transfer,\nrespectively. For character typeface transfer, to separate the style features\nand content features, we leverage the conditional dependence of styles and\ncontents given an image. For neural style transfer, we leverage the statistical\ninformation of feature maps in certain layers to represent style. Extensive\nexperimental results have demonstrated the effectiveness and robustness of the\nproposed methods.",
+        "source": "arxiv",
+        "score": 0.336,
+        "matched_concept": "style"
+      },
+      {
+        "title": "A Comprehensive Comparison between Neural Style Transfer and Universal\n  Style Transfer",
+        "url": "http://arxiv.org/abs/1806.00868v1",
+        "abstract": "Style transfer aims to transfer arbitrary visual styles to content images. We\nexplore algorithms adapted from two papers that try to solve the problem of\nstyle transfer while generalizing on unseen styles or compromised visual\nquality. Majority of the improvements made focus on optimizing the algorithm\nfor real-time style transfer while adapting to new styles with considerably\nless resources and constraints. We compare these strategies and compare how\nthey measure up to produce visually appealing images. We explore two approaches\nto style transfer: neural style transfer with improvements and universal style\ntransfer. We also make a comparison between the different images produced and\nhow they can be qualitatively measured.",
+        "source": "arxiv",
+        "score": 0.416,
+        "matched_concept": "style"
+      },
+      {
+        "title": "Computational Decomposition of Style for Controllable and Enhanced Style\n  Transfer",
+        "url": "http://arxiv.org/abs/1811.08668v2",
+        "abstract": "Neural style transfer has been demonstrated to be powerful in creating\nartistic image with help of Convolutional Neural Networks (CNN). However, there\nis still lack of computational analysis of perceptual components of the\nartistic style. Different from some early attempts which studied the style by\nsome pre-processing or post-processing techniques, we investigate the\ncharacteristics of the style systematically based on feature map produced by\nCNN. First, we computationally decompose the style into basic elements using\nnot only spectrum based methods including Fast Fourier Transform (FFT),\nDiscrete Cosine Transform (DCT) but also latent variable models such Principal\nComponent Analysis (PCA), Independent Component Analysis (ICA). Then, the\ndecomposition of style induces various ways of controlling the style elements\nwhich could be embedded as modules in state-of-the-art style transfer\nalgorithms. Such decomposition of style brings several advantages. It enables\nthe computational coding of different artistic styles by our style basis with\nsimilar styles clustering together, and thus it facilitates the mixing or\nintervention of styles based on the style basis from more than one styles so\nthat compound style or new style could be generated to produce styled images.\nExperiments demonstrate the effectiveness of our method on not only painting\nstyle transfer but also sketch style transfer which indicates possible\napplications on picture-to-sketch problems.",
+        "source": "arxiv",
+        "score": 0.384,
+        "matched_concept": "style"
+      },
+      {
+        "title": "Style Decomposition for Improved Neural Style Transfer",
+        "url": "http://arxiv.org/abs/1811.12704v1",
+        "abstract": "Universal Neural Style Transfer (NST) methods are capable of performing style\ntransfer of arbitrary styles in a style-agnostic manner via feature transforms\nin (almost) real-time. Even though their unimodal parametric style modeling\napproach has been proven adequate to transfer a single style from relatively\nsimple images, they are usually not capable of effectively handling more\ncomplex styles, producing significant artifacts, as well as reducing the\nquality of the synthesized textures in the stylized image. To overcome these\nlimitations, in this paper we propose a novel universal NST approach that\nseparately models each sub-style that exists in a given style image (or a\ncollection of style images). This allows for better modeling the subtle style\ndifferences within the same style image and then using the most appropriate\nsub-style (or mixtures of different sub-styles) to stylize the content image.\nThe ability of the proposed approach to a) perform a wide range of different\nstylizations using the sub-styles that exist in one style image, while giving\nthe ability to the user to appropriate mix the different sub-styles, b)\nautomatically match the most appropriate sub-style to different semantic\nregions of the content image, improving existing state-of-the-art universal NST\napproaches, and c) detecting and transferring the sub-styles from collections\nof images are demonstrated through extensive experiments.",
+        "source": "arxiv",
+        "score": 0.415,
+        "matched_concept": "style"
+      },
+      {
+        "title": "Pluggable Style Representation Learning for Multi-Style Transfer",
+        "url": "http://arxiv.org/abs/2503.20368v1",
+        "abstract": "Due to the high diversity of image styles, the scalability to various styles\nplays a critical role in real-world applications. To accommodate a large amount\nof styles, previous multi-style transfer approaches rely on enlarging the model\nsize while arbitrary-style transfer methods utilize heavy backbones. However,\nthe additional computational cost introduced by more model parameters hinders\nthese methods to be deployed on resource-limited devices. To address this\nchallenge, in this paper, we develop a style transfer framework by decoupling\nthe style modeling and transferring. Specifically, for style modeling, we\npropose a style representation learning scheme to encode the style information\ninto a compact representation. Then, for style transferring, we develop a\nstyle-aware multi-style transfer network (SaMST) to adapt to diverse styles\nusing pluggable style representations. In this way, our framework is able to\naccommodate diverse image styles in the learned style representations without\nintroducing additional overhead during inference, thereby maintaining\nefficiency. Experiments show that our style representation can extract accurate\nstyle information. Moreover, qualitative and quantitative results demonstrate\nthat our method achieves state-of-the-art performance in terms of both accuracy\nand efficiency. The codes are available in\nhttps://github.com/The-Learning-And-Vision-Atelier-LAVA/SaMST.",
+        "source": "arxiv",
+        "score": 0.4,
+        "matched_concept": "style"
+      },
+      {
+        "title": "Introduction to Text Visualization",
+        "url": "https://www.semanticscholar.org/paper/31b2b83eeb31d5138933b130d50c62239d5c784d",
+        "abstract": "This book provides a systematic review of many advanced techniques to support the analysis of large collections of documents, ranging from the elementary to the profound, covering all the aspects of the visualization of text documents. Particularly, we start by introducing the fundamental concept of information visualization and visual analysis, followed by a brief survey of the field of text visualization and commonly used data models for converting document into a structured form for visualization. Then we introduce the key visualization techniques including visualizing document similarity, content, sentiments, as well as text corpus exploration system in details with concrete examples in the rest of the book.",
+        "source": "semantic_scholar",
+        "score": 0.397,
+        "matched_concept": "text"
+      }
+    ]
+  },
+  {
+    "paper_title": "Impact of Artificial Intelligence in Customer Journey",
+    "papers": [
+      {
+        "title": "Introduction to HTTP security headers and implementation of HTTP strict transport security (HSTS) header for HTTPS enforcing",
+        "url": "https://www.semanticscholar.org/paper/5964eefd27b7849c09dfe5f1b0ad9e22a03dbd3e",
+        "abstract": "This article presents introduction to HTTP Security Headers — new security topic in communication over Internet. It is emphasized that HTTPS protocol and SSL/TLS certificates alone do not offer sufficient level of security for communication among people and devices. In the world of web applications and Internet of Things (IoT), it is vital to bring communication security at higher level, what could be realised via few simple steps. HTTP Response Headers used for different purposes in the past are now the effective way how to propagate security policies from servers to clients (from web servers to web browsers). First improvement is enforcing HTTPS protocol for communication everywhere it is possible and promote this protocol as first and only option for secure connection over the Internet. It is emphasized that HTTP protocol for communication is not suitable anymore.",
+        "source": "semantic_scholar",
+        "score": 0.495,
+        "matched_concept": "https"
+      },
+      {
+        "title": "MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic\n  Segmentation",
+        "url": "http://arxiv.org/abs/2308.03005v1",
+        "abstract": "This paper proposes a novel transformer-based framework that aims to enhance\nweakly supervised semantic segmentation (WSSS) by generating accurate\nclass-specific object localization maps as pseudo labels. Building upon the\nobservation that the attended regions of the one-class token in the standard\nvision transformer can contribute to a class-agnostic localization map, we\nexplore the potential of the transformer model to capture class-specific\nattention for class-discriminative object localization by learning multiple\nclass tokens. We introduce a Multi-Class Token transformer, which incorporates\nmultiple class tokens to enable class-aware interactions with the patch tokens.\nTo achieve this, we devise a class-aware training strategy that establishes a\none-to-one correspondence between the output class tokens and the ground-truth\nclass labels. Moreover, a Contrastive-Class-Token (CCT) module is proposed to\nenhance the learning of discriminative class tokens, enabling the model to\nbetter capture the unique characteristics and properties of each class. As a\nresult, class-discriminative object localization maps can be effectively\ngenerated by leveraging the class-to-patch attentions associated with different\nclass tokens. To further refine these localization maps, we propose the\nutilization of patch-level pairwise affinity derived from the patch-to-patch\ntransformer attention. Furthermore, the proposed framework seamlessly\ncomplements the Class Activation Mapping (CAM) method, resulting in\nsignificantly improved WSSS performance on the PASCAL VOC 2012 and MS COCO 2014\ndatasets. These results underline the importance of the class token for WSSS.",
+        "source": "arxiv",
+        "score": 0.319,
+        "matched_concept": "class"
+      }
+    ]
+  },
+  {
+    "paper_title": "Explainable Artificial Intelligence (XAI)",
+    "papers": [
+      {
+        "title": "INTRODUCTION OF THE NATIONAL SYSTEM OF ACCOUNTING OF THE LENGTH OF HIGHWAYS IN SINGLE-LANE CALCULATION",
+        "url": "https://www.semanticscholar.org/paper/ad30dae41ba44092fef89c21e8395c24ad0d2bd7",
+        "abstract": "Introduction. The use of geographical spatial data of the public road network has led to the question of the feasibility of applying existing methods of road length accounting and the need to introduce single-lane road length accounting. Problem statement. The search for alternative ways to account for the length of a road calls for improving the principles of forming road titles, which have certain solutions for accounting for sections with more than one lane in each direction and establishing the lengths of traffic interchanges, additional lanes on ascents, external and internal transitional high-speed lanes, dedicated (channelized) lanes, etc. Objective. To improve the system of accounting for the length of public roads of national importance. Materials and methods. The principles of road titling introduced in [1] have certain solutions for accounting for sections with more than 1 lane in each direction and establishing the lengths of traffic interchanges, which were rational at the time of adoption, but without further improvement may be ineffective and increasingly lead to contradictions. The need to introduce the term \"length of a public road in single-lane calculation\" is due to the fact that there are fundamental differences between the lengths of roads approved by the Resolution of the Cabinet of Ministers of Ukraine \"On Approval of the List of Public Roads of National Importance\" of December 15, 2023 No. 1318 [2] and the actual length (area) of lanes subject to repair and maintenance, since the road may have a different number of main lanes along its length, additional lanes on ascents, external and internal transitional high-speed lanes, dedicated (channelized) lanes, and exits may have several lanes in one direction.",
+        "source": "semantic_scholar",
+        "score": 0.339,
+        "matched_concept": "length"
+      },
+      {
+        "title": "An Introduction to Description Logics",
+        "url": "https://www.semanticscholar.org/paper/58fb408f90da35de2eec7ddce21e3cf4b4e89e52",
+        "abstract": "This introduction presents the main motivations for the development of Description Logics (DL) as a formalism for representing knowledge, as well as some important basic notions underlying all systems that have been created in the DL tradition. In addition, we provide the reader with an overview of the entire book and some guidelines for reading it. We first address the relationship between Description Logics and earlier semantic network and frame systems, which represent the original heritage of the field. We delve into some of the key problems encountered with the older efforts. Subsequently , we introduce the basic features of Description Logic languages and related reasoning techniques. Description Logic languages are then viewed as the core of knowledge representation systems, considering both the structure of a DL knowledge base and its associated reasoning services. The development of some implemented knowledge representation systems based on Description Logics and the first applications built with such systems are then reviewed. Finally, we address the relationship of Description Logics to other fields of Computer Science. We also discuss some extensions of the basic representation language machinery; these include features proposed for incorporation in the formalism that originally arose in implemented systems, and features proposed to cope with the needs of certain application domains. Research in the field of knowledge representation and reasoning is usually focused on methods for providing high-level descriptions of the world that can be effectively used to build intelligent applications. In this context, \" intelligent \" refers to the abil-5",
+        "source": "semantic_scholar",
+        "score": 0.309,
+        "matched_concept": "description"
+      }
+    ]
+  }
+]

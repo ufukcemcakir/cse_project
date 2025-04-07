@@ -1,3 +1,6 @@
+# --- feed_abstracts_to_generator.py ---
+import json
+import datetime
 import spacy
 import joblib
 import requests
@@ -6,23 +9,27 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sentence_transformers import SentenceTransformer, util
 import time
 import feedparser
-import urllib.parse
+
+OUTPUT_FILE = "reading_results.txt"
+FULLTEXT_JSONL_FILE = "local_papers_with_fulltext.jsonl"
+MAX_RESULTS_PER_CONCEPT = 5
+
+
 
 # Load models
 clf = joblib.load("prereq_classifier.joblib")
 embed_model = SentenceTransformer("all-MiniLM-L6-v2")
 nlp = spacy.load("en_core_web_sm")
-
-# Config
-MAX_RESULTS_PER_CONCEPT = 10
-
+nlp.max_length = 5_000_000  # or even more if needed
 GENERIC_CONCEPTS = {"early", "key", "based", "systems", "tasks", "methods", "models", "approach", "approaches", "research"}
+
 
 def is_valid_concept(concept):
     return len(concept) > 3 and concept.lower() not in GENERIC_CONCEPTS
 
-def extract_concepts_from_abstract(abstract, top_n=7):
-    doc = nlp(abstract)
+
+def extract_concepts_from_text(text, top_n=7):
+    doc = nlp(text)
     chunks = [chunk.text.lower().strip() for chunk in doc.noun_chunks if len(chunk.text.strip()) > 2]
     tfidf = TfidfVectorizer(stop_words="english")
     tfidf_matrix = tfidf.fit_transform([' '.join(chunks)])
@@ -31,14 +38,17 @@ def extract_concepts_from_abstract(abstract, top_n=7):
     scored = sorted(zip(feature_names, scores), key=lambda x: x[1], reverse=True)
     return [phrase for phrase, score in scored[:top_n] if score > 0]
 
+
 def encode_pair(a, b):
     vec_a = embed_model.encode(a)
     vec_b = embed_model.encode(b)
     return list(vec_a) + list(vec_b)
 
+
 search_cache = {}
 
-def search_semantic_scholar(concept, max_results=MAX_RESULTS_PER_CONCEPT):
+
+def search_semantic_scholar(concept, max_results=2):
     url = "https://api.semanticscholar.org/graph/v1/paper/search"
     headers = {"User-Agent": "ConceptGraphFetcher/1.0"}
     queries = [f"introduction to {concept}", f"{concept} review", f"{concept} tutorial", concept]
@@ -68,7 +78,9 @@ def search_semantic_scholar(concept, max_results=MAX_RESULTS_PER_CONCEPT):
             continue
     return []
 
-def search_arxiv(concept, max_results=MAX_RESULTS_PER_CONCEPT):
+
+def search_arxiv(concept, max_results=2):
+    import urllib.parse
     encoded = urllib.parse.quote(f"all:{concept}")
     url = f"http://export.arxiv.org/api/query?search_query={encoded}&start=0&max_results={max_results}"
     try:
@@ -89,7 +101,8 @@ def search_arxiv(concept, max_results=MAX_RESULTS_PER_CONCEPT):
     except Exception:
         return []
 
-def search_papers_for_concept(concept, max_results=MAX_RESULTS_PER_CONCEPT):
+
+def search_papers_for_concept(concept, max_results=5):
     if concept in search_cache:
         return search_cache[concept]
 
@@ -97,7 +110,6 @@ def search_papers_for_concept(concept, max_results=MAX_RESULTS_PER_CONCEPT):
     if not results:
         results = search_arxiv(concept, max_results)
 
-    # Filter results using cosine similarity
     filtered = []
     concept_emb = embed_model.encode(concept, convert_to_tensor=True)
     for paper in results:
@@ -107,7 +119,6 @@ def search_papers_for_concept(concept, max_results=MAX_RESULTS_PER_CONCEPT):
             paper["matched_concept"] = concept
             filtered.append(paper)
 
-    # De-duplicate by title
     seen_titles = set()
     deduped = []
     for paper in filtered:
@@ -118,8 +129,9 @@ def search_papers_for_concept(concept, max_results=MAX_RESULTS_PER_CONCEPT):
     search_cache[concept] = deduped
     return deduped
 
-def generate_reading_path_from_abstract(abstract, max_results=MAX_RESULTS_PER_CONCEPT):
-    concepts = extract_concepts_from_abstract(abstract, top_n=7)
+
+def generate_reading_path_from_text(fulltext, max_results=5):
+    concepts = extract_concepts_from_text(fulltext, top_n=7)
     concepts = [c for c in concepts if is_valid_concept(c)]
 
     if len(concepts) <= 1:

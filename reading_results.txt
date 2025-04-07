@@ -464,3 +464,119 @@
   https://www.semanticscholar.org/paper/4f9272b4b77cbe7ce938562b0dab6a0d388dd48b
 - How to Write the Introduction to a Scientific Paper? (semantic_scholar)
   https://www.semanticscholar.org/paper/6f86627e6294c737395c2aba56302b868d33f5eb
+
+===== 🔎 Run at 2025-04-07 23:45:43 =====
+
+=== Paper 1/41: Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI ===
+
+===== 🔎 Run at 2025-04-07 23:48:29 =====
+
+=== Paper 1/5: Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI ===
+- Tutorial on graph stream analytics (semantic_scholar)
+  https://www.semanticscholar.org/paper/213fe919aa0ab171e458b1d543d998f7313eeb8e
+- INTRODUCTION OF THE NATIONAL SYSTEM OF ACCOUNTING OF THE LENGTH OF HIGHWAYS IN SINGLE-LANE CALCULATION (semantic_scholar)
+  https://www.semanticscholar.org/paper/ad30dae41ba44092fef89c21e8395c24ad0d2bd7
+
+=== Paper 2/2: Explanation in Artificial Intelligence: Insights from the Social Sciences ===
+- Introduction to display advertising: a half-day tutorial (semantic_scholar)
+  https://www.semanticscholar.org/paper/ac247edfc214dc35a9c1acf886f36a922f4f218a
+- HtmlRAG: HTML is Better Than Plain Text for Modeling Retrieved Knowledge
+  in RAG Systems (arxiv)
+  http://arxiv.org/abs/2411.02959v2
+- WAFFLE: Multi-Modal Model for Automated Front-End Development (arxiv)
+  http://arxiv.org/abs/2410.18362v1
+- HTML-LSTM: Information Extraction from HTML Tables in Web Pages using
+  Tree-Structured LSTM (arxiv)
+  http://arxiv.org/abs/2409.19445v1
+- Content Analysis: An Introduction to Its Methodology (semantic_scholar)
+  https://www.semanticscholar.org/paper/25075e27b0df6f2be5a8c519171bdabd1c3ed817
+- Introduction to Homotopy Type Theory (semantic_scholar)
+  https://www.semanticscholar.org/paper/2e1ea8c02f6237b3965be586a89a4e01533cf852
+- Abstractive Text Summarization Using GAN (semantic_scholar)
+  https://www.semanticscholar.org/paper/c181d9e2e488d3e4a78f67e9e8884565f3c7051e
+
+=== Paper 3/7: Impact of Artificial Intelligence in Customer Journey ===
+- On the Impact of DNS Over HTTPS Paradigm on Cyber Systems (semantic_scholar)
+  https://www.semanticscholar.org/paper/731fbccb858cb17c7b73bde0a0ed71b7694b7e96
+- MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic
+  Segmentation (arxiv)
+  http://arxiv.org/abs/2308.03005v1
+
+=== Paper 4/2: ARTIFICIAL INTELLIGENCE FOR THE REAL WORLD ===
+No relevant papers found.
+
+=== Paper 5/0: Explainable Artificial Intelligence (XAI) ===
+- INTRODUCTION OF THE NATIONAL SYSTEM OF ACCOUNTING OF THE LENGTH OF HIGHWAYS IN SINGLE-LANE CALCULATION (semantic_scholar)
+  https://www.semanticscholar.org/paper/ad30dae41ba44092fef89c21e8395c24ad0d2bd7
+- An Introduction to Description Logics (semantic_scholar)
+  https://www.semanticscholar.org/paper/58fb408f90da35de2eec7ddce21e3cf4b4e89e52
+
+===== 🔎 Run at 2025-04-07 23:57:07 =====
+
+=== Paper 1/5: Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI ===
+- Introduction to stream: An Extensible Framework for Data Stream Clustering Research with R (semantic_scholar)
+  https://www.semanticscholar.org/paper/49fecf25194b2e0f5ab6eae9f0a6445442c8eb8e
+- INTRODUCTION OF THE NATIONAL SYSTEM OF ACCOUNTING OF THE LENGTH OF HIGHWAYS IN SINGLE-LANE CALCULATION (semantic_scholar)
+  https://www.semanticscholar.org/paper/ad30dae41ba44092fef89c21e8395c24ad0d2bd7
+
+=== Paper 2/5: Explanation in Artificial Intelligence: Insights from the Social Sciences ===
+- TomoReal: Tomographic Displays (arxiv)
+  http://arxiv.org/abs/1804.04619v1
+- Universal Numeric Segmented Display (arxiv)
+  http://arxiv.org/abs/1009.4977v1
+- Truncated Barsotti-Tate Groups and Displays (arxiv)
+  http://arxiv.org/abs/1412.3032v1
+- Alternative Approach to 3D Displaying (arxiv)
+  http://arxiv.org/abs/0707.0477v1
+- Size matters: performance declines if your pixels are too big or too
+  small (arxiv)
+  http://arxiv.org/abs/0804.3103v1
+- HtmlRAG: HTML is Better Than Plain Text for Modeling Retrieved Knowledge
+  in RAG Systems (arxiv)
+  http://arxiv.org/abs/2411.02959v2
+- WAFFLE: Multi-Modal Model for Automated Front-End Development (arxiv)
+  http://arxiv.org/abs/2410.18362v1
+- HTML-LSTM: Information Extraction from HTML Tables in Web Pages using
+  Tree-Structured LSTM (arxiv)
+  http://arxiv.org/abs/2409.19445v1
+- Content Analysis: An Introduction to Its Methodology (semantic_scholar)
+  https://www.semanticscholar.org/paper/25075e27b0df6f2be5a8c519171bdabd1c3ed817
+- Type Inference for Guarded Recursive Data Types (arxiv)
+  http://arxiv.org/abs/cs/0507037v1
+- Bidirectional Typing (arxiv)
+  http://arxiv.org/abs/1908.05839v2
+- New interpretations for noncrossing partitions of classical types (arxiv)
+  http://arxiv.org/abs/0910.2036v2
+- Toward a Corpus Study of the Dynamic Gradual Type (arxiv)
+  http://arxiv.org/abs/2503.08928v1
+- A Unified Framework for Generalizable Style Transfer: Style and Content
+  Separation (arxiv)
+  http://arxiv.org/abs/1806.05173v1
+- A Comprehensive Comparison between Neural Style Transfer and Universal
+  Style Transfer (arxiv)
+  http://arxiv.org/abs/1806.00868v1
+- Computational Decomposition of Style for Controllable and Enhanced Style
+  Transfer (arxiv)
+  http://arxiv.org/abs/1811.08668v2
+- Style Decomposition for Improved Neural Style Transfer (arxiv)
+  http://arxiv.org/abs/1811.12704v1
+- Pluggable Style Representation Learning for Multi-Style Transfer (arxiv)
+  http://arxiv.org/abs/2503.20368v1
+- Introduction to Text Visualization (semantic_scholar)
+  https://www.semanticscholar.org/paper/31b2b83eeb31d5138933b130d50c62239d5c784d
+
+=== Paper 3/5: Impact of Artificial Intelligence in Customer Journey ===
+- Introduction to HTTP security headers and implementation of HTTP strict transport security (HSTS) header for HTTPS enforcing (semantic_scholar)
+  https://www.semanticscholar.org/paper/5964eefd27b7849c09dfe5f1b0ad9e22a03dbd3e
+- MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic
+  Segmentation (arxiv)
+  http://arxiv.org/abs/2308.03005v1
+
+=== Paper 4/5: ARTIFICIAL INTELLIGENCE FOR THE REAL WORLD ===
+No relevant papers found.
+
+=== Paper 5/5: Explainable Artificial Intelligence (XAI) ===
+- INTRODUCTION OF THE NATIONAL SYSTEM OF ACCOUNTING OF THE LENGTH OF HIGHWAYS IN SINGLE-LANE CALCULATION (semantic_scholar)
+  https://www.semanticscholar.org/paper/ad30dae41ba44092fef89c21e8395c24ad0d2bd7
+- An Introduction to Description Logics (semantic_scholar)
+  https://www.semanticscholar.org/paper/58fb408f90da35de2eec7ddce21e3cf4b4e89e52
