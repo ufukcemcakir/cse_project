@@ -1,0 +1,135 @@
+concept_a,concept_b,label
+1st,Google,1
+1st,Tensor Processing Units,1
+1st,TensorFlow,1
+2015,Google,1
+2015,Tensor Processing Units,1
+2015,TensorFlow,1
+3.57%,Google,1
+3.57%,Tensor Processing Units,1
+3.57%,TensorFlow,1
+100 and 1000,Google,1
+100 and 1000,Tensor Processing Units,1
+100 and 1000,TensorFlow,1
+28%,Google,1
+28%,Tensor Processing Units,1
+28%,TensorFlow,1
+COCO,Google,1
+COCO,Tensor Processing Units,1
+COCO,TensorFlow,1
+40,Google,1
+40,Tensor Processing Units,1
+40,TensorFlow,1
+ILSVRC & COCO,Google,1
+ILSVRC & COCO,Tensor Processing Units,1
+ILSVRC & COCO,TensorFlow,1
+ImageNet,Google,1
+ImageNet,Tensor Processing Units,1
+ImageNet,TensorFlow,1
+VGG,Google,1
+VGG,Tensor Processing Units,1
+VGG,TensorFlow,1
+up to 152,Google,1
+up to 152,Tensor Processing Units,1
+up to 152,TensorFlow,1
+BLEU,Google,1
+BLEU,Tensor Processing Units,1
+BLEU,TensorFlow,1
+one thousand,Google,1
+one thousand,Tensor Processing Units,1
+one thousand,TensorFlow,1
+MapReduce,Google,1
+MapReduce,Tensor Processing Units,1
+MapReduce,TensorFlow,1
+hundreds,Google,1
+hundreds,Tensor Processing Units,1
+hundreds,TensorFlow,1
+Google,Tensor Processing Units,1
+Google,TensorFlow,1
+thousands,Google,1
+thousands,Tensor Processing Units,1
+thousands,TensorFlow,1
+every day,Google,1
+every day,Tensor Processing Units,1
+every day,TensorFlow,1
+Artificial Intelligence (AI,AI,1
+two,AI,1
+CSKBs,AI,1
+ConceptNet,AI,1
+two,AI,1
+1991,AI,1
+two-fold,AI,1
+1996,AI,1
+Sapir,AI,1
+English,AI,1
+1,AI,1
+2003,AI,1
+1921,AI,1
+French,AI,1
+2,AI,1
+Je suis heureux,AI,1
+Pennebaker et al.,AI,1
+One,AI,1
+NMT,AI,1
+Slobin,AI,1
+20,AI,1
+Ursula,AI,1
+Mg/Fe,AI,1
+Simpson,AI,1
+Milky Way,AI,1
+HARPS,AI,1
+seven,AI,1
+AMBRE,AI,1
+MVR,AI,1
+high-[α/Fe,AI,1
+ICU,AI,1
+Two,AI,1
+30-day,AI,1
+English,AI,1
+two,AI,1
+BLEU,AI,1
+WMT,AI,1
+Transformer,AI,1
+one,AI,1
+GloVe,AI,1
+Gender-Neutral,AI,1
+GN-GloVe,AI,1
+NLP,AI,1
+Natural Language Processing,AI,1
+GloVe,AI,1
+first,AI,1
+three,AI,1
+Winograd,AI,1
+21.1,AI,1
+F1,AI,1
+Winograd,AI,1
+linear,AI,1
+only two,AI,1
+COMPAS,AI,1
+137,AI,1
+40.5%,AI,1
+47.5%,AI,1
+33%,AI,1
+68%,AI,1
+Lagrangian,AI,1
+46.2%,AI,1
+Wales,AI,1
+"500,000",AI,1
+daily,AI,1
+one,AI,1
+Biobank,AI,1
+the United Kingdom,AI,1
+11.8%,AI,1
+between 2006 and 2010,AI,1
+22,AI,1
+Scotland,AI,1
+25 miles,AI,1
+40–69 years,AI,1
+age 70–74 years,AI,1
+40 km,AI,1
+UK,AI,1
+55.5%,AI,1
+5.5%,AI,1
+18.1%,AI,1
+England,AI,1
+Approximately 9.2 million,AI,1

@@ -1,0 +1,307 @@
+[
+  {
+    "abstract_title": "Sparks of Artificial General Intelligence: Early experiments with GPT-4",
+    "papers": [
+      {
+        "title": "Using ChatGPT to perform a systematic review: a tutorial.",
+        "url": "https://www.semanticscholar.org/paper/176b4cdc71d55cb90b2e0125b88c294e36523bc8",
+        "abstract": "This tutorial provides a comprehensive guide on leveraging ChatGPT for systematic literature reviews, leveraging actual applications in cardiovascular research. Systematic reviews, while essential, are resource-intensive, and ChatGPT offers a potential solution to streamline the process. The tutorial covers the entire review process, from preparation to finalization. In the preparation phase, ChatGPT assists in defining research questions and generating search strings. During the screening phase, ChatGPT can efficiently screen titles and abstracts, processing multiple abstracts simultaneously. The tutorial also introduces an intermediate step of generating study summaries that leads to the generation of reliable data extraction tables. For assessing the risk of bias, ChatGPT can be prompted to perform these tasks. Using each tool's explanation document to generate an appropriate prompt is an efficient method of reliable risk of bias assessments using ChatGPT. However, users are cautioned about potential hallucinations in ChatGPT's outputs and the importance of manual validation. The tutorial emphasizes the need for vigilance, continuous refinement, and gaining experience with ChatGPT to ensure accurate and reliable results. The methods presented have been successfully tried in several projects, but they remain in nascent stages, with ample room for improvement and refinement.",
+        "source": "semantic_scholar",
+        "score": 0.398,
+        "matched_concept": "chatgpt"
+      },
+      {
+        "title": "Is ChatGPT 'ready' to be a learning tool for medical undergraduates and will it perform equally in different subjects? Comparative study of ChatGPT performance in tutorial and case-based learning questions in physiology and biochemistry.",
+        "url": "https://www.semanticscholar.org/paper/b2b6d5c752c2934b76ec73c3ca681a01f36bf916",
+        "abstract": "PURPOSE\nGenerative AI will become an integral part of education in future. The potential of this technology in different disciplines should be identified to promote effective adoption. This study evaluated the performance of ChatGPT in tutorial and case-based learning questions in physiology and biochemistry for medical undergraduates. Our study mainly focused on the performance of GPT-3.5 version while a subgroup was comparatively assessed on GPT-3.5 and GPT-4 performances.\n\n\nMATERIALS AND METHODS\nAnswers were generated in GPT-3.5 for 44 modified essay questions (MEQs) in physiology and 43 MEQs in biochemistry. Each answer was graded by two independent examiners. Subsequently, a subset of 15 questions from each subject were selected to represent different score categories of the GPT-3.5 answers; responses were generated in GPT-4, and graded.\n\n\nRESULTS\nThe mean score for physiology answers was 74.7 (SD 25.96). GPT-3.5 demonstrated a statistically significant (p = .009) superior performance in lower-order questions of Bloom's taxonomy in comparison to higher-order questions. Deficiencies in the application of physiological principles in clinical context were noted as a drawback. Scores in biochemistry were relatively lower with a mean score of 59.3 (SD 26.9) for GPT-3.5. There was no statistically significant difference in the scores for higher and lower-order questions of Bloom's taxonomy. The deficiencies highlighted were lack of in-depth explanations and precision. The subset of questions where the GPT-4 and GPT-3.5 were compared demonstrated a better overall performance in GPT-4 responses in both subjects. This difference between the GPT-3.5 and GPT-4 performance was statistically significant in biochemistry but not in physiology.\n\n\nCONCLUSIONS\nThe differences in performance across the two versions, GPT-3.5 and GPT-4 across the disciplines are noteworthy. Educators and students should understand the strengths and limitations of this technology in different fields to effectively integrate this technology into teaching and learning.",
+        "source": "semantic_scholar",
+        "score": 0.301,
+        "matched_concept": "chatgpt"
+      },
+      {
+        "title": "Proactive Conversational Agents in the Post-ChatGPT World",
+        "url": "https://www.semanticscholar.org/paper/49f97e7b63b0c6e592e256c0d47eb1f4150ad7e1",
+        "abstract": "ChatGPT and similar large language model (LLM) based conversational agents have brought shock waves to the research world. Although astonished by their human-like performance, we find they share a significant weakness with many other existing conversational agents in that they all take a passive approach in responding to user queries. This limits their capacity to understand the users and the task better and to offer recommendations based on a broader context than a given conversation. Proactiveness is still missing in these agents, including their ability to initiate a conversation, shift topics, or offer recommendations that take into account a more extensive context. To address this limitation, this tutorial reviews methods for equipping conversational agents with proactive interaction abilities. The full-day tutorial is divided into four parts, including multiple interactive exercises. We will begin the tutorial with an interactive exercise and cover the design of existing conversational systems architecture and challenges. The content includes coverage of LLM-based recent advancements such as ChatGPT and Bard, along with reinforcement learning with human feedback (RLHF) technique. Then we will introduce the concept of proactive conversation agents and preset recent advancements in proactiveness of conversational agents, including actively driving conversations by asking questions, topic shifting, and methods that support strategic planning of conversation. Next, we will discuss important issues in conversational responses' quality control, including safety, appropriateness, language detoxication, hallucination, and alignment. Lastly, we will launch another interactive exercise and discussion with the audience to arrive at concluding remarks, prospecting open challenges and new directions. By exploring new techniques for enhancing conversational agents' proactive behavior to improve user engagement, this tutorial aims to help researchers and practitioners develop more effective conversational agents that can better understand and respond to user needs proactively and safely.",
+        "source": "semantic_scholar",
+        "score": 0.403,
+        "matched_concept": "chatgpt"
+      },
+      {
+        "title": "Data science through natural language with ChatGPT’s Code Interpreter",
+        "url": "https://www.semanticscholar.org/paper/e7495f95948888ee96309316e27bc888c5e42ec1",
+        "abstract": "Large language models (LLMs) have emerged as a powerful tool for biomedical researchers, demonstrating remarkable capabilities in understanding and generating human-like text. ChatGPT with its Code Interpreter functionality, an LLM connected with the ability to write and execute code, streamlines data analysis workflows by enabling natural language interactions. Using materials from a previously published tutorial, similar analyses can be performed through conversational interactions with the chatbot, covering data loading and exploration, model development and comparison, permutation feature importance, partial dependence plots, and additional analyses and recommendations. The findings highlight the significant potential of LLMs in assisting researchers with data analysis tasks, allowing them to focus on higher-level aspects of their work. However, there are limitations and potential concerns associated with the use of LLMs, such as the importance of critical thinking, privacy, security, and equitable access to these tools. As LLMs continue to improve and integrate with available tools, data science may experience a transformation similar to the shift from manual to automatic transmission in driving. The advancements in LLMs call for considering the future directions of data science and its education, ensuring that the benefits of these powerful tools are utilized with proper human supervision and responsibility.",
+        "source": "semantic_scholar",
+        "score": 0.321,
+        "matched_concept": "chatgpt"
+      },
+      {
+        "title": "ChatGPT for editors: enhancing efficiency and effectiveness",
+        "url": "https://www.semanticscholar.org/paper/3f427ae9d7d3ee821edb53597d9f6119ef43b994",
+        "abstract": "This tutorial examines how ChatGPT can assist journal editors in improving the efficiency and effectiveness of academic publishing. It highlights ChatGPT’s key characteristics, focusing on the use of “Custom instructions” to generate tailored responses and plugin integration for accessing up-to-date information. The tutorial presents practical advice and illustrative examples to demonstrate how editors can adeptly employ these features to improve their work practices. It covers the intricacies of developing advanced prompts and the application of zero-shot and few-shot prompting techniques across a range of editorial tasks, including literature reviews, training novice reviewers, and improving language quality. Furthermore, the tutorial addresses potential challenges inherent in using ChatGPT, which include a lack of precision and sensitivity to cultural nuances, the presence of biases, and a limited vocabulary in specialized fields, among others. The tutorial concludes by advocating for an integrated approach, combining ChatGPT’s technological advancements with the critical insight of human editors. This approach emphasizes that ChatGPT should be recognized not as a replacement for human judgment and expertise in editorial processes, but as a tool that plays a supportive and complementary role.",
+        "source": "semantic_scholar",
+        "score": 0.343,
+        "matched_concept": "chatgpt"
+      },
+      {
+        "title": "Statistical consulting guidelines for new researchers in psychiatry and mental health – beyond ChatGPT",
+        "url": "https://www.semanticscholar.org/paper/60af06ac2445fc914577d94f578641d54a3adbd6",
+        "abstract": "\n Until recently, statistical consultants did not have to worry about being replaced by artificial intelligence. There was no statistical analogue to ‘Dr Google’ before ChatGPT arrived on the scene. Although ChatGPT (most of the time) adequately responds to basic queries such as the assumptions of different statistical tests or summarises relevant manuals on statistical software providing clear instructions with point-and-click software such as SPSS, there are many important aspects of statistical consulting that ChatGPT does not cover. This tutorial article is about these aspects: a summary of what statistical consulting is, its purpose and possible settings during the empirical research cycle, the role and responsibilities of the consultant and the client, how to ensure a good consulting experience, how to prepare for a consulting session, typical questions and more. The article was written for researchers who are considering contacting a statistician for the first time and aims to facilitate a good and fruitful consulting experience for all parties involved.",
+        "source": "semantic_scholar",
+        "score": 0.438,
+        "matched_concept": "chatgpt"
+      }
+    ]
+  },
+  {
+    "abstract_title": "Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)",
+    "papers": [
+      {
+        "title": "An Introduction to the Principle of Transparency in Automated Decision-Making Systems",
+        "url": "https://www.semanticscholar.org/paper/e54dee3cd8e7917490a9a08e5e204ed14c6debb1",
+        "abstract": "Under current European data protection law and the approach of the European Commission regarding artificial intelligence (AI) development, the principle of transparency and explainability by design are essential to protect the data subject's rights and generate confidence in AI systems. However, a closer look reveals that the legal approach ignores limitations of the transparency principle in the practical application of automated-decision making systems. Current transparency rules also require a high standard of transparency in automated decisions due to its potential risks.This paper seeks to analyze the scope of the principle of transparency and its limitations in the practical field, suggesting a division of data subjects to provide automated decision-making explanations according to their level of expertise to reach the transparency principle's goal: user understanding. The paper will address the semantic discussion of whether this objective is achieved through interpretability, explainability, accountability or, transparency in the broad sense. It also maps out the analysis about guidance to address transparency through a certification mechanism, contestability by design, or supplementary post hoc explanations in AI systems.",
+        "source": "semantic_scholar",
+        "score": 0.42,
+        "matched_concept": "transparency"
+      },
+      {
+        "title": "Introduction to special issue algorithmic transparency in government: Towards a multi-level perspective",
+        "url": "https://www.semanticscholar.org/paper/5c59fa20f9e87097ff43d8eb9dee1672d47c3ef6",
+        "abstract": "The editorial sets the stage for the special issue on algorithmic transparency in government. The papers in the issue bring together transparency challenges experienced across different levels of government, including macro-, meso-, and micro-levels. This highlights that transparency issues transcend different levels of government – from European regulation to individual public bureaucrats. With a special focus on these links, the editorial sketches a future research agenda for transparency-related challenges. Highlighting these linkages is a first step towards seeing the bigger picture of why transparency mechanisms are put in place in some scenarios and not in others. Finally, this introduction present an agenda for future research, which opens the door to comparative analyses for future research and new insights for policymakers.",
+        "source": "semantic_scholar",
+        "score": 0.519,
+        "matched_concept": "transparency"
+      },
+      {
+        "title": "Transparency in Qualitative Research: An Overview of Key Findings and Recommendations (Introduction to Working Paper Series: Qualitative Transparency Deliberations, Working Group Final Reports)",
+        "url": "https://www.semanticscholar.org/paper/7ba199cb93ae6c0d7cbd2ccb08625d69a2e1a196",
+        "abstract": "In recent years, a variety of efforts have been made in political science to enable, encourage, or require scholars to be more open and explicit about the bases of their empirical claims and, in turn, make those claims more readily evaluable by others. While qualitative scholars have long taken an interest in making their research open, reflexive, and systematic, the recent push for overarching transparency norms and requirements has provoked serious concern within qualitative research communities and raised fundamental questions about the meaning, value, costs, and intellectual relevance of transparency for qualitative inquiry. This essay is the introduction to a symposium that crystallizes the central findings of a three-year deliberative process – the Qualitative Transparency Deliberations (QTD) – involving hundreds of political scientists in a broad discussion of these issues. The symposium’s centerpiece is a series of summaries of the QTD Working Group’s final reports. Drawing on a series of public, online conversations that unfolded at www.qualtd.net, the reports unpack transparency’s promise, practicalities, risks, and limitations in relation to different qualitative methodologies, forms of evidence, and research contexts. Taken as a whole, these reports offer practical guidance to scholars designing and implementing qualitative research, and to editors, reviewers, and funders seeking to develop criteria of evaluation that are appropriate – as understood by relevant research communities – to the forms of inquiry being assessed.",
+        "source": "semantic_scholar",
+        "score": 0.356,
+        "matched_concept": "transparency"
+      },
+      {
+        "title": "Introduction to Special Theme Veillance and transparency: A critical examination of mutual watching in the post-Snowden, Big Data era",
+        "url": "https://www.semanticscholar.org/paper/4f87ddfcd6b3649a4d40756342cce12074327449",
+        "abstract": "Introducing the Special Theme on Veillance and Transparency: A Critical Examination of Mutual Watching in the Post-Snowden, Big Data Era, this article presents a series of provocations and practices on veillance and transparency in the context of Big Data in a post-Snowden period. In introducing the theoretical and empirical research papers, artistic, activist and educational provocations and commentaries in this Special Theme, it highlights three central debates. Firstly, concerning theory/practice, it queries how useful theories of veillance and transparency are in explaining mutual watching in the post-Snowden, Big Data era. Secondly, it presents a range of questions concerning norms, ethics, regulation, resistance and social change around veillance and transparency. Thirdly, it interrogates the upsurge in veillance and transparency discourses and practices post-Snowden, and asks whether they are adequate to the task of educating and engaging people on abstract and secretive surveillance practices, as well as on the possibilities and pitfalls of sousveillance.",
+        "source": "semantic_scholar",
+        "score": 0.403,
+        "matched_concept": "transparency"
+      }
+    ]
+  },
+  {
+    "abstract_title": "Adaptation in Natural and Artificial Systems: An Introductory Analysis with Applications to Biology, Control, and Artificial Intelligence",
+    "papers": [
+      {
+        "title": "An Introduction to Complex Systems Science and Its Applications",
+        "url": "https://www.semanticscholar.org/paper/1de0e8af1e51b58fc33008abc41a9f746a519803",
+        "abstract": "The standard assumptions that underlie many conceptual and quantitative frameworks do not hold for many complex physical, biological, and social systems. Complex systems science clarifies when and why such assumptions fail and provides alternative frameworks for understanding the properties of complex systems. This review introduces some of the basic principles of complex systems science, including complexity profiles, the tradeoff between efficiency and adaptability, the necessity of matching the complexity of systems to that of their environments, multiscale analysis, and evolutionary processes. Our focus is on the general properties of systems as opposed to the modeling of specific dynamics; rather than provide a comprehensive review, we pedagogically describe a conceptual and analytic approach for understanding and interacting with the complex systems of our world. This paper assumes only a high school mathematical and scientific background so that it may be accessible to academics in all fields, decision-makers in industry, government, and philanthropy, and anyone who is interested in systems and society.",
+        "source": "semantic_scholar",
+        "score": 0.468,
+        "matched_concept": "complex"
+      },
+      {
+        "title": "Introduction to Complex Systems",
+        "url": "https://www.semanticscholar.org/paper/70ea9eb082d114939afdc21a8e159e1cd1e94141",
+        "abstract": "The science of complex systems is not an offspring of physics, biology, or the socialsciences, but a unique mix of all three. By recalling what these diciplines are, wedevelop an intuitive feel for complex systems and for how this science differs from otherdisciplines. This chapter aims to show that the science of complex systems combinesphysics, biology, and the social sciences in a unique blend that is a new discipline in itsown right. We review a few classical concepts of the science of complex systems andemphasize the importance of co-evolution of states of components and their interaction.The chapter clarifies the structure of the book.",
+        "source": "semantic_scholar",
+        "score": 0.502,
+        "matched_concept": "complex"
+      },
+      {
+        "title": "Introduction to artificial intelligence in medicine",
+        "url": "https://www.semanticscholar.org/paper/0f1c31aa40a7d0b3ba68a6d1ef2bfc92e7f8ae0d",
+        "abstract": "Abstract The term Artificial Intelligence (AI) was coined by John McCarthy in 1956 during a conference held on this subject. However, the possibility of machines being able to simulate human behavior and actually think was raised earlier by Alan Turing who developed the Turing test in order to differentiate humans from machines. Since then, computational power has grown to the point of instant calculations and the ability evaluate new data, according to previously assessed data, in real time. Today, AI is integrated into our daily lives in many forms, such as personal assistants (Siri, Alexa, Google assistant etc.), automated mass transportation, aviation and computer gaming. More recently, AI has also begun to be incorporated into medicine to improve patient care by speeding up processes and achieving greater accuracy, opening the path to providing better healthcare overall. Radiological images, pathology slides, and patients’ electronic medical records (EMR) are being evaluated by machine learning, aiding in the process of diagnosis and treatment of patients and augmenting physicians’ capabilities. Herein we describe the current status of AI in medicine, the way it is used in the different disciplines and future trends.",
+        "source": "semantic_scholar",
+        "score": 0.315,
+        "matched_concept": "artificial"
+      },
+      {
+        "title": "Gentle Introduction to Artificial Intelligence for High-School Students Using Scratch",
+        "url": "https://www.semanticscholar.org/paper/3090f615feb56cb13da0cfc7bbcb1b6b8dbe0a7d",
+        "abstract": "The importance of educating the next generations in the understanding of the fundamentals of the upcoming scientific and technological innovations that will force a broad social and economical paradigm change can not be overstressed. One such breakthrough technologies is Artificial Intelligence (AI), specifically machine learning algorithms. Nowadays, the public has little understanding of the workings and implications of AI techniques that are already entering their lives in many ways. We aim to achieve widespread public understanding of these issues in an experiential learning framework. Following a design based research approach, we propose to implement program coding scaffoldings to teach and experiment some basic mechanisms of AI systems. Such experiments would be shedding new light into AI potentials and limitations. In this paper we focus on innovative ways to introduce high school students to the fundamentals and operation of two of the most popular AI algorithms. We describe the elements of a workshop where we provide an academic use-create-modify scaffolding where students work on the Scratch partial coding of the algorithms so they can explore the behavior of the algorithm, gaining understanding of the underlying computational thinking of AI processes. The extent of the impact on the students of this experience is measured through questionnaires filled before and after participation in the workshop. Preliminary experiments offer encouraging results, showing that the workshop has differential impact on the way students understand AI.",
+        "source": "semantic_scholar",
+        "score": 0.316,
+        "matched_concept": "artificial"
+      },
+      {
+        "title": "Introduction to Professor Jacques Rancière",
+        "url": "https://www.semanticscholar.org/paper/d51dad06d1981e5cbab55be166854a8dd55cf4ef",
+        "abstract": "It’s my very great pleasure to introduce Professor Jacques Rancière. Professor Rancière is the Emeritus Professor of Aesthetics and Politics at the University of Paris VIII where he taught from 1969 to 2000. He continues to teach, as a visiting professor, in a number of American universities, including Rutgers, Harvard, Johns Hopkins, and Berkeley. Widely regarded as one of Europe’s foremost contemporary intellectuals, Professor Rancière has published 18 books, with another due for publication in February. His work covers an extraordinary range of topics: from pedagogy, political theory, historiography, workers’ history, cinema and photography through to literature. His work has been translated into 14 languages, and has been subject to numerous special issues, symposia and critical commentaries. His latest titles to appear in English translation are Disagreement, Politics and Philosophy (1998), Short Voyages to the Land of the People (2003), The Flesh of Words (2004a), The Philosopher and his Poor (2004b), The Politics of Aesthetics (2005) and Film Fables (2006), while The Hatred of Democracy is soon to be published. Professor Rancière’s work is characterized throughout by the articulation of startling theses on the nature of communication and hierarchy, theses which he then proceeds to unfold, or allows to unfold, in the reader’s mind. His 1987 book, The Ignorant Schoolmaster, concerns Joseph Jacotot, a pedagogue who discovered, in 1818, that it is possible to teach what one does not know (Rancière, 1991). The idea that you can teach what you do not know may seem paradoxical, but I think it will also make sense to those of us who teach in creative arts faculties. There would simply be no point in teaching if we already knew what the poets, visual artists and novelists whom we teach were going to produce. In so far as we act to elicit another’s creativity, we teach what we do not know. I think one can apply such an analysis with equal justice to the work we do in the humanities too. If you’ve ever had the strange experience of someone thanking you for an idea they received from you in a lecture or a paper, when you’re quite sure you never actually said just what they’ve attributed to you, you’ll know what I mean. By drawing our attention to such gaps and sutures in the transmission of knowledge, Professor Rancière’s work puts us in a space that is also",
+        "source": "semantic_scholar",
+        "score": 0.338,
+        "matched_concept": "professor"
+      },
+      {
+        "title": "An introduction to domain adaptation and transfer learning",
+        "url": "https://www.semanticscholar.org/paper/c98bcc8689c34d72fd0b696f2a49e7f86d151782",
+        "abstract": "In machine learning, if the training data is an unbiased sample of an underlying distribution, then the learned classification function will make accurate predictions for new samples. However, if the training data is not an unbiased sample, then there will be differences between how the training data is distributed and how the test data is distributed. Standard classifiers cannot cope with changes in data distributions between training and test phases, and will not perform well. Domain adaptation and transfer learning are sub-fields within machine learning that are concerned with accounting for these types of changes. Here, we present an introduction to these fields, guided by the question: when and how can a classifier generalize from a source to a target domain? We will start with a brief introduction into risk minimization, and how transfer learning and domain adaptation expand upon this framework. Following that, we discuss three special cases of data set shift, namely prior, covariate and concept shift. For more complex domain shifts, there are a wide variety of approaches. These are categorized into: importance-weighting, subspace mapping, domain-invariant spaces, feature augmentation, minimax estimators and robust algorithms. A number of points will arise, which we will discuss in the last section. We conclude with the remark that many open questions will have to be addressed before transfer learners and domain-adaptive classifiers become practical.",
+        "source": "semantic_scholar",
+        "score": 0.388,
+        "matched_concept": "adaptation"
+      },
+      {
+        "title": "Human adaptation to climate change: An introduction to the special issue",
+        "url": "https://www.semanticscholar.org/paper/575be82631acce808ff9a5477625b6cf0bef5b32",
+        "abstract": "Despite our focus on adaptation and human responses to climate, evolutionary and biological anthropologists (EBAs) are largely absent from conversations about contemporary “climate‐change adaptation,” a term popular in other disciplines, the development world, and related policy decisions. EBAs are missing a big opportunity to contribute to impactful, time‐sensitive applied work: we have extensive theoretical and empirical knowledge pertinent to conversations about climate‐change adaptation and to helping support communities as they cope. This special issue takes a tour of EBA contributions to our understanding of climate‐change adaptation, from data on past and contemporary human communities to theoretically informed predictions about how individuals and communities will respond to climate change now and in the future. First, however, we must establish what we mean by “climate change” and “adaptation,” along with other terms commonly used by EBAs; review what EBAs know about adaptation and about human responses to climate change; and identify just a few topics EBAs study that are pertinent to ongoing conversations about climate‐change adaptation. In this article, we do just that.",
+        "source": "semantic_scholar",
+        "score": 0.417,
+        "matched_concept": "adaptation"
+      },
+      {
+        "title": "The governance of adaptation: choices, reasons, and effects. Introduction to the Special Feature",
+        "url": "https://www.semanticscholar.org/paper/39233a3514396b942c6041097fade1a560277234",
+        "abstract": "The governance of climate adaptation involves the collective efforts of multiple societal actors to address problems, or to reap the benefits, associated with impacts of climate change. Governing involves the creation of institutions, rules and organizations, and the selection of normative principles to guide problem solution and institution building. We argue that actors involved in governing climate change adaptation, as climate change governance regimes evolve, inevitably must engage in making choices, for instance on problem definitions, jurisdictional levels, on modes of governance and policy instruments, and on the timing of interventions. Yet little is known about how and why these choices are made in practice, and how such choices affect the outcomes of our efforts to govern adaptation. In this introduction we review the current state of evidence and the specific contribution of the articles published in this Special Feature, which are aimed at bringing greater clarity in these matters, and thereby informing both governance theory and practice. Collectively, the contributing papers suggest that the way issues are defined has important consequences for the support for governance interventions, and their effectiveness. The articles suggest that currently the emphasis in adaptation governance is on the local and regional levels, while underscoring the benefits of interventions and governance at higher jurisdictional levels in terms of visioning and scaling-up effective approaches. The articles suggest that there is a central role of government agencies in leading governance interventions to address spillover effects, to provide public goods, and to promote the long-term perspectives for planning. They highlight the issue of justice in the governance of adaptation showing how governance measures have wide distributional consequences, including the potential to amplify existing inequalities, access to resources, or generating new injustices through distribution of risks. For several of these findings, future research directions are suggested.",
+        "source": "semantic_scholar",
+        "score": 0.314,
+        "matched_concept": "adaptation"
+      },
+      {
+        "title": "The Global Adaptation Mapping Initiative (GAMI): Part 1 – Introduction and overview of methods",
+        "url": "https://www.semanticscholar.org/paper/0e75b5958cf01a0023db8f1cd3a743509662f469",
+        "abstract": "\n Context: It is now widely accepted that the climate is changing, and that societal responses will need to be rapid and comprehensive to prevent the most severe impacts. A key milestone in global climate governance is to assess progress on adaptation. To-date, however, there has been negligible robust, systematic synthesis of progress on adaptation or adaptation-relevant responses globally. Aim: The purpose of this review protocol is to outline the methods used by the Global Adaptation Mapping Initiative (GAMI) to systematically review human adaptation responses to climate-related changes that have been documented globally since 2013 in the scientific literature. The broad question underpinning this review is: Are we adapting to climate change? More specifically, we ask ‘what is the evidence relating to human adaptation-related responses that can (or are) directly reducing risk, exposure, and/or vulnerability to climate change?’ This work responds to the recognition of the need for high-level syntheses of adaptation research to inform global and regional climate assessments.Methods: We review scientific literature 2013-2019 to identify documents empirically reporting on observed adaptation-related responses to climate change in human systems that can directly reduce risk. We exclude non-empirical (theoretical & conceptual) literature and adaptation in natural systems that occurs without human intervention. Included documents were coded across a set of questions focused on: Who is responding? What responses are documented? What is the extent of the adaptation-related response? What is the evidence that adaptation-related responses reduce risk, exposure and/or vulnerability? Once articles are coded, we conduct a quality appraisal of the coding and develop ‘evidence packages’ for regions and sectors. We supplement this systematic mapping with an expert elicitation exercise, undertaken to assess bias and validity of insights from included/coded literature vis a vis perceptions of real-world adaptation for global regions and sectors, with associated confidence assessments. Related protocols: This protocol represents Part 1 of a 5-part series outlining the phases of methods for this initiative. Part 1 provides an introduction to the Global Adaptation Mapping Initiative (GAMI) and an overview of methods.",
+        "source": "semantic_scholar",
+        "score": 0.418,
+        "matched_concept": "adaptation"
+      },
+      {
+        "title": "Adaptive Learning Using Artificial Intelligence in e-Learning: A Literature Review",
+        "url": "https://www.semanticscholar.org/paper/f54faf827b5ccd529bd602659f607db6560dfb85",
+        "abstract": "The rapid evolution of e-learning platforms, propelled by advancements in artificial intelligence (AI) and machine learning (ML), presents a transformative potential in education. This dynamic landscape necessitates an exploration of AI/ML integration in adaptive learning systems to enhance educational outcomes. This study aims to map the current utilization of AI/ML in e-learning for adaptive learning, elucidating the benefits and challenges of such integration and assessing its impact on student engagement, retention, and performance. A comprehensive literature review was conducted, focusing on articles published from 2010 onwards, to document the integration of AI/ML in e-learning. The review analyzed 63 articles, employing a systematic approach to evaluate the deployment of adaptive learning algorithms and their educational implications. Findings reveal that AI/ML algorithms are instrumental in personalizing learning experiences. These technologies have been shown to optimize learning paths, enhance engagement, and improve academic performance, with some studies reporting increased test scores. The integration of AI/ML in e-learning platforms significantly contributes to the personalization and effectiveness of the educational process. Despite challenges like data privacy and the complexity of AI/ML systems, the results underscore the potential of adaptive learning to revolutionize education by catering to individual learner needs.",
+        "source": "semantic_scholar",
+        "score": 0.328,
+        "matched_concept": "adaptive"
+      },
+      {
+        "title": "Adaptive optics based on machine learning: a review",
+        "url": "https://www.semanticscholar.org/paper/f552484f6eec689dd01dedb25d178dc28f6662d2",
+        "abstract": "Adaptive optics techniques have been developed over the past half century and routinely used in large ground-based telescopes for more than 30 years. Although this technique has already been used in various applications, the basic setup and methods have not changed over the past 40 years. In recent years, with the rapid development of artificial intelligence, adaptive optics will be boosted dramatically. In this paper, the recent advances on almost all aspects of adaptive optics based on machine learning are summarized. The state-of-the-art performance of intelligent adaptive optics are reviewed. The potential advantages and deficiencies of intelligent adaptive optics are also discussed. Adaptive based on machine learning: �a review. Opto-Electron",
+        "source": "semantic_scholar",
+        "score": 0.457,
+        "matched_concept": "adaptive"
+      },
+      {
+        "title": "Multichannel adaptive signal detection: basic theory and literature review",
+        "url": "https://www.semanticscholar.org/paper/e692504eaa2bc13912b96f5adf2c73c4893985fa",
+        "abstract": "Multichannel adaptive signal detection uses test and training data jointly to form an adaptive detector to determine whether a target exists. The resulting adaptive detectors typically possess constant false alarm rate (CFAR) properties; thus, no additional CFAR processing is required. In addition, a filtering process is also not required because the filtering function is embedded in the adaptive detector. Adaptive detection typically exhibits better detection performance than the filtering-then-CFAR detection technique. It has been approximately 35 years since the first multichannel adaptive detector was proposed by Kelly in 1986. However, there are few overview articles on this topic. Thus, in this study, we present a tutorial overview of multichannel adaptive signal detection with an emphasis on the Gaussian background. We discuss the main design criteria for adaptive detectors, investigate the relationship between adaptive detection and filtering-then-CFAR detection techniques, investigate the relationship between adaptive detectors and adaptive filters, summarize typical adaptive detectors, present numerical examples, provide a comprehensive literature review, and discuss potential future research tracks.",
+        "source": "semantic_scholar",
+        "score": 0.323,
+        "matched_concept": "adaptive"
+      }
+    ]
+  },
+  {
+    "abstract_title": "Impact of Artificial Intelligence in Customer Journey",
+    "papers": [
+      {
+        "title": "Energy harvesting for self-powered nanosystems",
+        "url": "https://www.semanticscholar.org/paper/7de4103a58f4562d7ff3af576fe1e73288ee6b6f",
+        "abstract": "In this article, an introduction is presented about the energy harvesting technologies that have potential for powering nanosystems. Our discussion mainly focuses on the approaches other than the well-known solar cell and thermoelectrics. We mainly introduce the piezoelectric nanogenerators developed using aligned ZnO nanowire arrays. This is a potential technology for converting mechanical movement energy (such as body movement, muscle stretching, blood pressure), vibration energy (such as acoustic/ultrasonic wave), and hydraulic energy (such as fl ow of body fl uid, blood fl ow, contraction of blood vessel, dynamic fl uid in nature) into electric energy for self-powered nanosystems.",
+        "source": "semantic_scholar",
+        "score": 0.311,
+        "matched_concept": "powered"
+      },
+      {
+        "title": "From health behaviours to health practices: an introduction.",
+        "url": "https://www.semanticscholar.org/paper/291e68fbae1cf580f39a4d559e09c4e1b14836a0",
+        "abstract": "The concept of health behaviour has become ubiquitous in health-related research and intervention studies, as well as among policymakers. Developed from psychology, it is based on a number of key underlying assumptions that enable it to be integrated in an existing health research paradigm. However, by conceiving individual health behaviour as discrete, stable, homogeneous and measurable, many other aspects of health-related activities, in particular those relating to power and sociality, are excluded. As a consequence, any genuine contribution from medical sociology or related disciplines is, at best, limited. To counter this, it is proposed that reconceptualising what people do in terms of health practices, rather than health behaviour, captures the emergent and contingent properties of people's activities in particular situations. Rather than serving as a direct replacement term, and thus reproducing the same epistemological assumptions, it is argued that its very flexibility and capacity to articulate different theoretical orientations is likely to be its major strength.",
+        "source": "semantic_scholar",
+        "score": 0.342,
+        "matched_concept": "behaviours"
+      },
+      {
+        "title": "Introduction to Customer Relationship Marketing",
+        "url": "https://www.semanticscholar.org/paper/d32721094e3cf87d4d711580729f949226b14fe8",
+        "abstract": "In Chapter 1, we provide a formal definition of marketing followed by several definitions of relationship marketing highlighting the key aspects of this concept. Customer relationship marketing (CRM) opportunities are embedded in the entire customer journey spanning several touch points across all stages including prepurchase, purchase, and postpurchase stage. Customer relationship marketing evolved from a traditional marketing concept and has broadened its scope today, intersecting with the following domains, namely customer buying behavior process models, customer satisfaction and loyalty, service quality, customer relationship management tools and strategies, customer centricity, and customer engagement activities. In this chapter, we present a structure of how the book is organized and provide a brief summary of the contents broken down by chapters (Chapters 2 to 11). At the end of each chapter, we provide key takeaways and conclude with discussion questions and HBS and Ivey cases. But first, to give a flavor of CRM, we provide some real-life vignettes.",
+        "source": "semantic_scholar",
+        "score": 0.428,
+        "matched_concept": "customer"
+      },
+      {
+        "title": "Introduction to the Handbook on Customer Centricity",
+        "url": "https://www.semanticscholar.org/paper/02e1e5034cd422be4bb8a8139e2cde2bd8d642d4",
+        "abstract": "Customer centricity appears in a wide array of industries and companies and it manifests across different organizational levels. Therefore it is not surprising that various definitions of customer centricity have emerged from both academic and business communities. In academic settings, researchers often describe the concept by comparing it to product centricity (Rust, Moorman, and Bhalla 2010; Sawhney 2001; Shah et al. 2006). Yet unlike product centricity, which embraces an inside-out perspective, customer centricity goes hand-in-hand with an outside-in perspective, requiring a customer-centric culture (Deshpandé, Farley, and Webster 1993) and the new organizational structures that dismantle internal product silos (Day and Moorman 2010; Gulati 2010). Other researchers explain customer centricity in a context of targeting strategies or customer valuation process (i.e., evaluating the value of specific customers) (CMO Council 2013; Fader 2012). Table 1.1 provides a summary of definitions, reflecting the academic perspective on customer centricity. In the business community, practitioners share a related but more action-oriented perspective on customer centricity (Booz & Company 2004; Economist Intelligence Unit 2008), as summarized in Table 1.2. The managerial perspective focuses on the imperative for executing customercentric strategies and the required internal transformations that span organizational, relational, and technological aspects (Accenture 2008; Deloitte 2014; PwC 2011). Both these perspectives agree though: The primary purpose of being customer-centric is to create value for both customers and firms by developing a deep understanding of customers and building long-term customer relationships (Boston Consulting Group 2013; Fader 2012; Sheth, Sisodia, and Sharma 2000). It requires a long-term orientation and leadership support from the top to make it an organizational reality. Synthesizing academic literature and business reports, we define",
+        "source": "semantic_scholar",
+        "score": 0.364,
+        "matched_concept": "customer"
+      },
+      {
+        "title": "Why did they do it? How customers’ self-service technology introduction attributions affect the customer-provider relationship",
+        "url": "https://www.semanticscholar.org/paper/84b9f3817a06a1f4cb3897136f2eac21424d2c27",
+        "abstract": "Purpose – Customers often think that innovations, such as self-service technologies (SSTs), are introduced by service providers to cut costs rather than extend customer service levels. The purpose of this paper is to investigate how customers use such attributions to adjust their perceptions of relational value. Design/methodology/approach – Drawing on attribution and relationship marketing theories, this study proposes a conceptual model that includes benefit and cost attributions, their antecedents, and consequences. Survey data came from customers of a supermarket that recently introduced self-scanning technology. Findings – Attributions mediate the impact of SST performance on relational value. This value is highest for customers with high-benefit and low-cost attributions; customers with low-benefit and low-cost attributions exhibit detrimental effects on the exchange relationship with the firm. Characterized by low self-efficacy, low education, and low spending, these latter customers appear ambival...",
+        "source": "semantic_scholar",
+        "score": 0.358,
+        "matched_concept": "customer"
+      },
+      {
+        "title": "Introduction: Is Customer Satisfaction (Ir)relevant as a Metric?",
+        "url": "https://www.semanticscholar.org/paper/4c58dbdbc9c3dbed803dfc31bc77050f5d57ab5f",
+        "abstract": "In the preceding article, Fornell, Morgeson, and Hult (2016b) find that customer satisfaction produces abnormal returns and that customer satisfaction does have a direct and tangible financial benefit for firms. Given the unconventional nature of their findings, the authors’ research will be of great interest to marketing academics. In addition, this research will be of direct relevance to marketing practitioners in demonstrating the financial impact of customer satisfaction and reemphasizing the importance of managing customers effectively.",
+        "source": "semantic_scholar",
+        "score": 0.427,
+        "matched_concept": "customer"
+      }
+    ]
+  },
+  {
+    "abstract_title": "Explainable Artificial Intelligence (XAI)",
+    "papers": [
+      {
+        "title": "Introduction to diagnostic test accuracy studies.",
+        "url": "https://www.semanticscholar.org/paper/a63da3618d1e34d768bccd5a65de51a879257a77",
+        "abstract": "Diagnostic accuracy studies are fundamental for the assessment of diagnostic tests. Researchers need to understand the implications of their chosen design, opting for comparative designs where possible. Researchers should analyse test accuracy studies using the appropriate methods, acknowledging the uncertainty of results and avoiding overstating conclusions and ignoring the clinical situation which should inform the trade-off between sensitivity and specificity. Test accuracy studies should be reported with transparency using the STAndards for the Reporting of Diagnostic accuracy studies (STARD) checklist.",
+        "source": "semantic_scholar",
+        "score": 0.419,
+        "matched_concept": "accuracy"
+      },
+      {
+        "title": "Introduction to artificial intelligence in medicine",
+        "url": "https://www.semanticscholar.org/paper/0f1c31aa40a7d0b3ba68a6d1ef2bfc92e7f8ae0d",
+        "abstract": "Abstract The term Artificial Intelligence (AI) was coined by John McCarthy in 1956 during a conference held on this subject. However, the possibility of machines being able to simulate human behavior and actually think was raised earlier by Alan Turing who developed the Turing test in order to differentiate humans from machines. Since then, computational power has grown to the point of instant calculations and the ability evaluate new data, according to previously assessed data, in real time. Today, AI is integrated into our daily lives in many forms, such as personal assistants (Siri, Alexa, Google assistant etc.), automated mass transportation, aviation and computer gaming. More recently, AI has also begun to be incorporated into medicine to improve patient care by speeding up processes and achieving greater accuracy, opening the path to providing better healthcare overall. Radiological images, pathology slides, and patients’ electronic medical records (EMR) are being evaluated by machine learning, aiding in the process of diagnosis and treatment of patients and augmenting physicians’ capabilities. Herein we describe the current status of AI in medicine, the way it is used in the different disciplines and future trends.",
+        "source": "semantic_scholar",
+        "score": 0.315,
+        "matched_concept": "artificial"
+      },
+      {
+        "title": "Gentle Introduction to Artificial Intelligence for High-School Students Using Scratch",
+        "url": "https://www.semanticscholar.org/paper/3090f615feb56cb13da0cfc7bbcb1b6b8dbe0a7d",
+        "abstract": "The importance of educating the next generations in the understanding of the fundamentals of the upcoming scientific and technological innovations that will force a broad social and economical paradigm change can not be overstressed. One such breakthrough technologies is Artificial Intelligence (AI), specifically machine learning algorithms. Nowadays, the public has little understanding of the workings and implications of AI techniques that are already entering their lives in many ways. We aim to achieve widespread public understanding of these issues in an experiential learning framework. Following a design based research approach, we propose to implement program coding scaffoldings to teach and experiment some basic mechanisms of AI systems. Such experiments would be shedding new light into AI potentials and limitations. In this paper we focus on innovative ways to introduce high school students to the fundamentals and operation of two of the most popular AI algorithms. We describe the elements of a workshop where we provide an academic use-create-modify scaffolding where students work on the Scratch partial coding of the algorithms so they can explore the behavior of the algorithm, gaining understanding of the underlying computational thinking of AI processes. The extent of the impact on the students of this experience is measured through questionnaires filled before and after participation in the workshop. Preliminary experiments offer encouraging results, showing that the workshop has differential impact on the way students understand AI.",
+        "source": "semantic_scholar",
+        "score": 0.316,
+        "matched_concept": "artificial"
+      },
+      {
+        "title": "An introduction to decision science for conservation",
+        "url": "https://www.semanticscholar.org/paper/a66572baa011de7dcd2afcd0fc5020bbe1129a48",
+        "abstract": "Biodiversity conservation decisions are difficult, especially when they involve differing values, complex multidimensional objectives, scarce resources, urgency, and considerable uncertainty. Decision science embodies a theory about how to make difficult decisions and an extensive array of frameworks and tools that make that theory practical. We sought to improve conceptual clarity and practical application of decision science to help decision makers apply decision science to conservation problems. We addressed barriers to the uptake of decision science, including a lack of training and awareness of decision science; confusion over common terminology and which tools and frameworks to apply; and the mistaken impression that applying decision science must be time consuming, expensive, and complex. To aid in navigating the extensive and disparate decision science literature, we clarify meaning of common terms: decision science, decision theory, decision analysis, structured decision‐making, and decision‐support tools. Applying decision science does not have to be complex or time consuming; rather, it begins with knowing how to think through the components of a decision utilizing decision analysis (i.e., define the problem, elicit objectives, develop alternatives, estimate consequences, and perform trade‐offs). This is best achieved by applying a rapid‐prototyping approach. At each step, decision‐support tools can provide additional insight and clarity, whereas decision‐support frameworks (e.g., priority threat management and systematic conservation planning) can aid navigation of multiple steps of a decision analysis for particular contexts. We summarize key decision‐support frameworks and tools and describe to which step of a decision analysis, and to which contexts, each is most useful to apply. Our introduction to decision science will aid in contextualizing current approaches and new developments, and help decision makers begin to apply decision science to conservation problems.",
+        "source": "semantic_scholar",
+        "score": 0.34,
+        "matched_concept": "decision"
+      },
+      {
+        "title": "GRADE Evidence to Decision (EtD) frameworks: a systematic and transparent approach to making well informed healthcare choices. 1: Introduction",
+        "url": "https://www.semanticscholar.org/paper/73d79d756c5d007b4b91089e2257a81e0bc4d759",
+        "abstract": "#### Summary points\n\nHealthcare decision making is complex. Decision-making processes and the factors (criteria) that decision makers should consider vary for different types of decisions, including clinical recommendations, coverage decisions, and health system or public health recommendations or decisions.1 2 3 4 However, some criteria are relevant for all of these decisions, including the anticipated effects of the options being considered, the certainty of the evidence for those effects (also referred to as quality of evidence or confidence in effect estimates), and the costs and feasibility of the options. Decision makers must make judgments about each relevant factor, informed by the best evidence that is available to them.\n\nOften, the processes that decision makers use, the criteria that they consider and the evidence that they …",
+        "source": "semantic_scholar",
+        "score": 0.407,
+        "matched_concept": "decision"
+      },
+      {
+        "title": "[GRADE Evidence to Decision (EtD) frameworks: a systematic and transparent approach to making well informed healthcare choices. 1: Introduction.]",
+        "url": "https://www.semanticscholar.org/paper/4f9272b4b77cbe7ce938562b0dab6a0d388dd48b",
+        "abstract": "Following the development of a unifying and transparent approach to grading the certainty of evidence and strength or recommendations, the GRADE (Grading of Recommendations Assessment, Development and Evaluation) Working Group has refined its process of moving from Evidence to Decisions. The purpose of its new Evidence to Decision (EtD) frameworks is to help people use evidence in a structured and transparent way to inform decisions in the context of clinical recommendations, coverage decisions, and health system or public health recommendations and decisions. EtD frameworks inform users about the judgments that were made and the evidence supporting those judgments by making the basis for decisions transparent to target audiences. EtD frameworks also facilitate dissemination of recommendations and enable decision makers in other jurisdictions to adopt recommendations or decisions, or adapt them to their context.",
+        "source": "semantic_scholar",
+        "score": 0.348,
+        "matched_concept": "decision"
+      },
+      {
+        "title": "How to Write the Introduction to a Scientific Paper?",
+        "url": "https://www.semanticscholar.org/paper/6f86627e6294c737395c2aba56302b868d33f5eb",
+        "abstract": "An Introduction to a scientific paper familiarizes the reader with the background of the issue at hand. It must reflect why the issue is topical and its current importance in the vast sea of research being done globally. It lays the foundation of biomedical writing and is the first portion of an article according to the IMRAD pattern (Introduction, Methodology, Results, and Discussion) [1].",
+        "source": "semantic_scholar",
+        "score": 0.317,
+        "matched_concept": "paper"
+      }
+    ]
+  }
+]

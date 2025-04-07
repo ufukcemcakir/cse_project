@@ -1,0 +1,466 @@
+
+===== 🔎 Run at 2025-04-07 22:32:22 =====
+
+=== Abstract 1/2: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+- Hybrid Systems Knowledge Representation Using Modelling Environment
+  System Techniques Artificial Intelligence (arxiv)
+  http://arxiv.org/abs/1409.1170v2
+- AI, Machine Learning, and ChatGPT in Hypertension. (semantic_scholar)
+  https://www.semanticscholar.org/paper/3e26e01a2f24aa88a56c56a88e1e557ee4e2879c
+- Detecting the Use of ChatGPT in University Newspapers by Analyzing Stylistic Differences with Machine Learning (semantic_scholar)
+  https://www.semanticscholar.org/paper/65bbbe19bd8599b2a50c93cb20c39d0a2676b974
+
+=== Abstract 2/2: Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI) ===
+- Embedding transparency in artificial intelligence machine learning models: managerial implications on predicting and explaining employee turnover (semantic_scholar)
+  https://www.semanticscholar.org/paper/5ba5e2e3223da8ec3b71ca74babb86157b80ba2b
+- From Black Box to Glass Box: Advancing Transparency in Artificial Intelligence Systems for Ethical and Trustworthy AI (semantic_scholar)
+  https://www.semanticscholar.org/paper/f4ee5e04140441b3df74810e94b30844cef959e3
+
+===== 🔎 Run at 2025-04-07 22:34:28 =====
+
+=== Abstract 1/2: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+- Hybrid Systems Knowledge Representation Using Modelling Environment
+  System Techniques Artificial Intelligence (arxiv)
+  http://arxiv.org/abs/1409.1170v2
+- Education in the Era of Generative Artificial Intelligence (AI): Understanding the Potential Benefits of ChatGPT in Promoting Teaching and Learning (semantic_scholar)
+  https://www.semanticscholar.org/paper/7b6a8c6d44e0f77bf930484e438d77b7465a69fb
+- ChatGPT in Artificial Intelligence Communication: The Future of Humanized Digitization (semantic_scholar)
+  https://www.semanticscholar.org/paper/3ce9ff5af8f4e47a149b9c32983eff927f1d0f40
+
+=== Abstract 2/2: Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI) ===
+- Examining correlation between trust and transparency with explainable
+  artificial intelligence (arxiv)
+  http://arxiv.org/abs/2108.04770v1
+- Foundation Model Transparency Reports (arxiv)
+  http://arxiv.org/abs/2402.16268v1
+
+===== 🔎 Run at 2025-04-07 22:45:36 =====
+
+=== Abstract 1/2: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+- The Dynamic Capabilities of Firms: an Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/df8fcfeb8bbf73e401c2814eb867653ee1272b09
+- Introduction to ChatGPT: A new revolution of artificial intelligence with machine learning algorithms and cybersecurity (semantic_scholar)
+  https://www.semanticscholar.org/paper/5bd1edd4e721daac968d20ba56aa2553aa14691d
+
+=== Abstract 2/2: Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI) ===
+- An Introduction to the Principle of Transparency in Automated Decision-Making Systems (semantic_scholar)
+  https://www.semanticscholar.org/paper/e54dee3cd8e7917490a9a08e5e204ed14c6debb1
+
+===== 🔎 Run at 2025-04-07 22:49:36 =====
+
+=== Abstract 1/2: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+- The Dynamic Capabilities of Firms: an Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/df8fcfeb8bbf73e401c2814eb867653ee1272b09
+- ChatGPT Utility in Healthcare Education, Research, and Practice: Systematic Review on the Promising Perspectives and Valid Concerns (semantic_scholar)
+  https://www.semanticscholar.org/paper/dfdf7ff01aa6f691831e663fd29bc71890be39e2
+
+=== Abstract 2/2: Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI) ===
+- Representation Engineering: A Top-Down Approach to AI Transparency (semantic_scholar)
+  https://www.semanticscholar.org/paper/58fdf550600fc3873729d466601c5d08a51ba8a0
+
+===== 🔎 Run at 2025-04-07 22:52:13 =====
+
+=== Abstract 1/2: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+- Mixed Capability Games (arxiv)
+  http://arxiv.org/abs/2208.04516v2
+- Trends and Practices in Process Capability Studies (arxiv)
+  http://arxiv.org/abs/1503.06885v1
+- Introduction to ChatGPT: A new revolution of artificial intelligence with machine learning algorithms and cybersecurity (semantic_scholar)
+  https://www.semanticscholar.org/paper/5bd1edd4e721daac968d20ba56aa2553aa14691d
+- In ChatGPT We Trust? Measuring and Characterizing the Reliability of
+  ChatGPT (arxiv)
+  http://arxiv.org/abs/2304.08979v2
+- Is ChatGPT Involved in Texts? Measure the Polish Ratio to Detect
+  ChatGPT-Generated Text (arxiv)
+  http://arxiv.org/abs/2307.11380v2
+
+=== Abstract 2/2: Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI) ===
+- Machine Learning Model Cards Transparency Review : Using model card toolkit (semantic_scholar)
+  https://www.semanticscholar.org/paper/61d93a88b4db300f963e6e1dfd86d0cb8b5d231f
+- SoK: Log Based Transparency Enhancing Technologies (arxiv)
+  http://arxiv.org/abs/2305.01378v3
+- Foundation Model Transparency Reports (arxiv)
+  http://arxiv.org/abs/2402.16268v1
+
+===== 🔎 Run at 2025-04-07 23:00:44 =====
+
+=== Abstract 1/45: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+
+===== 🔎 Run at 2025-04-07 23:04:49 =====
+
+=== Abstract 1/45: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+- The Dynamic Capabilities of Firms: an Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/df8fcfeb8bbf73e401c2814eb867653ee1272b09
+- Introduction to special topic forum on developing the dynamic capabilities of global companies across levels and locations (semantic_scholar)
+  https://www.semanticscholar.org/paper/6a8ec1f90a167b91a18c30a8330489f4286873e9
+- ChatGPT Utility in Healthcare Education, Research, and Practice: Systematic Review on the Promising Perspectives and Valid Concerns (semantic_scholar)
+  https://www.semanticscholar.org/paper/dfdf7ff01aa6f691831e663fd29bc71890be39e2
+- What Is the Impact of ChatGPT on Education? A Rapid Review of the Literature (semantic_scholar)
+  https://www.semanticscholar.org/paper/2c1d7e6f485da3b7189012227fed0a1839af353e
+- The use of ChatGPT in teaching and learning: a systematic review through SWOT analysis approach (semantic_scholar)
+  https://www.semanticscholar.org/paper/01ebd7e73378532fe33783be4cc5c73e5cf976a3
+
+=== Abstract 2/45: Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI) ===
+- Machine Learning Model Cards Transparency Review : Using model card toolkit (semantic_scholar)
+  https://www.semanticscholar.org/paper/61d93a88b4db300f963e6e1dfd86d0cb8b5d231f
+
+=== Abstract 3/45: Adaptation in Natural and Artificial Systems: An Introductory Analysis with Applications to Biology, Control, and Artificial Intelligence ===
+- An Introduction to Complex Systems Science and Its Applications (semantic_scholar)
+  https://www.semanticscholar.org/paper/1de0e8af1e51b58fc33008abc41a9f746a519803
+- Introduction to Complex Systems (semantic_scholar)
+  https://www.semanticscholar.org/paper/70ea9eb082d114939afdc21a8e159e1cd1e94141
+- Tutorial on understanding meta-learning for fast adaptation (semantic_scholar)
+  https://www.semanticscholar.org/paper/b652f6d35fe07ae1fa479c6b1a9042d74162a759
+- Introduction to Adaptive Arrays (semantic_scholar)
+  https://www.semanticscholar.org/paper/b20a6a2ed9793c07e94aed156fb44cc760d376e9
+
+=== Abstract 4/45: Impact of Artificial Intelligence in Customer Journey ===
+- Small businesses and FinTech: a systematic review and future directions (semantic_scholar)
+  https://www.semanticscholar.org/paper/5f715846adce8da77c4408ee05eda794db66cd5a
+- The Dynamic Capabilities of Firms: an Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/df8fcfeb8bbf73e401c2814eb867653ee1272b09
+- Introduction to special topic forum on developing the dynamic capabilities of global companies across levels and locations (semantic_scholar)
+  https://www.semanticscholar.org/paper/6a8ec1f90a167b91a18c30a8330489f4286873e9
+- Introduction to Customer Relationship Marketing (semantic_scholar)
+  https://www.semanticscholar.org/paper/d32721094e3cf87d4d711580729f949226b14fe8
+
+=== Abstract 5/45: Explainable Artificial Intelligence (XAI) ===
+- Consider the Alternatives: Navigating Fairness-Accuracy Tradeoffs via
+  Disqualification (arxiv)
+  http://arxiv.org/abs/2110.00813v1
+- An introduction to decision science for conservation (semantic_scholar)
+  https://www.semanticscholar.org/paper/a66572baa011de7dcd2afcd0fc5020bbe1129a48
+- This paper has been withdrawn (arxiv)
+  http://arxiv.org/abs/cond-mat/0309395v2
+
+=== Abstract 6/45: Revolutionizing healthcare: the role of artificial intelligence in clinical practice ===
+- Integration of Federated Learning and Blockchain in Healthcare: A Tutorial (semantic_scholar)
+  https://www.semanticscholar.org/paper/58fde52494d566d389ad0b04f6c2846bf9b12b20
+- Introduction to Clinical Psychology (semantic_scholar)
+  https://www.semanticscholar.org/paper/56dfc387d38e8f4c806283487bbf9612d5f11fb4
+- Introduction to Clinical Nutrition (semantic_scholar)
+  https://www.semanticscholar.org/paper/4eeb889d6a6b1c01234abee62a10c6e0d4a74b33
+- Human Face as human single identity (arxiv)
+  http://arxiv.org/abs/1405.6168v1
+- User or Labor: An Interaction Framework for Human-Machine Relationships
+  in NLP (arxiv)
+  http://arxiv.org/abs/2211.01553v1
+
+=== Abstract 7/45: Collaborating With ChatGPT: Considering the Implications of Generative Artificial Intelligence for Journalism and Media Education ===
+- ChatGPT Utility in Healthcare Education, Research, and Practice: Systematic Review on the Promising Perspectives and Valid Concerns (semantic_scholar)
+  https://www.semanticscholar.org/paper/dfdf7ff01aa6f691831e663fd29bc71890be39e2
+- What Is the Impact of ChatGPT on Education? A Rapid Review of the Literature (semantic_scholar)
+  https://www.semanticscholar.org/paper/2c1d7e6f485da3b7189012227fed0a1839af353e
+- The use of ChatGPT in teaching and learning: a systematic review through SWOT analysis approach (semantic_scholar)
+  https://www.semanticscholar.org/paper/01ebd7e73378532fe33783be4cc5c73e5cf976a3
+- Artificial intelligence (AI) technology in OpenAI ChatGPT application: A review of ChatGPT in writing English essay (semantic_scholar)
+  https://www.semanticscholar.org/paper/c03452648d60b4acf3e98a582f660783a3be0ccc
+- Gender differences in students’ argumentative essay writing, peer review performance and uptake in online learning environments (semantic_scholar)
+  https://www.semanticscholar.org/paper/5e384400cb0f7b4763e888034ffcd096b610c248
+- An automated essay scoring systems: a systematic literature review (semantic_scholar)
+  https://www.semanticscholar.org/paper/dbc2d536b1f85d0e16c1f92999dead842815fdbf
+- A Brief Introduction to Generative Models (semantic_scholar)
+  https://www.semanticscholar.org/paper/bf21c05ace95daf9e4cae767fa54b295d4f2c913
+- A Mathematical Introduction to Generative Adversarial Nets (GAN) (semantic_scholar)
+  https://www.semanticscholar.org/paper/61f7cfc8f7d95700e4a27a9a4448c1ba6bd994fc
+- Impact of Artificial Intelligence on Journalism: A Comprehensive Review of AI in Journalism (semantic_scholar)
+  https://www.semanticscholar.org/paper/d0d1bb5f0d48cc5ba152746379b33b0d2b4c0537
+- Citizen journalism in Africa: A systematic literature review (semantic_scholar)
+  https://www.semanticscholar.org/paper/60bc6a99e9e10f385972e3d718b2e115a02aee33
+- DATA-DRIVEN JOURNALISM: ADVANCING NEWS REPORTING THROUGH ANALYTICS WITH A PRISMA-GUIDED REVIEW (semantic_scholar)
+  https://www.semanticscholar.org/paper/49197d99844774312bd514997277d3aa7570bf40
+- Collaborative Journalism Around the Globe: A Systematic Review (semantic_scholar)
+  https://www.semanticscholar.org/paper/731bbaaca1a2f847989448a9e408cecd28d500ab
+- Text as signal. A tutorial with case studies focusing on social media (Twitter) (semantic_scholar)
+  https://www.semanticscholar.org/paper/de760926247fd95fe59dcd4e6f2e6d3bedd775c7
+- Text Mining For Information Systems Researchers: An Annotated Topic Modeling Tutorial (semantic_scholar)
+  https://www.semanticscholar.org/paper/970635c00af4f6f670e91b9495641573962e9de1
+
+=== Abstract 8/45: Experimental evidence on the productivity effects of generative artificial intelligence ===
+- ChatGPT Utility in Healthcare Education, Research, and Practice: Systematic Review on the Promising Perspectives and Valid Concerns (semantic_scholar)
+  https://www.semanticscholar.org/paper/dfdf7ff01aa6f691831e663fd29bc71890be39e2
+- What Is the Impact of ChatGPT on Education? A Rapid Review of the Literature (semantic_scholar)
+  https://www.semanticscholar.org/paper/2c1d7e6f485da3b7189012227fed0a1839af353e
+- The use of ChatGPT in teaching and learning: a systematic review through SWOT analysis approach (semantic_scholar)
+  https://www.semanticscholar.org/paper/01ebd7e73378532fe33783be4cc5c73e5cf976a3
+- Wage Inequality in Germany after the Minimum Wage Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/0a5a8e7c2d0042b01bdf12c72c7c37e2032d84b4
+- Children’s and Adolescents’ Understanding and Experiences of Economic Inequality: An Introduction to the Special Section (semantic_scholar)
+  https://www.semanticscholar.org/paper/e39fa3d017e82da0cb5525efa4619648ea7bc68e
+- What We Talk About When We Talk About Inequality: An Introduction to the Journal of Management Studies Special Issue (semantic_scholar)
+  https://www.semanticscholar.org/paper/cc3c2b07cd3072a9073e45222ae922d1fb7459ef
+- Developing literature review writing and citation practices through an online writing tutorial series: Corpus-based evidence (semantic_scholar)
+  https://www.semanticscholar.org/paper/e36bab6cf70775bde6903e0c43600d3d6d689733
+- Questioning as advice resistance: writing tutorial interactions with L2 writers (semantic_scholar)
+  https://www.semanticscholar.org/paper/42f9195a8e09d85fb87a5c74f42a3904d365e067
+- IMPLEMENTING THE CONSTRUCTIVIST APPROACH OF THE FACE TO FACE TUTORIAL PROGRAM IN THE ACADEMIC WRITING COURSE (semantic_scholar)
+  https://www.semanticscholar.org/paper/c0f4158ae9c8aa7a3e990ce3f4fc546491e74126
+
+=== Abstract 9/45: Can artificial intelligence help for scientific writing? ===
+- Introduction to natural language processing: Building a basic chatbot (semantic_scholar)
+  https://www.semanticscholar.org/paper/85941e615b135efad5efa8100aaa67f70713798e
+- Beyond Chatbot-K: On Large Language Models, “Generative AI,” and Rise of Chatbots—An Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/f2a63e3b7f3c886950feb10d8329891e442544ce
+- ChatGPT Utility in Healthcare Education, Research, and Practice: Systematic Review on the Promising Perspectives and Valid Concerns (semantic_scholar)
+  https://www.semanticscholar.org/paper/dfdf7ff01aa6f691831e663fd29bc71890be39e2
+- What Is the Impact of ChatGPT on Education? A Rapid Review of the Literature (semantic_scholar)
+  https://www.semanticscholar.org/paper/2c1d7e6f485da3b7189012227fed0a1839af353e
+- The use of ChatGPT in teaching and learning: a systematic review through SWOT analysis approach (semantic_scholar)
+  https://www.semanticscholar.org/paper/01ebd7e73378532fe33783be4cc5c73e5cf976a3
+- Life in Schools: An Introduction to Critical Pedagogy in the Foundations of Education (semantic_scholar)
+  https://www.semanticscholar.org/paper/40ba545a46bac6618840a3b1ed5777ad6072296f
+- Developing literature review writing and citation practices through an online writing tutorial series: Corpus-based evidence (semantic_scholar)
+  https://www.semanticscholar.org/paper/e36bab6cf70775bde6903e0c43600d3d6d689733
+- Questioning as advice resistance: writing tutorial interactions with L2 writers (semantic_scholar)
+  https://www.semanticscholar.org/paper/42f9195a8e09d85fb87a5c74f42a3904d365e067
+- IMPLEMENTING THE CONSTRUCTIVIST APPROACH OF THE FACE TO FACE TUTORIAL PROGRAM IN THE ACADEMIC WRITING COURSE (semantic_scholar)
+  https://www.semanticscholar.org/paper/c0f4158ae9c8aa7a3e990ce3f4fc546491e74126
+- The Scientific Competitiveness of Nations (arxiv)
+  http://arxiv.org/abs/1409.5698v2
+- Scientific works citation analysis (arxiv)
+  http://arxiv.org/abs/1402.3418v1
+- Application of data acquisition methods in the field of scientific
+  research of public policy (arxiv)
+  http://arxiv.org/abs/2309.15973v2
+- Re-run, Repeat, Reproduce, Reuse, Replicate: Transforming Code into
+  Scientific Contributions (arxiv)
+  http://arxiv.org/abs/1708.08205v2
+
+=== Abstract 10/45: New Era of Artificial Intelligence in Education: Towards a Sustainable Multifaceted Revolution ===
+- Review of deep learning: concepts, CNN architectures, challenges, applications, future directions (semantic_scholar)
+  https://www.semanticscholar.org/paper/0084f3cb0a1754272151c5268a783f24bf5676a0
+- The Governance of Physical Artificial Intelligence (arxiv)
+  http://arxiv.org/abs/2304.02924v1
+- Three IQs of AI Systems and their Testing Methods (arxiv)
+  http://arxiv.org/abs/1712.06440v1
+- Measuring the intelligence of an idealized mechanical knowing agent (arxiv)
+  http://arxiv.org/abs/1912.09571v1
+- Academically intelligent LLMs are not necessarily socially intelligent (arxiv)
+  http://arxiv.org/abs/2403.06591v1
+- On a measure of intelligence (arxiv)
+  http://arxiv.org/abs/2409.14496v1
+- Introduction to Education (semantic_scholar)
+  https://www.semanticscholar.org/paper/16691529a5e507a6b6c537e62c88244d53b03cd0
+
+=== Abstract 11/45: A Review of the Role of Artificial Intelligence in Healthcare ===
+- Integration of Federated Learning and Blockchain in Healthcare: A Tutorial (semantic_scholar)
+  https://www.semanticscholar.org/paper/58fde52494d566d389ad0b04f6c2846bf9b12b20
+- Model and Integrate Medical Resource Availability into Verifiably
+  Correct Executable Medical Guidelines - Technical Report (arxiv)
+  http://arxiv.org/abs/1811.08064v1
+- Medical idioms for clinical Bayesian network development (arxiv)
+  http://arxiv.org/abs/2007.00364v2
+- Introduction to acceptance and commitment therapy (semantic_scholar)
+  https://www.semanticscholar.org/paper/bfdd57d37d00492fe6a375456fb70ed30d20ed56
+- Reviewing Administrative Review (semantic_scholar)
+  https://www.semanticscholar.org/paper/f9cd1e8a523aca75b2766a454aa9f0170a2c38fa
+- Validation studies of Japanese administrative health care data: A scoping review (semantic_scholar)
+  https://www.semanticscholar.org/paper/7a89af44f2a9302b99a14af37cd170e8aea4eff2
+
+=== Abstract 12/45: Artificial Intelligence in Pharmaceutical Technology and Drug Delivery Design ===
+- Drug discovery and development: introduction to the general public and patient groups (semantic_scholar)
+  https://www.semanticscholar.org/paper/01db3828987a60d2ebfd5afe9921c0e7108318bc
+- Machine learning algorithms review (semantic_scholar)
+  https://www.semanticscholar.org/paper/3583adbb346b0a53de70993081cbf13d552b77d6
+- Foundations of Development/Introduction to Development (semantic_scholar)
+  https://www.semanticscholar.org/paper/d6e8c6be4e04f1a393f1878c7bead9f922e750be
+- Gentle Introduction to the Statistical Foundations of False Discovery Rate in Quantitative Proteomics. (semantic_scholar)
+  https://www.semanticscholar.org/paper/8ee8373dc5edca019a9e8cf934891e9cad105eb2
+- A Detailed Case Study on Deviation, Out-of-Specification(OOS) and CAPA Generation in Pharmaceutical Industry (semantic_scholar)
+  https://www.semanticscholar.org/paper/d8345ba0f7d0b357f4248c849807bc8cd9347952
+- Pharmaceutical Pollution in Aquatic Environments: A Concise Review of Environmental Impacts and Bioremediation Systems (semantic_scholar)
+  https://www.semanticscholar.org/paper/b97aa83bced77adacdd096e73e2d5fcc5b49ce74
+
+=== Abstract 13/45: Accuracy of a Generative Artificial Intelligence Model in a Complex Diagnostic Challenge. ===
+- Consider the Alternatives: Navigating Fairness-Accuracy Tradeoffs via
+  Disqualification (arxiv)
+  http://arxiv.org/abs/2110.00813v1
+- A Brief Introduction to Generative Models (semantic_scholar)
+  https://www.semanticscholar.org/paper/bf21c05ace95daf9e4cae767fa54b295d4f2c913
+- A Mathematical Introduction to Generative Adversarial Nets (GAN) (semantic_scholar)
+  https://www.semanticscholar.org/paper/61f7cfc8f7d95700e4a27a9a4448c1ba6bd994fc
+- ICON Challenge on Algorithm Selection (arxiv)
+  http://arxiv.org/abs/1511.04326v1
+- A Framework for Challenge Design: Insight and Deployment Challenges to
+  Address Medical Image Analysis Problems (arxiv)
+  http://arxiv.org/abs/1911.08531v1
+- MUSE2020 challenge report (arxiv)
+  http://arxiv.org/abs/2009.14059v1
+- Will You Dance To The Challenge? Predicting User Participation of TikTok
+  Challenges (arxiv)
+  http://arxiv.org/abs/2112.13384v1
+
+=== Abstract 14/45: Artificial Intelligence in Medicine ===
+- The Road to Novelty – Part 0: Introduction to the Series the Road to Novelty (semantic_scholar)
+  https://www.semanticscholar.org/paper/8fe004068f01839dc04bb1010af7d59f7b8ed4df
+- Rat’s response to a novelty and increased complexity of the environment resulting from the introduction of movable vs. stationary objects in the free exploration test (semantic_scholar)
+  https://www.semanticscholar.org/paper/8d2623f35597323b04c1088a1c41109331fbf5d1
+- A tutorial on methodological studies: the what, when, how and why (semantic_scholar)
+  https://www.semanticscholar.org/paper/f7159212da671161cd93326e99c444881995e249
+- The research act: A theoretical introduction to sociological methods (semantic_scholar)
+  https://www.semanticscholar.org/paper/ebf861f12e7b59b450748171236ff8354b6314e8
+
+=== Abstract 15/45: Data-centric Artificial Intelligence: A Survey ===
+- Foundations of Development/Introduction to Development (semantic_scholar)
+  https://www.semanticscholar.org/paper/d6e8c6be4e04f1a393f1878c7bead9f922e750be
+- Metamodel Quality Requirements and Evaluation (MQuaRE) (arxiv)
+  http://arxiv.org/abs/2008.09459v2
+- Managing Quality Requirements Using Activity-Based Quality Models (arxiv)
+  http://arxiv.org/abs/1611.01287v1
+- Price competition with uncertain quality and cost (arxiv)
+  http://arxiv.org/abs/1903.03987v2
+- Quality-aware News Recommendation (arxiv)
+  http://arxiv.org/abs/2202.13605v1
+- A review of quality frameworks in information systems (arxiv)
+  http://arxiv.org/abs/1706.03030v1
+
+=== Abstract 16/45: Appropriateness of Cardiovascular Disease Prevention Recommendations Obtained From a Popular Online Chat-Based Artificial Intelligence Model. ===
+- Potential Effects of Coronaviruses on the Cardiovascular System: A Review. (semantic_scholar)
+  https://www.semanticscholar.org/paper/3f1a9961f9351541ddded8502ec8ccb68b77fa5c
+- Prevalence of cardiovascular disease in type 2 diabetes: a systematic literature review of scientific evidence from across the world in 2007–2017 (semantic_scholar)
+  https://www.semanticscholar.org/paper/39916278f6be1998db26fb0d8385d265ca0807fc
+- Lipoprotein(a) and its Significance in Cardiovascular Disease: A Review. (semantic_scholar)
+  https://www.semanticscholar.org/paper/2dc162e13c50244887b3a7d046501f4f96bdaa3b
+- The Governance of Physical Artificial Intelligence (arxiv)
+  http://arxiv.org/abs/2304.02924v1
+- Three IQs of AI Systems and their Testing Methods (arxiv)
+  http://arxiv.org/abs/1712.06440v1
+- Measuring the intelligence of an idealized mechanical knowing agent (arxiv)
+  http://arxiv.org/abs/1912.09571v1
+- Academically intelligent LLMs are not necessarily socially intelligent (arxiv)
+  http://arxiv.org/abs/2403.06591v1
+- On a measure of intelligence (arxiv)
+  http://arxiv.org/abs/2409.14496v1
+
+=== Abstract 17/45: Trustworthy artificial intelligence ===
+- Explainable AI for Safe and Trustworthy Autonomous Driving: A Systematic Review (semantic_scholar)
+  https://www.semanticscholar.org/paper/693de3a0b75e3f41b0102368afe45a0035a4042d
+- The METRIC-framework for assessing data quality for trustworthy AI in medicine: a systematic review (semantic_scholar)
+  https://www.semanticscholar.org/paper/272e8db56f6471e5b893824ed59e8072d4977580
+- GitHub Discussions: An Exploratory Study of Early Adoption (arxiv)
+  http://arxiv.org/abs/2102.05230v3
+- Towards a Theory of Requirements Elicitation: Acceptability Condition
+  for the Relative Validity of Requirements (arxiv)
+  http://arxiv.org/abs/0902.0924v1
+- New Trends in Solar-Neutrino Physics (arxiv)
+  http://arxiv.org/abs/astro-ph/9611201v1
+- Energy Efficiency and Economic Policy: Comprehensive Theoretical, Empirical, and Policy Review (semantic_scholar)
+  https://www.semanticscholar.org/paper/f8b0e218346099acb70be0118bddc418c1239fff
+
+=== Abstract 18/45: Empowering Education with Generative Artificial Intelligence Tools: Approach with an Instructional Design Matrix ===
+
+===== 🔎 Run at 2025-04-07 23:11:19 =====
+
+=== Abstract 1/45: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+
+===== 🔎 Run at 2025-04-07 23:12:11 =====
+
+=== Abstract 1/2: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+- The Dynamic Capabilities of Firms: an Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/df8fcfeb8bbf73e401c2814eb867653ee1272b09
+- Introduction to special topic forum on developing the dynamic capabilities of global companies across levels and locations (semantic_scholar)
+  https://www.semanticscholar.org/paper/6a8ec1f90a167b91a18c30a8330489f4286873e9
+- Introduction to ChatGPT: A new revolution of artificial intelligence with machine learning algorithms and cybersecurity (semantic_scholar)
+  https://www.semanticscholar.org/paper/5bd1edd4e721daac968d20ba56aa2553aa14691d
+- ChatGPT and AI in the Universities: An Introduction to the Near Future (semantic_scholar)
+  https://www.semanticscholar.org/paper/48dbd00b807c9cfdaf062e8c5226cd5820a6aba3
+
+=== Abstract 2/2: Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI) ===
+- An Introduction to the Principle of Transparency in Automated Decision-Making Systems (semantic_scholar)
+  https://www.semanticscholar.org/paper/e54dee3cd8e7917490a9a08e5e204ed14c6debb1
+- Introduction to special issue algorithmic transparency in government: Towards a multi-level perspective (semantic_scholar)
+  https://www.semanticscholar.org/paper/5c59fa20f9e87097ff43d8eb9dee1672d47c3ef6
+- Transparency in Qualitative Research: An Overview of Key Findings and Recommendations (Introduction to Working Paper Series: Qualitative Transparency Deliberations, Working Group Final Reports) (semantic_scholar)
+  https://www.semanticscholar.org/paper/7ba199cb93ae6c0d7cbd2ccb08625d69a2e1a196
+
+===== 🔎 Run at 2025-04-07 23:13:12 =====
+
+===== 🔎 Run at 2025-04-07 23:14:11 =====
+
+=== Abstract 1/1: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+- The Dynamic Capabilities of Firms: an Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/df8fcfeb8bbf73e401c2814eb867653ee1272b09
+- Introduction to ChatGPT: A new revolution of artificial intelligence with machine learning algorithms and cybersecurity (semantic_scholar)
+  https://www.semanticscholar.org/paper/5bd1edd4e721daac968d20ba56aa2553aa14691d
+
+===== 🔎 Run at 2025-04-07 23:15:08 =====
+
+=== Abstract 1/5: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+- Using ChatGPT to perform a systematic review: a tutorial. (semantic_scholar)
+  https://www.semanticscholar.org/paper/176b4cdc71d55cb90b2e0125b88c294e36523bc8
+- Is ChatGPT 'ready' to be a learning tool for medical undergraduates and will it perform equally in different subjects? Comparative study of ChatGPT performance in tutorial and case-based learning questions in physiology and biochemistry. (semantic_scholar)
+  https://www.semanticscholar.org/paper/b2b6d5c752c2934b76ec73c3ca681a01f36bf916
+- Proactive Conversational Agents in the Post-ChatGPT World (semantic_scholar)
+  https://www.semanticscholar.org/paper/49f97e7b63b0c6e592e256c0d47eb1f4150ad7e1
+- Data science through natural language with ChatGPT’s Code Interpreter (semantic_scholar)
+  https://www.semanticscholar.org/paper/e7495f95948888ee96309316e27bc888c5e42ec1
+- ChatGPT for editors: enhancing efficiency and effectiveness (semantic_scholar)
+  https://www.semanticscholar.org/paper/3f427ae9d7d3ee821edb53597d9f6119ef43b994
+- Statistical consulting guidelines for new researchers in psychiatry and mental health – beyond ChatGPT (semantic_scholar)
+  https://www.semanticscholar.org/paper/60af06ac2445fc914577d94f578641d54a3adbd6
+
+=== Abstract 2/5: Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI) ===
+- An Introduction to the Principle of Transparency in Automated Decision-Making Systems (semantic_scholar)
+  https://www.semanticscholar.org/paper/e54dee3cd8e7917490a9a08e5e204ed14c6debb1
+- Introduction to special issue algorithmic transparency in government: Towards a multi-level perspective (semantic_scholar)
+  https://www.semanticscholar.org/paper/5c59fa20f9e87097ff43d8eb9dee1672d47c3ef6
+- Transparency in Qualitative Research: An Overview of Key Findings and Recommendations (Introduction to Working Paper Series: Qualitative Transparency Deliberations, Working Group Final Reports) (semantic_scholar)
+  https://www.semanticscholar.org/paper/7ba199cb93ae6c0d7cbd2ccb08625d69a2e1a196
+- Introduction to Special Theme Veillance and transparency: A critical examination of mutual watching in the post-Snowden, Big Data era (semantic_scholar)
+  https://www.semanticscholar.org/paper/4f87ddfcd6b3649a4d40756342cce12074327449
+
+=== Abstract 3/5: Adaptation in Natural and Artificial Systems: An Introductory Analysis with Applications to Biology, Control, and Artificial Intelligence ===
+- An Introduction to Complex Systems Science and Its Applications (semantic_scholar)
+  https://www.semanticscholar.org/paper/1de0e8af1e51b58fc33008abc41a9f746a519803
+- Introduction to Complex Systems (semantic_scholar)
+  https://www.semanticscholar.org/paper/70ea9eb082d114939afdc21a8e159e1cd1e94141
+- Introduction to artificial intelligence in medicine (semantic_scholar)
+  https://www.semanticscholar.org/paper/0f1c31aa40a7d0b3ba68a6d1ef2bfc92e7f8ae0d
+- Gentle Introduction to Artificial Intelligence for High-School Students Using Scratch (semantic_scholar)
+  https://www.semanticscholar.org/paper/3090f615feb56cb13da0cfc7bbcb1b6b8dbe0a7d
+- Introduction to Professor Jacques Rancière (semantic_scholar)
+  https://www.semanticscholar.org/paper/d51dad06d1981e5cbab55be166854a8dd55cf4ef
+- An introduction to domain adaptation and transfer learning (semantic_scholar)
+  https://www.semanticscholar.org/paper/c98bcc8689c34d72fd0b696f2a49e7f86d151782
+- Human adaptation to climate change: An introduction to the special issue (semantic_scholar)
+  https://www.semanticscholar.org/paper/575be82631acce808ff9a5477625b6cf0bef5b32
+- The governance of adaptation: choices, reasons, and effects. Introduction to the Special Feature (semantic_scholar)
+  https://www.semanticscholar.org/paper/39233a3514396b942c6041097fade1a560277234
+- The Global Adaptation Mapping Initiative (GAMI): Part 1 – Introduction and overview of methods (semantic_scholar)
+  https://www.semanticscholar.org/paper/0e75b5958cf01a0023db8f1cd3a743509662f469
+- Adaptive Learning Using Artificial Intelligence in e-Learning: A Literature Review (semantic_scholar)
+  https://www.semanticscholar.org/paper/f54faf827b5ccd529bd602659f607db6560dfb85
+- Adaptive optics based on machine learning: a review (semantic_scholar)
+  https://www.semanticscholar.org/paper/f552484f6eec689dd01dedb25d178dc28f6662d2
+- Multichannel adaptive signal detection: basic theory and literature review (semantic_scholar)
+  https://www.semanticscholar.org/paper/e692504eaa2bc13912b96f5adf2c73c4893985fa
+
+=== Abstract 4/5: Impact of Artificial Intelligence in Customer Journey ===
+- Energy harvesting for self-powered nanosystems (semantic_scholar)
+  https://www.semanticscholar.org/paper/7de4103a58f4562d7ff3af576fe1e73288ee6b6f
+- From health behaviours to health practices: an introduction. (semantic_scholar)
+  https://www.semanticscholar.org/paper/291e68fbae1cf580f39a4d559e09c4e1b14836a0
+- Introduction to Customer Relationship Marketing (semantic_scholar)
+  https://www.semanticscholar.org/paper/d32721094e3cf87d4d711580729f949226b14fe8
+- Introduction to the Handbook on Customer Centricity (semantic_scholar)
+  https://www.semanticscholar.org/paper/02e1e5034cd422be4bb8a8139e2cde2bd8d642d4
+- Why did they do it? How customers’ self-service technology introduction attributions affect the customer-provider relationship (semantic_scholar)
+  https://www.semanticscholar.org/paper/84b9f3817a06a1f4cb3897136f2eac21424d2c27
+- Introduction: Is Customer Satisfaction (Ir)relevant as a Metric? (semantic_scholar)
+  https://www.semanticscholar.org/paper/4c58dbdbc9c3dbed803dfc31bc77050f5d57ab5f
+
+=== Abstract 5/5: Explainable Artificial Intelligence (XAI) ===
+- Introduction to diagnostic test accuracy studies. (semantic_scholar)
+  https://www.semanticscholar.org/paper/a63da3618d1e34d768bccd5a65de51a879257a77
+- Introduction to artificial intelligence in medicine (semantic_scholar)
+  https://www.semanticscholar.org/paper/0f1c31aa40a7d0b3ba68a6d1ef2bfc92e7f8ae0d
+- Gentle Introduction to Artificial Intelligence for High-School Students Using Scratch (semantic_scholar)
+  https://www.semanticscholar.org/paper/3090f615feb56cb13da0cfc7bbcb1b6b8dbe0a7d
+- An introduction to decision science for conservation (semantic_scholar)
+  https://www.semanticscholar.org/paper/a66572baa011de7dcd2afcd0fc5020bbe1129a48
+- GRADE Evidence to Decision (EtD) frameworks: a systematic and transparent approach to making well informed healthcare choices. 1: Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/73d79d756c5d007b4b91089e2257a81e0bc4d759
+- [GRADE Evidence to Decision (EtD) frameworks: a systematic and transparent approach to making well informed healthcare choices. 1: Introduction.] (semantic_scholar)
+  https://www.semanticscholar.org/paper/4f9272b4b77cbe7ce938562b0dab6a0d388dd48b
+- How to Write the Introduction to a Scientific Paper? (semantic_scholar)
+  https://www.semanticscholar.org/paper/6f86627e6294c737395c2aba56302b868d33f5eb
