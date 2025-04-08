@@ -4,8 +4,8 @@ import datetime
 
 OUTPUT_FILE = "reading_results.txt"
 FULLTEXT_JSONL_FILE = "local_papers_with_fulltext.jsonl"
-MAX_RESULTS_PER_CONCEPT = 4
-
+TEXTBOOK_FILE = "textbook_database.json"
+MAX_RESULTS_PER_CONCEPT = 3
 
 def load_papers(file_path, limit=MAX_RESULTS_PER_CONCEPT):
     papers = []
@@ -23,33 +23,42 @@ def load_papers(file_path, limit=MAX_RESULTS_PER_CONCEPT):
                 print(f"Warning: Skipping invalid line {i + 1}")
     return papers
 
-
 def log_to_file(text):
     with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
         f.write(text + "\n")
 
+def load_textbook_database():
+    try:
+        with open(TEXTBOOK_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except FileNotFoundError:
+        print("⚠️ No textbook database found.")
+        return {}
 
 def feed_papers_to_generator(papers, generator_function, max_results=5):
     timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     log_to_file(f"\n===== 🔎 Run at {timestamp} =====")
     results = []
 
+    # Load textbooks once and pass to generator
+    textbook_db = load_textbook_database()
+
     for idx, (title, fulltext) in enumerate(papers, 1):
         header = f"\n=== Paper {idx}/{len(papers)}: {title} ==="
         print(header)
         log_to_file(header)
 
-        recommended_papers = generator_function(fulltext, max_results=max_results)
-        if not recommended_papers:
+        papers = generator_function(fulltext, max_results=max_results, textbook_db=textbook_db)
+        if not papers:
             msg = "No relevant papers found."
             print(msg)
             log_to_file(msg)
             continue
 
-        result_entry = {"paper_title": title, "papers": recommended_papers}
+        result_entry = {"paper_title": title, "papers": papers}
         results.append(result_entry)
 
-        for paper in recommended_papers:
+        for paper in papers:
             paper_title = paper.get("title")
             url = paper.get("url")
             source = paper.get("source", "unknown")
@@ -58,9 +67,7 @@ def feed_papers_to_generator(papers, generator_function, max_results=5):
                 print(line)
                 log_to_file(line)
 
-
     return results
-
 
 # Usage
 if __name__ == "__main__":

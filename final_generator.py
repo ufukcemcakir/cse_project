@@ -1,6 +1,4 @@
-# --- feed_abstracts_to_generator.py ---
 import json
-import datetime
 import spacy
 import joblib
 import requests
@@ -10,23 +8,16 @@ from sentence_transformers import SentenceTransformer, util
 import time
 import feedparser
 
-OUTPUT_FILE = "reading_results.txt"
-FULLTEXT_JSONL_FILE = "local_papers_with_fulltext.jsonl"
-MAX_RESULTS_PER_CONCEPT = 4
-
-
-
-# Load models
 clf = joblib.load("prereq_classifier.joblib")
 embed_model = SentenceTransformer("all-MiniLM-L6-v2")
 nlp = spacy.load("en_core_web_sm")
-nlp.max_length = 5_000_000  # or even more if needed
-GENERIC_CONCEPTS = {"early", "key", "based", "systems", "tasks", "methods", "models", "approach", "approaches", "research"}
+nlp.max_length = 5_000_000
 
+GENERIC_CONCEPTS = {"early", "key", "based", "systems", "tasks", "methods", "models", "approach", "approaches", "research"}
+search_cache = {}
 
 def is_valid_concept(concept):
     return len(concept) > 3 and concept.lower() not in GENERIC_CONCEPTS
-
 
 def extract_concepts_from_text(text, top_n=7):
     doc = nlp(text)
@@ -38,21 +29,15 @@ def extract_concepts_from_text(text, top_n=7):
     scored = sorted(zip(feature_names, scores), key=lambda x: x[1], reverse=True)
     return [phrase for phrase, score in scored[:top_n] if score > 0]
 
-
 def encode_pair(a, b):
     vec_a = embed_model.encode(a)
     vec_b = embed_model.encode(b)
     return list(vec_a) + list(vec_b)
 
-
-search_cache = {}
-
-
 def search_semantic_scholar(concept, max_results=2):
     url = "https://api.semanticscholar.org/graph/v1/paper/search"
     headers = {"User-Agent": "ConceptGraphFetcher/1.0"}
     queries = [f"introduction to {concept}", f"{concept} review", f"{concept} tutorial", concept]
-
     for query in queries:
         params = {"query": query, "limit": max_results, "fields": "title,url,authors,year,abstract"}
         try:
@@ -78,7 +63,6 @@ def search_semantic_scholar(concept, max_results=2):
             continue
     return []
 
-
 def search_arxiv(concept, max_results=2):
     import urllib.parse
     encoded = urllib.parse.quote(f"all:{concept}")
@@ -101,8 +85,15 @@ def search_arxiv(concept, max_results=2):
     except Exception:
         return []
 
+def search_textbooks(concept, textbook_db):
+    results = []
+    concept_lower = concept.lower()
+    for book in textbook_db:
+        if concept_lower in book["title"].lower():
+            results.append(book)
+    return results
 
-def search_papers_for_concept(concept, max_results=5):
+def search_papers_for_concept(concept, max_results=5, textbook_db=None):
     if concept in search_cache:
         return search_cache[concept]
 
@@ -126,16 +117,18 @@ def search_papers_for_concept(concept, max_results=5):
             seen_titles.add(paper["title"])
             deduped.append(paper)
 
+    if textbook_db:
+        deduped.extend(search_textbooks(concept, textbook_db))
+
     search_cache[concept] = deduped
     return deduped
 
-
-def generate_reading_path_from_text(fulltext, max_results=5):
+def generate_reading_path_from_text(fulltext, max_results=5, textbook_db=None):
     concepts = extract_concepts_from_text(fulltext, top_n=7)
     concepts = [c for c in concepts if is_valid_concept(c)]
 
     if len(concepts) <= 1:
-        return [paper for c in concepts for paper in search_papers_for_concept(c, max_results=max_results)]
+        return [paper for c in concepts for paper in search_papers_for_concept(c, max_results=max_results, textbook_db=textbook_db)]
 
     G = nx.DiGraph()
     for concept in concepts:
@@ -160,7 +153,7 @@ def generate_reading_path_from_text(fulltext, max_results=5):
     for concept in sorted_concepts:
         if not is_valid_concept(concept):
             continue
-        for paper in search_papers_for_concept(concept, max_results=max_results):
+        for paper in search_papers_for_concept(concept, max_results=max_results, textbook_db=textbook_db):
             key = paper["title"]
             if key not in seen:
                 seen.add(key)
