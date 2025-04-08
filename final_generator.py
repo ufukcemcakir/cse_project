@@ -12,7 +12,7 @@ import feedparser
 
 OUTPUT_FILE = "reading_results.txt"
 FULLTEXT_JSONL_FILE = "local_papers_with_fulltext.jsonl"
-MAX_RESULTS_PER_CONCEPT = 5
+MAX_RESULTS_PER_CONCEPT = 4
 
 
 

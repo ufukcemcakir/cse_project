@@ -3,14 +3,6 @@
     "paper_title": "Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI",
     "papers": [
       {
-        "title": "Introduction to stream: An Extensible Framework for Data Stream Clustering Research with R",
-        "url": "https://www.semanticscholar.org/paper/49fecf25194b2e0f5ab6eae9f0a6445442c8eb8e",
-        "abstract": "In recent years, data streams have become an increasingly important area of research for the computer science, database and statistics communities. Data streams are ordered and potentially unbounded sequences of data points created by a typically non-stationary data generating process. Common data mining tasks associated with data streams include clustering, classification and frequent pattern mining. New algorithms for these types of data are proposed regularly and it is important to evaluate them thoroughly under standardized conditions. In this paper we introduce stream, a research tool that includes modeling and simulating data streams as well as an extensible framework for implementing, interfacing and experimenting with algorithms for various data stream mining tasks. The main advantage of stream is that it seamlessly integrates with the large existing infrastructure provided by R. In addition to data handling, plotting and easy scripting capabilities, R also provides many existing algorithms and enables users to interface code written in many programming languages popular among data mining researchers (e.g., C/C++, Java and Python). In this paper we describe the architecture of stream and focus on its use for data stream clustering research. stream was implemented with extensibility in mind and will be extended in the future to cover additional data stream mining tasks like classification and frequent pattern mining.",
-        "source": "semantic_scholar",
-        "score": 0.381,
-        "matched_concept": "stream"
-      },
-      {
         "title": "INTRODUCTION OF THE NATIONAL SYSTEM OF ACCOUNTING OF THE LENGTH OF HIGHWAYS IN SINGLE-LANE CALCULATION",
         "url": "https://www.semanticscholar.org/paper/ad30dae41ba44092fef89c21e8395c24ad0d2bd7",
         "abstract": "Introduction. The use of geographical spatial data of the public road network has led to the question of the feasibility of applying existing methods of road length accounting and the need to introduce single-lane road length accounting. Problem statement. The search for alternative ways to account for the length of a road calls for improving the principles of forming road titles, which have certain solutions for accounting for sections with more than one lane in each direction and establishing the lengths of traffic interchanges, additional lanes on ascents, external and internal transitional high-speed lanes, dedicated (channelized) lanes, etc. Objective. To improve the system of accounting for the length of public roads of national importance. Materials and methods. The principles of road titling introduced in [1] have certain solutions for accounting for sections with more than 1 lane in each direction and establishing the lengths of traffic interchanges, which were rational at the time of adoption, but without further improvement may be ineffective and increasingly lead to contradictions. The need to introduce the term \"length of a public road in single-lane calculation\" is due to the fact that there are fundamental differences between the lengths of roads approved by the Resolution of the Cabinet of Ministers of Ukraine \"On Approval of the List of Public Roads of National Importance\" of December 15, 2023 No. 1318 [2] and the actual length (area) of lanes subject to repair and maintenance, since the road may have a different number of main lanes along its length, additional lanes on ascents, external and internal transitional high-speed lanes, dedicated (channelized) lanes, and exits may have several lanes in one direction.",
@@ -23,46 +15,6 @@
   {
     "paper_title": "Explanation in Artificial Intelligence: Insights from the Social Sciences",
     "papers": [
-      {
-        "title": "TomoReal: Tomographic Displays",
-        "url": "http://arxiv.org/abs/1804.04619v1",
-        "abstract": "Since the history of display technologies began, people have dreamed an\nultimate 3D display system. In order to get close to the dream, 3D displays\nshould provide both of psychological and physiological cues for recognition of\ndepth information. However, it is challenging to satisfy the essential features\nwithout sacrifice in conventional technical values including resolution, frame\nrate, and eye-box. Here, we present a new type of 3D displays: tomographic\ndisplays. We claim that tomographic displays may support extremely wide depth\nof field, quasi-continuous accommodation, omni-directional motion parallax,\npreserved resolution, full frame, and moderate field of view within enough\neye-box. Tomographic displays consist of focus-tunable optics, 2D display\npanel, and fast spatially adjustable backlight. The synchronization of the\nfocus-tunable optics and the backlight enables the 2D display panel to express\nthe depth information. Tomographic displays have various applications including\ntabletop 3D displays, head-up displays, and near-eye stereoscopes. In this\nstudy, we implement a near-eye display named TomoReal, which is one of the most\npromising application of tomographic displays. We conclude with the detailed\nanalysis and thorough discussion for tomographic displays, which would open a\nnew research field.",
-        "source": "arxiv",
-        "score": 0.393,
-        "matched_concept": "display"
-      },
-      {
-        "title": "Universal Numeric Segmented Display",
-        "url": "http://arxiv.org/abs/1009.4977v1",
-        "abstract": "Segmentation display plays a vital role to display numerals. But in today's\nworld matrix display is also used in displaying numerals. Because numerals has\nlots of curve edges which is better supported by matrix display. But as matrix\ndisplay is costly and complex to implement and also needs more memory, segment\ndisplay is generally used to display numerals. But as there is yet no proposed\ncompact display architecture to display multiple language numerals at a time,\nthis paper proposes uniform display architecture to display multiple language\ndigits and general mathematical expressions with higher accuracy and simplicity\nby using a 18-segment display, which is an improvement over the 16 segment\ndisplay.",
-        "source": "arxiv",
-        "score": 0.443,
-        "matched_concept": "display"
-      },
-      {
-        "title": "Truncated Barsotti-Tate Groups and Displays",
-        "url": "http://arxiv.org/abs/1412.3032v1",
-        "abstract": "We define truncated displays over rings in which a prime p is nilpotent, we\nassociate crystals to truncated displays, and we define functors from truncated\ndisplays to truncated Barsotti-Tate groups.",
-        "source": "arxiv",
-        "score": 0.343,
-        "matched_concept": "display"
-      },
-      {
-        "title": "Alternative Approach to 3D Displaying",
-        "url": "http://arxiv.org/abs/0707.0477v1",
-        "abstract": "A method for displaying volumetric images, which exploits our binocular\nvision and does not require eyewear, is discussed. The display can be rendered\nas a matrix of pivoting micromirrors irradiated by a light beam; each\nmicromirror focuses its pixel beams to the same point of displayed volumetric\nimage. 3D perception of image can be achieved by scanning the point of beams\nintersection over a virtual surface of displayed image in space.",
-        "source": "arxiv",
-        "score": 0.342,
-        "matched_concept": "display"
-      },
-      {
-        "title": "Size matters: performance declines if your pixels are too big or too\n  small",
-        "url": "http://arxiv.org/abs/0804.3103v1",
-        "abstract": "We present a conceptual model that describes the effect of pixel size on\ntarget acquisition. We demonstrate the use of our conceptual model by applying\nit to predict and explain the results of an experiment to evaluate users'\nperformance in a target acquisition task involving three distinct display\nsizes: standard desktop, small and large displays. The results indicate that\nusers are fastest on standard desktop displays, undershoots are the most common\nerror on small displays and overshoots are the most common error on large\ndisplays. We propose heuristics to maintain usability when changing displays.\nFinally, we contribute to the growing body of evidence that amplitude does\naffect performance in a display-based pointing task.",
-        "source": "arxiv",
-        "score": 0.355,
-        "matched_concept": "display"
-      },
       {
         "title": "HtmlRAG: HTML is Better Than Plain Text for Modeling Retrieved Knowledge\n  in RAG Systems",
         "url": "http://arxiv.org/abs/2411.02959v2",
@@ -80,52 +32,12 @@
         "matched_concept": "html"
       },
       {
-        "title": "HTML-LSTM: Information Extraction from HTML Tables in Web Pages using\n  Tree-Structured LSTM",
-        "url": "http://arxiv.org/abs/2409.19445v1",
-        "abstract": "In this paper, we propose a novel method for extracting information from HTML\ntables with similar contents but with a different structure. We aim to\nintegrate multiple HTML tables into a single table for retrieval of information\ncontaining in various Web pages. The method is designed by extending\ntree-structured LSTM, the neural network for tree-structured data, in order to\nextract information that is both linguistic and structural information of HTML\ndata. We evaluate the proposed method through experiments using real data\npublished on the WWW.",
-        "source": "arxiv",
-        "score": 0.406,
-        "matched_concept": "html"
-      },
-      {
         "title": "Content Analysis: An Introduction to Its Methodology",
         "url": "https://www.semanticscholar.org/paper/25075e27b0df6f2be5a8c519171bdabd1c3ed817",
         "abstract": "History Conceptual Foundations Uses and Kinds of Inference The Logic of Content Analysis Designs Unitizing Sampling Recording Data Languages Constructs for Inference Analytical Techniques The Use of Computers Reliability Validity A Practical Guide",
         "source": "semantic_scholar",
         "score": 0.305,
         "matched_concept": "content"
-      },
-      {
-        "title": "Type Inference for Guarded Recursive Data Types",
-        "url": "http://arxiv.org/abs/cs/0507037v1",
-        "abstract": "We consider type inference for guarded recursive data types (GRDTs) -- a\nrecent generalization of algebraic data types. We reduce type inference for\nGRDTs to unification under a mixed prefix. Thus, we obtain efficient type\ninference. Inference is incomplete because the set of type constraints allowed\nto appear in the type system is only a subset of those type constraints\ngenerated by type inference. Hence, inference only succeeds if the program is\nsufficiently type annotated. We present refined procedures to infer types\nincrementally and to assist the user in identifying which pieces of type\ninformation are missing. Additionally, we introduce procedures to test if a\ntype is not principal and to find a principal type if one exists.",
-        "source": "arxiv",
-        "score": 0.422,
-        "matched_concept": "type"
-      },
-      {
-        "title": "Bidirectional Typing",
-        "url": "http://arxiv.org/abs/1908.05839v2",
-        "abstract": "Bidirectional typing combines two modes of typing: type checking, which\nchecks that a program satisfies a known type, and type synthesis, which\ndetermines a type from the program. Using checking enables bidirectional typing\nto support features for which inference is undecidable; using synthesis enables\nbidirectional typing to avoid the large annotation burden of explicitly typed\nlanguages. In addition, bidirectional typing improves error locality. We\nhighlight the design principles that underlie bidirectional type systems,\nsurvey the development of bidirectional typing from the prehistoric period\nbefore Pierce and Turner's local type inference to the present day, and provide\nguidance for future investigations.",
-        "source": "arxiv",
-        "score": 0.472,
-        "matched_concept": "type"
-      },
-      {
-        "title": "New interpretations for noncrossing partitions of classical types",
-        "url": "http://arxiv.org/abs/0910.2036v2",
-        "abstract": "We interpret noncrossing partitions of type $B$ and type $D$ in terms of\nnoncrossing partitions of type $A$. As an application, we get type-preserving\nbijections between noncrossing and nonnesting partitions of type $B$, type $C$\nand type $D$ which are different from those in the recent work of Fink and\nGiraldo. We also define Catalan tableaux of type $B$ and type $D$, and find\nbijections between them and noncrossing partitions of type $B$ and type $D$\nrespectively.",
-        "source": "arxiv",
-        "score": 0.303,
-        "matched_concept": "type"
-      },
-      {
-        "title": "Toward a Corpus Study of the Dynamic Gradual Type",
-        "url": "http://arxiv.org/abs/2503.08928v1",
-        "abstract": "Gradually-typed languages feature a dynamic type that supports implicit\ncoercions, greatly weakening the type system but making types easier to adopt.\nUnderstanding how developers use this dynamic type is a critical question for\nthe design of useful and usable type systems. This paper reports on an\nin-progress corpus study of the dynamic type in Python, targeting 221 GitHub\nprojects that use the mypy type checker. The study reveals eight\npatterns-of-use for the dynamic type, which have implications for future\nrefinements of the mypy type system and for tool support to encourage precise\ntype annotations.",
-        "source": "arxiv",
-        "score": 0.474,
-        "matched_concept": "type"
       },
       {
         "title": "A Unified Framework for Generalizable Style Transfer: Style and Content\n  Separation",
@@ -160,14 +72,6 @@
         "matched_concept": "style"
       },
       {
-        "title": "Pluggable Style Representation Learning for Multi-Style Transfer",
-        "url": "http://arxiv.org/abs/2503.20368v1",
-        "abstract": "Due to the high diversity of image styles, the scalability to various styles\nplays a critical role in real-world applications. To accommodate a large amount\nof styles, previous multi-style transfer approaches rely on enlarging the model\nsize while arbitrary-style transfer methods utilize heavy backbones. However,\nthe additional computational cost introduced by more model parameters hinders\nthese methods to be deployed on resource-limited devices. To address this\nchallenge, in this paper, we develop a style transfer framework by decoupling\nthe style modeling and transferring. Specifically, for style modeling, we\npropose a style representation learning scheme to encode the style information\ninto a compact representation. Then, for style transferring, we develop a\nstyle-aware multi-style transfer network (SaMST) to adapt to diverse styles\nusing pluggable style representations. In this way, our framework is able to\naccommodate diverse image styles in the learned style representations without\nintroducing additional overhead during inference, thereby maintaining\nefficiency. Experiments show that our style representation can extract accurate\nstyle information. Moreover, qualitative and quantitative results demonstrate\nthat our method achieves state-of-the-art performance in terms of both accuracy\nand efficiency. The codes are available in\nhttps://github.com/The-Learning-And-Vision-Atelier-LAVA/SaMST.",
-        "source": "arxiv",
-        "score": 0.4,
-        "matched_concept": "style"
-      },
-      {
         "title": "Introduction to Text Visualization",
         "url": "https://www.semanticscholar.org/paper/31b2b83eeb31d5138933b130d50c62239d5c784d",
         "abstract": "This book provides a systematic review of many advanced techniques to support the analysis of large collections of documents, ranging from the elementary to the profound, covering all the aspects of the visualization of text documents. Particularly, we start by introducing the fundamental concept of information visualization and visual analysis, followed by a brief survey of the field of text visualization and commonly used data models for converting document into a structured form for visualization. Then we introduce the key visualization techniques including visualizing document similarity, content, sentiments, as well as text corpus exploration system in details with concrete examples in the rest of the book.",
@@ -181,11 +85,11 @@
     "paper_title": "Impact of Artificial Intelligence in Customer Journey",
     "papers": [
       {
-        "title": "Introduction to HTTP security headers and implementation of HTTP strict transport security (HSTS) header for HTTPS enforcing",
-        "url": "https://www.semanticscholar.org/paper/5964eefd27b7849c09dfe5f1b0ad9e22a03dbd3e",
-        "abstract": "This article presents introduction to HTTP Security Headers — new security topic in communication over Internet. It is emphasized that HTTPS protocol and SSL/TLS certificates alone do not offer sufficient level of security for communication among people and devices. In the world of web applications and Internet of Things (IoT), it is vital to bring communication security at higher level, what could be realised via few simple steps. HTTP Response Headers used for different purposes in the past are now the effective way how to propagate security policies from servers to clients (from web servers to web browsers). First improvement is enforcing HTTPS protocol for communication everywhere it is possible and promote this protocol as first and only option for secure connection over the Internet. It is emphasized that HTTP protocol for communication is not suitable anymore.",
+        "title": "On the Impact of DNS Over HTTPS Paradigm on Cyber Systems",
+        "url": "https://www.semanticscholar.org/paper/731fbccb858cb17c7b73bde0a0ed71b7694b7e96",
+        "abstract": "The Domain Name System (DNS) protocol has been in use for over thirty years. As the primary method of resolving domain names to Internet Protocol (IP) addresses, it is a fundamental component of the Internet. Despite its position of importance, the protocol lacks built-in security mechanisms to address confidentiality, integrity, or availability. Malware can use DNS to fulfill attacker objectives, such as establishing command and control (C2) or exfiltrating data. Various enhancements have been implemented in an attempt to address security after-the-fact. The latest such enhancement is DNS over HTTPS. Methods have also been developed to detect malware's use of DNS. In this paper, we review the weaknesses of the DNS protocol and how malware has abused those weaknesses, enhancements to DNS security, and how malware uses DNS and how that use is detected, with a special emphasis on the effects that DNS over HTTPS may have on an organization's security.",
         "source": "semantic_scholar",
-        "score": 0.495,
+        "score": 0.441,
         "matched_concept": "https"
       },
       {
@@ -195,27 +99,6 @@
         "source": "arxiv",
         "score": 0.319,
         "matched_concept": "class"
-      }
-    ]
-  },
-  {
-    "paper_title": "Explainable Artificial Intelligence (XAI)",
-    "papers": [
-      {
-        "title": "INTRODUCTION OF THE NATIONAL SYSTEM OF ACCOUNTING OF THE LENGTH OF HIGHWAYS IN SINGLE-LANE CALCULATION",
-        "url": "https://www.semanticscholar.org/paper/ad30dae41ba44092fef89c21e8395c24ad0d2bd7",
-        "abstract": "Introduction. The use of geographical spatial data of the public road network has led to the question of the feasibility of applying existing methods of road length accounting and the need to introduce single-lane road length accounting. Problem statement. The search for alternative ways to account for the length of a road calls for improving the principles of forming road titles, which have certain solutions for accounting for sections with more than one lane in each direction and establishing the lengths of traffic interchanges, additional lanes on ascents, external and internal transitional high-speed lanes, dedicated (channelized) lanes, etc. Objective. To improve the system of accounting for the length of public roads of national importance. Materials and methods. The principles of road titling introduced in [1] have certain solutions for accounting for sections with more than 1 lane in each direction and establishing the lengths of traffic interchanges, which were rational at the time of adoption, but without further improvement may be ineffective and increasingly lead to contradictions. The need to introduce the term \"length of a public road in single-lane calculation\" is due to the fact that there are fundamental differences between the lengths of roads approved by the Resolution of the Cabinet of Ministers of Ukraine \"On Approval of the List of Public Roads of National Importance\" of December 15, 2023 No. 1318 [2] and the actual length (area) of lanes subject to repair and maintenance, since the road may have a different number of main lanes along its length, additional lanes on ascents, external and internal transitional high-speed lanes, dedicated (channelized) lanes, and exits may have several lanes in one direction.",
-        "source": "semantic_scholar",
-        "score": 0.339,
-        "matched_concept": "length"
-      },
-      {
-        "title": "An Introduction to Description Logics",
-        "url": "https://www.semanticscholar.org/paper/58fb408f90da35de2eec7ddce21e3cf4b4e89e52",
-        "abstract": "This introduction presents the main motivations for the development of Description Logics (DL) as a formalism for representing knowledge, as well as some important basic notions underlying all systems that have been created in the DL tradition. In addition, we provide the reader with an overview of the entire book and some guidelines for reading it. We first address the relationship between Description Logics and earlier semantic network and frame systems, which represent the original heritage of the field. We delve into some of the key problems encountered with the older efforts. Subsequently , we introduce the basic features of Description Logic languages and related reasoning techniques. Description Logic languages are then viewed as the core of knowledge representation systems, considering both the structure of a DL knowledge base and its associated reasoning services. The development of some implemented knowledge representation systems based on Description Logics and the first applications built with such systems are then reviewed. Finally, we address the relationship of Description Logics to other fields of Computer Science. We also discuss some extensions of the basic representation language machinery; these include features proposed for incorporation in the formalism that originally arose in implemented systems, and features proposed to cope with the needs of certain application domains. Research in the field of knowledge representation and reasoning is usually focused on methods for providing high-level descriptions of the world that can be effectively used to build intelligent applications. In this context, \" intelligent \" refers to the abil-5",
-        "source": "semantic_scholar",
-        "score": 0.309,
-        "matched_concept": "description"
       }
     ]
   }

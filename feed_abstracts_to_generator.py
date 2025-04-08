@@ -4,7 +4,7 @@ import datetime
 
 OUTPUT_FILE = "reading_results.txt"
 FULLTEXT_JSONL_FILE = "local_papers_with_fulltext.jsonl"
-MAX_RESULTS_PER_CONCEPT = 5
+MAX_RESULTS_PER_CONCEPT = 4
 
 
 def load_papers(file_path, limit=MAX_RESULTS_PER_CONCEPT):

@@ -580,3 +580,41 @@ No relevant papers found.
   https://www.semanticscholar.org/paper/ad30dae41ba44092fef89c21e8395c24ad0d2bd7
 - An Introduction to Description Logics (semantic_scholar)
   https://www.semanticscholar.org/paper/58fb408f90da35de2eec7ddce21e3cf4b4e89e52
+
+===== 🔎 Run at 2025-04-08 22:11:32 =====
+
+=== Paper 1/4: Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI ===
+- INTRODUCTION OF THE NATIONAL SYSTEM OF ACCOUNTING OF THE LENGTH OF HIGHWAYS IN SINGLE-LANE CALCULATION (semantic_scholar)
+  https://www.semanticscholar.org/paper/ad30dae41ba44092fef89c21e8395c24ad0d2bd7
+
+=== Paper 2/4: Explanation in Artificial Intelligence: Insights from the Social Sciences ===
+- HtmlRAG: HTML is Better Than Plain Text for Modeling Retrieved Knowledge
+  in RAG Systems (arxiv)
+  http://arxiv.org/abs/2411.02959v2
+- WAFFLE: Multi-Modal Model for Automated Front-End Development (arxiv)
+  http://arxiv.org/abs/2410.18362v1
+- Content Analysis: An Introduction to Its Methodology (semantic_scholar)
+  https://www.semanticscholar.org/paper/25075e27b0df6f2be5a8c519171bdabd1c3ed817
+- A Unified Framework for Generalizable Style Transfer: Style and Content
+  Separation (arxiv)
+  http://arxiv.org/abs/1806.05173v1
+- A Comprehensive Comparison between Neural Style Transfer and Universal
+  Style Transfer (arxiv)
+  http://arxiv.org/abs/1806.00868v1
+- Computational Decomposition of Style for Controllable and Enhanced Style
+  Transfer (arxiv)
+  http://arxiv.org/abs/1811.08668v2
+- Style Decomposition for Improved Neural Style Transfer (arxiv)
+  http://arxiv.org/abs/1811.12704v1
+- Introduction to Text Visualization (semantic_scholar)
+  https://www.semanticscholar.org/paper/31b2b83eeb31d5138933b130d50c62239d5c784d
+
+=== Paper 3/4: Impact of Artificial Intelligence in Customer Journey ===
+- On the Impact of DNS Over HTTPS Paradigm on Cyber Systems (semantic_scholar)
+  https://www.semanticscholar.org/paper/731fbccb858cb17c7b73bde0a0ed71b7694b7e96
+- MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic
+  Segmentation (arxiv)
+  http://arxiv.org/abs/2308.03005v1
+
+=== Paper 4/4: ARTIFICIAL INTELLIGENCE FOR THE REAL WORLD ===
+No relevant papers found.
