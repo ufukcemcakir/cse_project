@@ -1,3 +1,4 @@
+# --- final_generator.py ---
 import json
 import spacy
 import joblib
@@ -7,14 +8,21 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sentence_transformers import SentenceTransformer, util
 import time
 import feedparser
+import os
 
+# === Model Loading ===
 clf = joblib.load("prereq_classifier.joblib")
 embed_model = SentenceTransformer("all-MiniLM-L6-v2")
 nlp = spacy.load("en_core_web_sm")
 nlp.max_length = 5_000_000
 
-GENERIC_CONCEPTS = {"early", "key", "based", "systems", "tasks", "methods", "models", "approach", "approaches", "research"}
+GENERIC_CONCEPTS = {
+    "early", "key", "based", "systems", "tasks", "methods",
+    "models", "approach", "approaches", "research"
+}
 search_cache = {}
+
+# === Utilities ===
 
 def is_valid_concept(concept):
     return len(concept) > 3 and concept.lower() not in GENERIC_CONCEPTS
@@ -33,6 +41,8 @@ def encode_pair(a, b):
     vec_a = embed_model.encode(a)
     vec_b = embed_model.encode(b)
     return list(vec_a) + list(vec_b)
+
+# === Paper Search ===
 
 def search_semantic_scholar(concept, max_results=2):
     url = "https://api.semanticscholar.org/graph/v1/paper/search"
@@ -123,6 +133,8 @@ def search_papers_for_concept(concept, max_results=5, textbook_db=None):
     search_cache[concept] = deduped
     return deduped
 
+# === Generator ===
+
 def generate_reading_path_from_text(fulltext, max_results=5, textbook_db=None):
     concepts = extract_concepts_from_text(fulltext, top_n=7)
     concepts = [c for c in concepts if is_valid_concept(c)]
@@ -160,3 +172,52 @@ def generate_reading_path_from_text(fulltext, max_results=5, textbook_db=None):
                 reading_plan.append(paper)
 
     return reading_plan
+
+# === Reward Scoring ===
+
+def score_reading_path_with_mistral(topic_title, papers):
+    mistral_api_key = os.getenv("MISTRAL_API_KEY")
+    if not mistral_api_key:
+        print("❌ Mistral API key not set in environment.")
+        return None
+
+    url = "https://api.mistral.ai/v1/chat/completions"
+    headers = {
+        "Authorization": f"Bearer {mistral_api_key}",
+        "Content-Type": "application/json"
+    }
+
+    titles = "\n".join(f"- {p['title']}" for p in papers if "title" in p)
+    prompt = (
+        f"You are an expert AI education evaluator.\n"
+        f"Evaluate the following reading list on the topic: {topic_title}\n"
+        f"Reading List:\n{titles}\n\n"
+        f"Give a score from 0 to 10 based on how comprehensive and well-structured it is."
+    )
+
+    payload = {
+        "model": "mistral-small-latest",
+        "messages": [{"role": "user", "content": prompt}],
+        "temperature": 0.2
+    }
+
+    try:
+        response = requests.post(url, headers=headers, json=payload)
+        response.raise_for_status()
+        reply = response.json()["choices"][0]["message"]["content"]
+        score = extract_score_from_response(reply)
+        return score
+    except Exception as e:
+        print(f"⚠️ Mistral Scoring Error: {e}")
+        return None
+
+def extract_score_from_response(text):
+    import re
+    match = re.search(r"(\d{1,2})\s*/\s*10", text)
+    if match:
+        return int(match.group(1))
+    try:
+        score = int(text.strip())
+        return min(max(score, 0), 10)
+    except:
+        return None

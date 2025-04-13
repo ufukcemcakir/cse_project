@@ -1,112 +1,18 @@
 [
   {
     "paper_title": "Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI",
-    "papers": [
-      {
-        "title": "Introduction to stream: An Extensible Framework for Data Stream Clustering Research with R",
-        "url": "https://www.semanticscholar.org/paper/49fecf25194b2e0f5ab6eae9f0a6445442c8eb8e",
-        "abstract": "In recent years, data streams have become an increasingly important area of research for the computer science, database and statistics communities. Data streams are ordered and potentially unbounded sequences of data points created by a typically non-stationary data generating process. Common data mining tasks associated with data streams include clustering, classification and frequent pattern mining. New algorithms for these types of data are proposed regularly and it is important to evaluate them thoroughly under standardized conditions. In this paper we introduce stream, a research tool that includes modeling and simulating data streams as well as an extensible framework for implementing, interfacing and experimenting with algorithms for various data stream mining tasks. The main advantage of stream is that it seamlessly integrates with the large existing infrastructure provided by R. In addition to data handling, plotting and easy scripting capabilities, R also provides many existing algorithms and enables users to interface code written in many programming languages popular among data mining researchers (e.g., C/C++, Java and Python). In this paper we describe the architecture of stream and focus on its use for data stream clustering research. stream was implemented with extensibility in mind and will be extended in the future to cover additional data stream mining tasks like classification and frequent pattern mining.",
-        "source": "semantic_scholar",
-        "score": 0.381,
-        "matched_concept": "stream"
-      },
-      {
-        "title": "INTRODUCTION OF THE NATIONAL SYSTEM OF ACCOUNTING OF THE LENGTH OF HIGHWAYS IN SINGLE-LANE CALCULATION",
-        "url": "https://www.semanticscholar.org/paper/ad30dae41ba44092fef89c21e8395c24ad0d2bd7",
-        "abstract": "Introduction. The use of geographical spatial data of the public road network has led to the question of the feasibility of applying existing methods of road length accounting and the need to introduce single-lane road length accounting. Problem statement. The search for alternative ways to account for the length of a road calls for improving the principles of forming road titles, which have certain solutions for accounting for sections with more than one lane in each direction and establishing the lengths of traffic interchanges, additional lanes on ascents, external and internal transitional high-speed lanes, dedicated (channelized) lanes, etc. Objective. To improve the system of accounting for the length of public roads of national importance. Materials and methods. The principles of road titling introduced in [1] have certain solutions for accounting for sections with more than 1 lane in each direction and establishing the lengths of traffic interchanges, which were rational at the time of adoption, but without further improvement may be ineffective and increasingly lead to contradictions. The need to introduce the term \"length of a public road in single-lane calculation\" is due to the fact that there are fundamental differences between the lengths of roads approved by the Resolution of the Cabinet of Ministers of Ukraine \"On Approval of the List of Public Roads of National Importance\" of December 15, 2023 No. 1318 [2] and the actual length (area) of lanes subject to repair and maintenance, since the road may have a different number of main lanes along its length, additional lanes on ascents, external and internal transitional high-speed lanes, dedicated (channelized) lanes, and exits may have several lanes in one direction.",
-        "source": "semantic_scholar",
-        "score": 0.339,
-        "matched_concept": "length"
-      }
-    ]
+    "papers": []
   },
   {
     "paper_title": "Explanation in Artificial Intelligence: Insights from the Social Sciences",
     "papers": [
       {
-        "title": "23.1:Progress of the Interactive Information Display Tutorial on CD‐ROM",
-        "url": "https://www.semanticscholar.org/paper/2ca11f2f26539168e9e7e313fecd8f663165f77a",
-        "abstract": "A CD‐ROM Interactive Information Display Tutorial was created to supplement training in the sciences and engineering for those pursuing a career in display technology. As the display industry becomes more complex and interdisciplinary, additional training is becoming more essential as display engineers require a broad technical skill set.",
+        "title": "Content Analysis: An Introduction to Its Methodology",
+        "url": "https://www.semanticscholar.org/paper/25075e27b0df6f2be5a8c519171bdabd1c3ed817",
+        "abstract": "History Conceptual Foundations Uses and Kinds of Inference The Logic of Content Analysis Designs Unitizing Sampling Recording Data Languages Constructs for Inference Analytical Techniques The Use of Computers Reliability Validity A Practical Guide",
         "source": "semantic_scholar",
-        "score": 0.51,
-        "matched_concept": "display"
-      },
-      {
-        "title": "HtmlRAG: HTML is Better Than Plain Text for Modeling Retrieved Knowledge\n  in RAG Systems",
-        "url": "http://arxiv.org/abs/2411.02959v2",
-        "abstract": "Retrieval-Augmented Generation (RAG) has been shown to improve knowledge\ncapabilities and alleviate the hallucination problem of LLMs. The Web is a\nmajor source of external knowledge used in RAG systems, and many commercial RAG\nsystems have used Web search engines as their major retrieval systems.\nTypically, such RAG systems retrieve search results, download HTML sources of\nthe results, and then extract plain texts from the HTML sources. Plain text\ndocuments or chunks are fed into the LLMs to augment the generation. However,\nmuch of the structural and semantic information inherent in HTML, such as\nheadings and table structures, is lost during this plain-text-based RAG\nprocess. To alleviate this problem, we propose HtmlRAG, which uses HTML instead\nof plain text as the format of retrieved knowledge in RAG. We believe HTML is\nbetter than plain text in modeling knowledge in external documents, and most\nLLMs possess robust capacities to understand HTML. However, utilizing HTML\npresents new challenges. HTML contains additional content such as tags,\nJavaScript, and CSS specifications, which bring extra input tokens and noise to\nthe RAG system. To address this issue, we propose HTML cleaning, compression,\nand a two-step block-tree-based pruning strategy, to shorten the HTML while\nminimizing the loss of information. Experiments on six QA datasets confirm the\nsuperiority of using HTML in RAG systems.",
-        "source": "arxiv",
-        "score": 0.482,
-        "matched_concept": "html"
-      },
-      {
-        "title": "Type Inference for Guarded Recursive Data Types",
-        "url": "http://arxiv.org/abs/cs/0507037v1",
-        "abstract": "We consider type inference for guarded recursive data types (GRDTs) -- a\nrecent generalization of algebraic data types. We reduce type inference for\nGRDTs to unification under a mixed prefix. Thus, we obtain efficient type\ninference. Inference is incomplete because the set of type constraints allowed\nto appear in the type system is only a subset of those type constraints\ngenerated by type inference. Hence, inference only succeeds if the program is\nsufficiently type annotated. We present refined procedures to infer types\nincrementally and to assist the user in identifying which pieces of type\ninformation are missing. Additionally, we introduce procedures to test if a\ntype is not principal and to find a principal type if one exists.",
-        "source": "arxiv",
-        "score": 0.422,
-        "matched_concept": "type"
-      },
-      {
-        "title": "Bidirectional Typing",
-        "url": "http://arxiv.org/abs/1908.05839v2",
-        "abstract": "Bidirectional typing combines two modes of typing: type checking, which\nchecks that a program satisfies a known type, and type synthesis, which\ndetermines a type from the program. Using checking enables bidirectional typing\nto support features for which inference is undecidable; using synthesis enables\nbidirectional typing to avoid the large annotation burden of explicitly typed\nlanguages. In addition, bidirectional typing improves error locality. We\nhighlight the design principles that underlie bidirectional type systems,\nsurvey the development of bidirectional typing from the prehistoric period\nbefore Pierce and Turner's local type inference to the present day, and provide\nguidance for future investigations.",
-        "source": "arxiv",
-        "score": 0.472,
-        "matched_concept": "type"
-      },
-      {
-        "title": "A Unified Framework for Generalizable Style Transfer: Style and Content\n  Separation",
-        "url": "http://arxiv.org/abs/1806.05173v1",
-        "abstract": "Image style transfer has drawn broad attention in recent years. However, most\nexisting methods aim to explicitly model the transformation between different\nstyles, and the learned model is thus not generalizable to new styles. We here\npropose a unified style transfer framework for both character typeface transfer\nand neural style transfer tasks leveraging style and content separation. A key\nmerit of such framework is its generalizability to new styles and contents. The\noverall framework consists of style encoder, content encoder, mixer and\ndecoder. The style encoder and content encoder are used to extract the style\nand content representations from the corresponding reference images. The mixer\nintegrates the above two representations and feeds it into the decoder to\ngenerate images with the target style and content. During training, the encoder\nnetworks learn to extract styles and contents from limited size of\nstyle/content reference images. This learning framework allows simultaneous\nstyle transfer among multiple styles and can be deemed as a special\n`multi-task' learning scenario. The encoders are expected to capture the\nunderlying features for different styles and contents which is generalizable to\nnew styles and contents. Under this framework, we design two individual\nnetworks for character typeface transfer and neural style transfer,\nrespectively. For character typeface transfer, to separate the style features\nand content features, we leverage the conditional dependence of styles and\ncontents given an image. For neural style transfer, we leverage the statistical\ninformation of feature maps in certain layers to represent style. Extensive\nexperimental results have demonstrated the effectiveness and robustness of the\nproposed methods.",
-        "source": "arxiv",
-        "score": 0.336,
-        "matched_concept": "style"
-      },
-      {
-        "title": "A Comprehensive Comparison between Neural Style Transfer and Universal\n  Style Transfer",
-        "url": "http://arxiv.org/abs/1806.00868v1",
-        "abstract": "Style transfer aims to transfer arbitrary visual styles to content images. We\nexplore algorithms adapted from two papers that try to solve the problem of\nstyle transfer while generalizing on unseen styles or compromised visual\nquality. Majority of the improvements made focus on optimizing the algorithm\nfor real-time style transfer while adapting to new styles with considerably\nless resources and constraints. We compare these strategies and compare how\nthey measure up to produce visually appealing images. We explore two approaches\nto style transfer: neural style transfer with improvements and universal style\ntransfer. We also make a comparison between the different images produced and\nhow they can be qualitatively measured.",
-        "source": "arxiv",
-        "score": 0.416,
-        "matched_concept": "style"
-      },
-      {
-        "title": "Computational Decomposition of Style for Controllable and Enhanced Style\n  Transfer",
-        "url": "http://arxiv.org/abs/1811.08668v2",
-        "abstract": "Neural style transfer has been demonstrated to be powerful in creating\nartistic image with help of Convolutional Neural Networks (CNN). However, there\nis still lack of computational analysis of perceptual components of the\nartistic style. Different from some early attempts which studied the style by\nsome pre-processing or post-processing techniques, we investigate the\ncharacteristics of the style systematically based on feature map produced by\nCNN. First, we computationally decompose the style into basic elements using\nnot only spectrum based methods including Fast Fourier Transform (FFT),\nDiscrete Cosine Transform (DCT) but also latent variable models such Principal\nComponent Analysis (PCA), Independent Component Analysis (ICA). Then, the\ndecomposition of style induces various ways of controlling the style elements\nwhich could be embedded as modules in state-of-the-art style transfer\nalgorithms. Such decomposition of style brings several advantages. It enables\nthe computational coding of different artistic styles by our style basis with\nsimilar styles clustering together, and thus it facilitates the mixing or\nintervention of styles based on the style basis from more than one styles so\nthat compound style or new style could be generated to produce styled images.\nExperiments demonstrate the effectiveness of our method on not only painting\nstyle transfer but also sketch style transfer which indicates possible\napplications on picture-to-sketch problems.",
-        "source": "arxiv",
-        "score": 0.384,
-        "matched_concept": "style"
-      },
-      {
-        "title": "Introduction to Text Visualization",
-        "url": "https://www.semanticscholar.org/paper/31b2b83eeb31d5138933b130d50c62239d5c784d",
-        "abstract": "This book provides a systematic review of many advanced techniques to support the analysis of large collections of documents, ranging from the elementary to the profound, covering all the aspects of the visualization of text documents. Particularly, we start by introducing the fundamental concept of information visualization and visual analysis, followed by a brief survey of the field of text visualization and commonly used data models for converting document into a structured form for visualization. Then we introduce the key visualization techniques including visualizing document similarity, content, sentiments, as well as text corpus exploration system in details with concrete examples in the rest of the book.",
-        "source": "semantic_scholar",
-        "score": 0.397,
-        "matched_concept": "text"
-      },
-      {
-        "title": "A Textbook On ARTIFICIAL INTELLIGENCE IN PRECISION MEDICINE, DRUG DEVELOPMENT, AND HEALTHCARE",
-        "authors": [
-          "Dr.Krishnaraju Venkatesan",
-          "Dr. Sanjeev Kumar",
-          "Mrs. Sravani Boyapati",
-          "Dr.S. Shobana",
-          "Dr. Neha Chauhan"
-        ],
-        "url": "https://play.google.com/store/books/details?id=1-wXEQAAQBAJ&source=gbs_api",
-        "source": "textbook"
-      },
-      {
-        "title": "A TEXT BOOK OF CONCEPTS OF ARTIFICIAL INTELLIGENCE",
-        "authors": [
-          "Mahima Shanker Pandey",
-          "Abhishek Singh"
-        ],
-        "url": "http://books.google.com.tr/books?id=m7EWEQAAQBAJ&dq=artificial+intelligence+textbook&hl=&as_pt=BOOKS&source=gbs_api",
-        "source": "textbook"
+        "score": 0.305,
+        "matched_concept": "content"
       },
       {
         "title": "Machine Learning for Text",
@@ -117,5 +23,9 @@
         "source": "textbook"
       }
     ]
+  },
+  {
+    "paper_title": "Impact of Artificial Intelligence in Customer Journey",
+    "papers": []
   }
 ]

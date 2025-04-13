@@ -19,14 +19,6 @@
     "source": "textbook"
   },
   {
-    "title": "Insanlik 2.0",
-    "authors": [
-      "Ray Kurzweil"
-    ],
-    "url": "http://books.google.com.tr/books?id=8P-IzQEACAAJ&dq=artificial+intelligence+textbook&hl=&as_pt=BOOKS&source=gbs_api",
-    "source": "textbook"
-  },
-  {
     "title": "A Textbook On ARTIFICIAL INTELLIGENCE IN PRECISION MEDICINE, DRUG DEVELOPMENT, AND HEALTHCARE",
     "authors": [
       "Dr.Krishnaraju Venkatesan",
@@ -48,11 +40,19 @@
     "source": "textbook"
   },
   {
-    "title": "Pürdikkat",
+    "title": "Artificial Intelligence Class 5",
     "authors": [
-      "Cal Newport"
+      "Geeta Zunjani"
     ],
-    "url": "http://books.google.com.tr/books?id=2_qgtAEACAAJ&dq=machine+learning+textbook&hl=&as_pt=BOOKS&source=gbs_api",
+    "url": "https://play.google.com/store/books/details?id=AVOkEAAAQBAJ&source=gbs_api",
+    "source": "textbook"
+  },
+  {
+    "title": "Introduction to Machine Learning, fourth edition",
+    "authors": [
+      "Ethem Alpaydin"
+    ],
+    "url": "https://play.google.com/store/books/details?id=uZnSDwAAQBAJ&source=gbs_api",
     "source": "textbook"
   },
   {
@@ -62,14 +62,6 @@
       "Francesco Esposito"
     ],
     "url": "https://play.google.com/store/books/details?id=VjDNDwAAQBAJ&source=gbs_api",
-    "source": "textbook"
-  },
-  {
-    "title": "Introduction to Machine Learning, fourth edition",
-    "authors": [
-      "Ethem Alpaydin"
-    ],
-    "url": "https://play.google.com/store/books/details?id=uZnSDwAAQBAJ&source=gbs_api",
     "source": "textbook"
   },
   {
@@ -87,6 +79,17 @@
       "Mark Girolami"
     ],
     "url": "https://play.google.com/store/books/details?id=b24NDgAAQBAJ&source=gbs_api",
+    "source": "textbook"
+  },
+  {
+    "title": "Machine Learning",
+    "authors": [
+      "Andreas Lindholm",
+      "Niklas Wahlström",
+      "Fredrik Lindsten",
+      "Thomas B. Schön"
+    ],
+    "url": "http://books.google.com.tr/books?id=cBhdEAAAQBAJ&dq=machine+learning+textbook&hl=&as_pt=BOOKS&source=gbs_api",
     "source": "textbook"
   },
   {
@@ -119,27 +122,17 @@
     "source": "textbook"
   },
   {
+    "title": "Akis",
+    "authors": [],
+    "url": "http://books.google.com.tr/books?id=bK9QzwEACAAJ&dq=natural+language+processing+textbook&hl=&as_pt=BOOKS&source=gbs_api",
+    "source": "textbook"
+  },
+  {
     "title": "Natural Language Processing",
     "authors": [
       "Raymond S. T. Lee"
     ],
     "url": "https://play.google.com/store/books/details?id=V2HjEAAAQBAJ&source=gbs_api",
-    "source": "textbook"
-  },
-  {
-    "title": "Formal Analysis for Natural Language Processing: A Handbook",
-    "authors": [
-      "Zhiwei Feng"
-    ],
-    "url": "https://play.google.com/store/books/details?id=pBC-EAAAQBAJ&source=gbs_api",
-    "source": "textbook"
-  },
-  {
-    "title": "Pürdikkat",
-    "authors": [
-      "Cal Newport"
-    ],
-    "url": "http://books.google.com.tr/books?id=2_qgtAEACAAJ&dq=computer+vision+textbook&hl=&as_pt=BOOKS&source=gbs_api",
     "source": "textbook"
   },
   {
@@ -178,19 +171,17 @@
     "source": "textbook"
   },
   {
-    "title": "Neural Networks and Deep Learning",
+    "title": "Handbook of Machine and Computer Vision",
     "authors": [
-      "Charu C. Aggarwal"
+      "Alexander Hornberg"
     ],
-    "url": "https://play.google.com/store/books/details?id=achqDwAAQBAJ&source=gbs_api",
+    "url": "https://play.google.com/store/books/details?id=PTBMDgAAQBAJ&source=gbs_api",
     "source": "textbook"
   },
   {
-    "title": "Pürdikkat",
-    "authors": [
-      "Cal Newport"
-    ],
-    "url": "http://books.google.com.tr/books?id=2_qgtAEACAAJ&dq=deep+learning+textbook&hl=&as_pt=BOOKS&source=gbs_api",
+    "title": "Akis",
+    "authors": [],
+    "url": "http://books.google.com.tr/books?id=bK9QzwEACAAJ&dq=deep+learning+textbook&hl=&as_pt=BOOKS&source=gbs_api",
     "source": "textbook"
   },
   {
@@ -208,6 +199,14 @@
       "Rajiv Chopra"
     ],
     "url": "https://play.google.com/store/books/details?id=VjsEEAAAQBAJ&source=gbs_api",
+    "source": "textbook"
+  },
+  {
+    "title": "Understanding Deep Learning",
+    "authors": [
+      "Simon J.D. Prince"
+    ],
+    "url": "http://books.google.com.tr/books?id=rvyxEAAAQBAJ&dq=deep+learning+textbook&hl=&as_pt=BOOKS&source=gbs_api",
     "source": "textbook"
   },
   {
@@ -237,11 +236,11 @@
     "source": "textbook"
   },
   {
-    "title": "Introduction to the Theory of Computation",
+    "title": "Theory of Computation",
     "authors": [
-      "Michael Sipser"
+      "Dexter C. Kozen"
     ],
-    "url": "http://books.google.com.tr/books?id=Akk8zQEACAAJ&dq=computational+theory+textbook&hl=&as_pt=BOOKS&source=gbs_api",
+    "url": "http://books.google.com.tr/books?id=e1RgC3jjt7EC&dq=computational+theory+textbook&hl=&as_pt=BOOKS&source=gbs_api",
     "source": "textbook"
   },
   {
@@ -253,11 +252,11 @@
     "source": "textbook"
   },
   {
-    "title": "Theory of Computation",
+    "title": "A Computational Theory of Writing Systems",
     "authors": [
-      "Dexter C. Kozen"
+      "Richard William Sproat"
     ],
-    "url": "http://books.google.com.tr/books?id=e1RgC3jjt7EC&dq=computational+theory+textbook&hl=&as_pt=BOOKS&source=gbs_api",
+    "url": "http://books.google.com.tr/books?id=B8iB74qClQcC&dq=computational+theory+textbook&hl=&as_pt=BOOKS&source=gbs_api",
     "source": "textbook"
   },
   {
