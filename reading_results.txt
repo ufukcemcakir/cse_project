@@ -464,3 +464,531 @@
   https://www.semanticscholar.org/paper/4f9272b4b77cbe7ce938562b0dab6a0d388dd48b
 - How to Write the Introduction to a Scientific Paper? (semantic_scholar)
   https://www.semanticscholar.org/paper/6f86627e6294c737395c2aba56302b868d33f5eb
+
+===== 🔎 Run at 2025-04-14 22:52:30 =====
+
+=== Abstract 1/5: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+- The Dynamic Capabilities of Firms: an Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/df8fcfeb8bbf73e401c2814eb867653ee1272b09
+- Introduction to special topic forum on developing the dynamic capabilities of global companies across levels and locations (semantic_scholar)
+  https://www.semanticscholar.org/paper/6a8ec1f90a167b91a18c30a8330489f4286873e9
+- Uncertainty, Innovation, and Dynamic Capabilities: An Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/5e024110533adfe6d37cedb6472349a00f9a3ec9
+- Yapabilirlikler Yaratmak (google_books)
+  http://books.google.com.tr/books?id=QYGdtgEACAAJ&dq=capabilities+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- The Oxford Handbook of Skills and Training (google_books)
+  https://play.google.com/store/books/details?id=1AEXDgAAQBAJ&source=gbs_api
+- Introduction to ChatGPT: A new revolution of artificial intelligence with machine learning algorithms and cybersecurity (semantic_scholar)
+  https://www.semanticscholar.org/paper/5bd1edd4e721daac968d20ba56aa2553aa14691d
+- ChatGPT and AI in the Universities: An Introduction to the Near Future (semantic_scholar)
+  https://www.semanticscholar.org/paper/48dbd00b807c9cfdaf062e8c5226cd5820a6aba3
+- Journalists, Emotions, and the Introduction of Generative AI Chatbots: A Large-Scale Analysis of Tweets Before and After the Launch of ChatGPT (semantic_scholar)
+  https://www.semanticscholar.org/paper/28f9514276c8ab61f926a5753d0c2f580d0fbbec
+- How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection (semantic_scholar)
+  https://www.semanticscholar.org/paper/cb29cf52f0f7d2e4324c68690a55b22890f2212d
+- ChatGPT Expertise Informative Course (google_books)
+  https://play.google.com/store/books/details?id=3diuEAAAQBAJ&source=gbs_api
+- From Idea to Bestseller: Writing a Book with ChatGPT's Help (google_books)
+  https://play.google.com/store/books/details?id=bXe4EAAAQBAJ&source=gbs_api
+
+=== Abstract 2/5: Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI) ===
+- An Introduction to the Principle of Transparency in Automated Decision-Making Systems (semantic_scholar)
+  https://www.semanticscholar.org/paper/e54dee3cd8e7917490a9a08e5e204ed14c6debb1
+- Introduction to special issue algorithmic transparency in government: Towards a multi-level perspective (semantic_scholar)
+  https://www.semanticscholar.org/paper/5c59fa20f9e87097ff43d8eb9dee1672d47c3ef6
+- Transparency in Qualitative Research: An Overview of Key Findings and Recommendations (Introduction to Working Paper Series: Qualitative Transparency Deliberations, Working Group Final Reports) (semantic_scholar)
+  https://www.semanticscholar.org/paper/7ba199cb93ae6c0d7cbd2ccb08625d69a2e1a196
+- Introduction to Special Theme Veillance and transparency: A critical examination of mutual watching in the post-Snowden, Big Data era (semantic_scholar)
+  https://www.semanticscholar.org/paper/4f87ddfcd6b3649a4d40756342cce12074327449
+- The Oxford Handbook of Economic and Institutional Transparency (google_books)
+  http://books.google.com.tr/books?id=woAZBAAAQBAJ&dq=transparency+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- Research Handbook on Transparency (google_books)
+  https://play.google.com/store/books/details?id=6xJCBAAAQBAJ&source=gbs_api
+
+=== Abstract 3/5: Adaptation in Natural and Artificial Systems: An Introductory Analysis with Applications to Biology, Control, and Artificial Intelligence ===
+- An Introduction to Complex Systems Science and Its Applications (semantic_scholar)
+  https://www.semanticscholar.org/paper/1de0e8af1e51b58fc33008abc41a9f746a519803
+- Introduction to Complex Systems (semantic_scholar)
+  https://www.semanticscholar.org/paper/70ea9eb082d114939afdc21a8e159e1cd1e94141
+- Bentley's Textbook of Pharmaceutics - E-Book (google_books)
+  https://play.google.com/store/books/details?id=V-9ozTdWdeMC&source=gbs_api
+- School Mathematics Textbooks In China: Comparative Studies And Beyond (google_books)
+  https://play.google.com/store/books/details?id=jeIZEAAAQBAJ&source=gbs_api
+- A Textbook On ARTIFICIAL INTELLIGENCE IN PRECISION MEDICINE, DRUG DEVELOPMENT, AND HEALTHCARE (google_books)
+  https://play.google.com/store/books/details?id=1-wXEQAAQBAJ&source=gbs_api
+- A Textbook of Artificial Intelligence for Class 11 (google_books)
+  https://play.google.com/store/books/details?id=8clQEAAAQBAJ&source=gbs_api
+- Can Do Dutch Textbook (google_books)
+  https://play.google.com/store/books/details?id=_TrLEAAAQBAJ&source=gbs_api
+- Complete Dutch Beginner to Intermediate Course (google_books)
+  http://books.google.com.tr/books?id=IsemxDKFXtIC&dq=holland+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- Introduction to Professor Jacques Rancière (semantic_scholar)
+  https://www.semanticscholar.org/paper/d51dad06d1981e5cbab55be166854a8dd55cf4ef
+- Textbooks in Academic Libraries (google_books)
+  http://books.google.com.tr/books?id=UiB9DwAAQBAJ&dq=professor+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- The Feisty Professor - Book Four (google_books)
+  http://books.google.com.tr/books?id=bjbYDwAAQBAJ&dq=professor+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- An introduction to domain adaptation and transfer learning (semantic_scholar)
+  https://www.semanticscholar.org/paper/c98bcc8689c34d72fd0b696f2a49e7f86d151782
+- Human adaptation to climate change: An introduction to the special issue (semantic_scholar)
+  https://www.semanticscholar.org/paper/575be82631acce808ff9a5477625b6cf0bef5b32
+- The governance of adaptation: choices, reasons, and effects. Introduction to the Special Feature (semantic_scholar)
+  https://www.semanticscholar.org/paper/39233a3514396b942c6041097fade1a560277234
+- The Global Adaptation Mapping Initiative (GAMI): Part 1 – Introduction and overview of methods (semantic_scholar)
+  https://www.semanticscholar.org/paper/0e75b5958cf01a0023db8f1cd3a743509662f469
+- The Oxford Handbook of Adaptation Studies (google_books)
+  https://play.google.com/store/books/details?id=LCxdDgAAQBAJ&source=gbs_api
+- Adapting Canonical Texts in Children's Literature (google_books)
+  https://play.google.com/store/books/details?id=RCynroI7y_kC&source=gbs_api
+- Introduction to Adaptive Arrays (semantic_scholar)
+  https://www.semanticscholar.org/paper/b20a6a2ed9793c07e94aed156fb44cc760d376e9
+- A tutorial introduction to adaptive fractal analysis (semantic_scholar)
+  https://www.semanticscholar.org/paper/fffca80f9acc904fa71295b60d9dd0f81a466da6
+- An Introduction to Adaptive Management for Threatened and Endangered Species (semantic_scholar)
+  https://www.semanticscholar.org/paper/69e46c244f3af3bacd27072bbc081195eef3eb4e
+- Metasystems Learning Design of Open Textbooks: Emerging Research and Opportunities (google_books)
+  https://play.google.com/store/books/details?id=qORfDwAAQBAJ&source=gbs_api
+- Human-Computer Interaction (google_books)
+  https://play.google.com/store/books/details?id=Z8_vBwAAQBAJ&source=gbs_api
+
+=== Abstract 4/5: Impact of Artificial Intelligence in Customer Journey ===
+- Oxford IB Diploma Programme: Business Management Course Companion (google_books)
+  https://play.google.com/store/books/details?id=tMzKDwAAQBAJ&source=gbs_api
+- A Textbook of Business Finance (google_books)
+  http://books.google.com.tr/books?id=wtode-v_5AcC&dq=businesses+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- Energy harvesting for self-powered nanosystems (semantic_scholar)
+  https://www.semanticscholar.org/paper/7de4103a58f4562d7ff3af576fe1e73288ee6b6f
+- A Textbook Of Water Power Engineering (google_books)
+  https://play.google.com/store/books/details?id=GgsbEAAAQBAJ&source=gbs_api
+- AI Books (google_books)
+  https://play.google.com/store/books/details?id=rWxLEQAAQBAJ&source=gbs_api
+- From health behaviours to health practices: an introduction. (semantic_scholar)
+  https://www.semanticscholar.org/paper/291e68fbae1cf580f39a4d559e09c4e1b14836a0
+- TEXTBOOK OF ANIMAL BEHAVIOUR, FOURTH EDITION (google_books)
+  http://books.google.com.tr/books?id=wSZEEQAAQBAJ&dq=behaviours+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- TEXTBOOK OF ANIMAL BEHAVIOUR (google_books)
+  http://books.google.com.tr/books?id=zcdhnuKwg5MC&dq=behaviours+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- The Dynamic Capabilities of Firms: an Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/df8fcfeb8bbf73e401c2814eb867653ee1272b09
+- Introduction to special topic forum on developing the dynamic capabilities of global companies across levels and locations (semantic_scholar)
+  https://www.semanticscholar.org/paper/6a8ec1f90a167b91a18c30a8330489f4286873e9
+- Uncertainty, Innovation, and Dynamic Capabilities: An Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/5e024110533adfe6d37cedb6472349a00f9a3ec9
+- Yapabilirlikler Yaratmak (google_books)
+  http://books.google.com.tr/books?id=QYGdtgEACAAJ&dq=capabilities+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- The Oxford Handbook of Skills and Training (google_books)
+  https://play.google.com/store/books/details?id=1AEXDgAAQBAJ&source=gbs_api
+- Introduction to Customer Relationship Marketing (semantic_scholar)
+  https://www.semanticscholar.org/paper/d32721094e3cf87d4d711580729f949226b14fe8
+- Introduction to the Handbook on Customer Centricity (semantic_scholar)
+  https://www.semanticscholar.org/paper/02e1e5034cd422be4bb8a8139e2cde2bd8d642d4
+- Why did they do it? How customers’ self-service technology introduction attributions affect the customer-provider relationship (semantic_scholar)
+  https://www.semanticscholar.org/paper/84b9f3817a06a1f4cb3897136f2eac21424d2c27
+- Introduction: Is Customer Satisfaction (Ir)relevant as a Metric? (semantic_scholar)
+  https://www.semanticscholar.org/paper/4c58dbdbc9c3dbed803dfc31bc77050f5d57ab5f
+- Crash Course in Dealing with Difficult Library Customers (google_books)
+  https://play.google.com/store/books/details?id=ZnnDEAAAQBAJ&source=gbs_api
+- The Customer Centricity Ebook Collection (3 Books) (google_books)
+  http://books.google.com.tr/books?id=nd_3EAAAQBAJ&dq=customer+textbook&hl=&as_pt=BOOKS&source=gbs_api
+
+=== Abstract 5/5: Explainable Artificial Intelligence (XAI) ===
+- A Complete Chapter-wise Verbal Ability Book For CAT & Other MBA Entrance Exam | Practice Tests For Your Self-Evaluation (google_books)
+  https://play.google.com/store/books/details?id=R42KEAAAQBAJ&source=gbs_api
+- The Oxford Handbook of Dance and Wellbeing (google_books)
+  http://books.google.com.tr/books?id=q28sDwAAQBAJ&dq=ability+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- Accuracy – review of the concept and proposal for a revised definition (semantic_scholar)
+  https://www.semanticscholar.org/paper/63815c75ff433af21576d5a5766be428ee21cf69
+- Factors Affecting Analyst Forecast Accuracy: Review of Literature (semantic_scholar)
+  https://www.semanticscholar.org/paper/4f3d6b550e3326ae2e47d65b45fe7680c21aef71
+- The Comprehensive Textbook of Biomechanics [no access to course] (google_books)
+  https://play.google.com/store/books/details?id=jNvWDwAAQBAJ&source=gbs_api
+- The Trouble with Textbooks (google_books)
+  https://play.google.com/store/books/details?id=GfhsAAAAQBAJ&source=gbs_api
+- A Textbook On ARTIFICIAL INTELLIGENCE IN PRECISION MEDICINE, DRUG DEVELOPMENT, AND HEALTHCARE (google_books)
+  https://play.google.com/store/books/details?id=1-wXEQAAQBAJ&source=gbs_api
+- A Textbook of Artificial Intelligence for Class 11 (google_books)
+  https://play.google.com/store/books/details?id=8clQEAAAQBAJ&source=gbs_api
+- An introduction to decision science for conservation (semantic_scholar)
+  https://www.semanticscholar.org/paper/a66572baa011de7dcd2afcd0fc5020bbe1129a48
+- GRADE Evidence to Decision (EtD) frameworks: a systematic and transparent approach to making well informed healthcare choices. 1: Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/73d79d756c5d007b4b91089e2257a81e0bc4d759
+- [GRADE Evidence to Decision (EtD) frameworks: a systematic and transparent approach to making well informed healthcare choices. 1: Introduction.] (semantic_scholar)
+  https://www.semanticscholar.org/paper/4f9272b4b77cbe7ce938562b0dab6a0d388dd48b
+- Degisim Kitabi Ciltli (google_books)
+  http://books.google.com.tr/books?id=nrBUnwEACAAJ&dq=decision+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- Handbook on Decision Making (google_books)
+  https://play.google.com/store/books/details?id=oyh2gOwX5_MC&source=gbs_api
+- How to Write the Introduction to a Scientific Paper? (semantic_scholar)
+  https://www.semanticscholar.org/paper/6f86627e6294c737395c2aba56302b868d33f5eb
+- Papers (google_books)
+  https://play.google.com/store/books/details?id=izZbAAAAQAAJ&source=gbs_api
+- Parliamentary Papers (google_books)
+  https://play.google.com/store/books/details?id=y0oSAAAAYAAJ&source=gbs_api
+
+===== 🔎 Run at 2025-04-14 22:56:03 =====
+
+=== Abstract 1/5: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+- The Dynamic Capabilities of Firms: an Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/df8fcfeb8bbf73e401c2814eb867653ee1272b09
+- Introduction to special topic forum on developing the dynamic capabilities of global companies across levels and locations (semantic_scholar)
+  https://www.semanticscholar.org/paper/6a8ec1f90a167b91a18c30a8330489f4286873e9
+- Uncertainty, Innovation, and Dynamic Capabilities: An Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/5e024110533adfe6d37cedb6472349a00f9a3ec9
+- Proceedings of the 4th International Conference on New Media Development and Modernized Education (NMDME 2024) (google_books)
+  https://play.google.com/store/books/details?id=i5o3EQAAQBAJ&source=gbs_api
+- Textbooks and Educational Media: Perspectives from Subject Education (google_books)
+  https://play.google.com/store/books/details?id=-QY8EAAAQBAJ&source=gbs_api
+- Introduction to ChatGPT: A new revolution of artificial intelligence with machine learning algorithms and cybersecurity (semantic_scholar)
+  https://www.semanticscholar.org/paper/5bd1edd4e721daac968d20ba56aa2553aa14691d
+- ChatGPT and AI in the Universities: An Introduction to the Near Future (semantic_scholar)
+  https://www.semanticscholar.org/paper/48dbd00b807c9cfdaf062e8c5226cd5820a6aba3
+- Journalists, Emotions, and the Introduction of Generative AI Chatbots: A Large-Scale Analysis of Tweets Before and After the Launch of ChatGPT (semantic_scholar)
+  https://www.semanticscholar.org/paper/28f9514276c8ab61f926a5753d0c2f580d0fbbec
+- How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection (semantic_scholar)
+  https://www.semanticscholar.org/paper/cb29cf52f0f7d2e4324c68690a55b22890f2212d
+- Build a Website with ChatGPT (google_books)
+  http://books.google.com.tr/books?id=0fgWEQAAQBAJ&dq=subject:chatgpt+artificial+intelligence+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- Learn AI-Assisted Python Programming, Second Edition (google_books)
+  http://books.google.com.tr/books?id=tSUmEQAAQBAJ&dq=subject:chatgpt+artificial+intelligence+textbook&hl=&as_pt=BOOKS&source=gbs_api
+
+=== Abstract 2/5: Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI) ===
+- An Introduction to the Principle of Transparency in Automated Decision-Making Systems (semantic_scholar)
+  https://www.semanticscholar.org/paper/e54dee3cd8e7917490a9a08e5e204ed14c6debb1
+- Introduction to special issue algorithmic transparency in government: Towards a multi-level perspective (semantic_scholar)
+  https://www.semanticscholar.org/paper/5c59fa20f9e87097ff43d8eb9dee1672d47c3ef6
+- Transparency in Qualitative Research: An Overview of Key Findings and Recommendations (Introduction to Working Paper Series: Qualitative Transparency Deliberations, Working Group Final Reports) (semantic_scholar)
+  https://www.semanticscholar.org/paper/7ba199cb93ae6c0d7cbd2ccb08625d69a2e1a196
+- Introduction to Special Theme Veillance and transparency: A critical examination of mutual watching in the post-Snowden, Big Data era (semantic_scholar)
+  https://www.semanticscholar.org/paper/4f87ddfcd6b3649a4d40756342cce12074327449
+- Transparent Designs (google_books)
+  http://books.google.com.tr/books?id=HDhiEAAAQBAJ&dq=transparency+computer+science+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- Writing and Developing College Textbook Supplements (google_books)
+  http://books.google.com.tr/books?id=XsFI0_jImM0C&dq=title:transparency+textbook&hl=&as_pt=BOOKS&source=gbs_api
+
+=== Abstract 3/5: Adaptation in Natural and Artificial Systems: An Introductory Analysis with Applications to Biology, Control, and Artificial Intelligence ===
+- An Introduction to Complex Systems Science and Its Applications (semantic_scholar)
+  https://www.semanticscholar.org/paper/1de0e8af1e51b58fc33008abc41a9f746a519803
+- Introduction to Complex Systems (semantic_scholar)
+  https://www.semanticscholar.org/paper/70ea9eb082d114939afdc21a8e159e1cd1e94141
+- Insanlik 2.0 (google_books)
+  http://books.google.com.tr/books?id=8P-IzQEACAAJ&dq=complex+computer+science+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- Complex Networks (google_books)
+  http://books.google.com.tr/books?id=qV0yDwAAQBAJ&dq=complex+computer+science+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- Introduction to artificial intelligence in medicine (semantic_scholar)
+  https://www.semanticscholar.org/paper/0f1c31aa40a7d0b3ba68a6d1ef2bfc92e7f8ae0d
+- Gentle Introduction to Artificial Intelligence for High-School Students Using Scratch (semantic_scholar)
+  https://www.semanticscholar.org/paper/3090f615feb56cb13da0cfc7bbcb1b6b8dbe0a7d
+- Artificial Intelligence and Human Institutions (google_books)
+  http://books.google.com.tr/books?id=yTevQgAACAAJ&dq=subject:artificial+artificial+intelligence+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- Hiclikten Gelen Kiz (google_books)
+  http://books.google.com.tr/books?id=NLhkngEACAAJ&dq=artificial+computer+science+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- Computing Technologies and Applications (google_books)
+  https://play.google.com/store/books/details?id=C-1DEAAAQBAJ&source=gbs_api
+- Catalogue Number. Course Catalog (google_books)
+  http://books.google.com.tr/books?id=naELEQAAQBAJ&dq=professor+computer+science+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- International Journal of Language Studies (IJLS)  volume 6(3) (google_books)
+  http://books.google.com.tr/books?id=NGICBAAAQBAJ&dq=professor+computer+science+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- Effectiveness of ecosystem-based approaches for adaptation: review of the evidence-base (semantic_scholar)
+  https://www.semanticscholar.org/paper/956e052f1e188d914f332c112e36b15b7e149b30
+- Deep Unsupervised Domain Adaptation: A Review of Recent Advances and Perspectives (semantic_scholar)
+  https://www.semanticscholar.org/paper/86d507f4c395d966cd0fb8c72a87777876a08850
+- A Brief Review of Domain Adaptation (semantic_scholar)
+  https://www.semanticscholar.org/paper/115bbc50cf015990dc6f35bc8f99575ad2a68253
+- Complex Systems (google_books)
+  http://books.google.com.tr/books?id=cBnBp_ORBW8C&dq=subject:adaptation+artificial+intelligence+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- Introduction to Adaptive Arrays (semantic_scholar)
+  https://www.semanticscholar.org/paper/b20a6a2ed9793c07e94aed156fb44cc760d376e9
+- A tutorial introduction to adaptive fractal analysis (semantic_scholar)
+  https://www.semanticscholar.org/paper/fffca80f9acc904fa71295b60d9dd0f81a466da6
+- An Introduction to Adaptive Management for Threatened and Endangered Species (semantic_scholar)
+  https://www.semanticscholar.org/paper/69e46c244f3af3bacd27072bbc081195eef3eb4e
+- Adaptive Hypermedia and Adaptive Web-Based Systems (google_books)
+  https://play.google.com/store/books/details?id=46RqCQAAQBAJ&source=gbs_api
+
+=== Abstract 4/5: Impact of Artificial Intelligence in Customer Journey ===
+- Handbook of Research on Cybersecurity Issues and Challenges for Business and FinTech Applications (google_books)
+  https://play.google.com/store/books/details?id=WNibEAAAQBAJ&source=gbs_api
+- Writing and Developing Your College Textbook (google_books)
+  http://books.google.com.tr/books?id=62oArPjJ9tQC&dq=businesses+computer+science+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- Energy harvesting for self-powered nanosystems (semantic_scholar)
+  https://www.semanticscholar.org/paper/7de4103a58f4562d7ff3af576fe1e73288ee6b6f
+- Words and Power (google_books)
+  https://play.google.com/store/books/details?id=iTw6EAAAQBAJ&source=gbs_api
+- AI Books (google_books)
+  https://play.google.com/store/books/details?id=rWxLEQAAQBAJ&source=gbs_api
+- From health behaviours to health practices: an introduction. (semantic_scholar)
+  https://www.semanticscholar.org/paper/291e68fbae1cf580f39a4d559e09c4e1b14836a0
+- The Behaviour Book: a manual for ladies (google_books)
+  https://play.google.com/store/books/details?id=f7dcAAAAcAAJ&source=gbs_api
+- The Dynamic Capabilities of Firms: an Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/df8fcfeb8bbf73e401c2814eb867653ee1272b09
+- Introduction to special topic forum on developing the dynamic capabilities of global companies across levels and locations (semantic_scholar)
+  https://www.semanticscholar.org/paper/6a8ec1f90a167b91a18c30a8330489f4286873e9
+- Uncertainty, Innovation, and Dynamic Capabilities: An Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/5e024110533adfe6d37cedb6472349a00f9a3ec9
+- Proceedings of the 4th International Conference on New Media Development and Modernized Education (NMDME 2024) (google_books)
+  https://play.google.com/store/books/details?id=i5o3EQAAQBAJ&source=gbs_api
+- Textbooks and Educational Media: Perspectives from Subject Education (google_books)
+  https://play.google.com/store/books/details?id=-QY8EAAAQBAJ&source=gbs_api
+- Introduction to Customer Relationship Marketing (semantic_scholar)
+  https://www.semanticscholar.org/paper/d32721094e3cf87d4d711580729f949226b14fe8
+- Introduction to the Handbook on Customer Centricity (semantic_scholar)
+  https://www.semanticscholar.org/paper/02e1e5034cd422be4bb8a8139e2cde2bd8d642d4
+- Why did they do it? How customers’ self-service technology introduction attributions affect the customer-provider relationship (semantic_scholar)
+  https://www.semanticscholar.org/paper/84b9f3817a06a1f4cb3897136f2eac21424d2c27
+- Introduction: Is Customer Satisfaction (Ir)relevant as a Metric? (semantic_scholar)
+  https://www.semanticscholar.org/paper/4c58dbdbc9c3dbed803dfc31bc77050f5d57ab5f
+- Advanced Topics in End User Computing, Volume 1 (google_books)
+  https://play.google.com/store/books/details?id=bXwlMj4U7DMC&source=gbs_api
+- Advanced Topics in End User Computing (google_books)
+  http://books.google.com.tr/books?id=PbWo4VSOfw8C&dq=customer+computer+science+textbook&hl=&as_pt=BOOKS&source=gbs_api
+
+=== Abstract 5/5: Explainable Artificial Intelligence (XAI) ===
+- Anticipating and Preparing for Emerging Skills and Jobs (google_books)
+  https://play.google.com/store/books/details?id=Ht0GEAAAQBAJ&source=gbs_api
+- Textbooks and Educational Media: Perspectives from Subject Education (google_books)
+  https://play.google.com/store/books/details?id=-QY8EAAAQBAJ&source=gbs_api
+- Accuracy – review of the concept and proposal for a revised definition (semantic_scholar)
+  https://www.semanticscholar.org/paper/63815c75ff433af21576d5a5766be428ee21cf69
+- Factors Affecting Analyst Forecast Accuracy: Review of Literature (semantic_scholar)
+  https://www.semanticscholar.org/paper/4f3d6b550e3326ae2e47d65b45fe7680c21aef71
+- TEXTBOOK OF COMPUTER SCIENCE FOR CLASS XI (google_books)
+  http://books.google.com.tr/books?id=bjE5EHw35DkC&dq=accuracy+computer+science+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- Asian Digital Libraries. Looking Back 10 Years and Forging New Frontiers (google_books)
+  https://play.google.com/store/books/details?id=obBtCQAAQBAJ&source=gbs_api
+- Introduction to artificial intelligence in medicine (semantic_scholar)
+  https://www.semanticscholar.org/paper/0f1c31aa40a7d0b3ba68a6d1ef2bfc92e7f8ae0d
+- Gentle Introduction to Artificial Intelligence for High-School Students Using Scratch (semantic_scholar)
+  https://www.semanticscholar.org/paper/3090f615feb56cb13da0cfc7bbcb1b6b8dbe0a7d
+- Artificial Intelligence and Human Institutions (google_books)
+  http://books.google.com.tr/books?id=yTevQgAACAAJ&dq=subject:artificial+artificial+intelligence+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- Hiclikten Gelen Kiz (google_books)
+  http://books.google.com.tr/books?id=NLhkngEACAAJ&dq=artificial+computer+science+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- An introduction to decision science for conservation (semantic_scholar)
+  https://www.semanticscholar.org/paper/a66572baa011de7dcd2afcd0fc5020bbe1129a48
+- GRADE Evidence to Decision (EtD) frameworks: a systematic and transparent approach to making well informed healthcare choices. 1: Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/73d79d756c5d007b4b91089e2257a81e0bc4d759
+- [GRADE Evidence to Decision (EtD) frameworks: a systematic and transparent approach to making well informed healthcare choices. 1: Introduction.] (semantic_scholar)
+  https://www.semanticscholar.org/paper/4f9272b4b77cbe7ce938562b0dab6a0d388dd48b
+- Hayatimizdaki Algoritmalar (google_books)
+  http://books.google.com.tr/books?id=Z7BftgEACAAJ&dq=decision+computer+science+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- How to Write the Introduction to a Scientific Paper? (semantic_scholar)
+  https://www.semanticscholar.org/paper/6f86627e6294c737395c2aba56302b868d33f5eb
+- Cambridge IGCSE Computer Science (google_books)
+  http://books.google.com.tr/books?id=LhZ0BQAAQBAJ&dq=paper+computer+science+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- Paper Book (google_books)
+  https://play.google.com/store/books/details?id=Ap8UAAAAYAAJ&source=gbs_api
+
+===== 🔎 Run at 2025-04-14 23:03:31 =====
+
+=== Abstract 1/2: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+- The Dynamic Capabilities of Firms: an Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/df8fcfeb8bbf73e401c2814eb867653ee1272b09
+- Introduction to special topic forum on developing the dynamic capabilities of global companies across levels and locations (semantic_scholar)
+  https://www.semanticscholar.org/paper/6a8ec1f90a167b91a18c30a8330489f4286873e9
+- Proceedings of the 4th International Conference on New Media Development and Modernized Education (NMDME 2024) (google_books)
+  https://play.google.com/store/books/details?id=i5o3EQAAQBAJ&source=gbs_api
+- Textbooks and Educational Media: Perspectives from Subject Education (google_books)
+  https://play.google.com/store/books/details?id=-QY8EAAAQBAJ&source=gbs_api
+- Introduction to ChatGPT: A new revolution of artificial intelligence with machine learning algorithms and cybersecurity (semantic_scholar)
+  https://www.semanticscholar.org/paper/5bd1edd4e721daac968d20ba56aa2553aa14691d
+- ChatGPT and AI in the Universities: An Introduction to the Near Future (semantic_scholar)
+  https://www.semanticscholar.org/paper/48dbd00b807c9cfdaf062e8c5226cd5820a6aba3
+- Build a Website with ChatGPT (google_books)
+  http://books.google.com.tr/books?id=0fgWEQAAQBAJ&dq=subject:chatgpt+artificial+intelligence+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- ChatGPT For Beginners 3 Books in 1 (google_books)
+  https://play.google.com/store/books/details?id=PzbPEAAAQBAJ&source=gbs_api
+
+=== Abstract 2/2: Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI) ===
+- Machine Learning Model Cards Transparency Review : Using model card toolkit (semantic_scholar)
+  https://www.semanticscholar.org/paper/61d93a88b4db300f963e6e1dfd86d0cb8b5d231f
+- Transparent Designs (google_books)
+  http://books.google.com.tr/books?id=HDhiEAAAQBAJ&dq=transparency+computer+science+textbook&hl=&as_pt=BOOKS&source=gbs_api
+- Writing and Developing College Textbook Supplements (google_books)
+  http://books.google.com.tr/books?id=XsFI0_jImM0C&dq=title:transparency+textbook&hl=&as_pt=BOOKS&source=gbs_api
+
+===== 🔎 Run at 2025-04-14 23:11:38 =====
+
+=== Abstract 1/2: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+- Mixed Capability Games (arxiv)
+  http://arxiv.org/abs/2208.04516v2
+- Trends and Practices in Process Capability Studies (arxiv)
+  http://arxiv.org/abs/1503.06885v1
+- Uninitialized Capabilities (arxiv)
+  http://arxiv.org/abs/2006.01608v1
+- Zeno: A Scalable Capability-Based Secure Architecture (arxiv)
+  http://arxiv.org/abs/2208.09800v1
+- Stress-Testing Capability Elicitation With Password-Locked Models (arxiv)
+  http://arxiv.org/abs/2405.19550v1
+- ChatGPT Utility in Healthcare Education, Research, and Practice: Systematic Review on the Promising Perspectives and Valid Concerns (semantic_scholar)
+  https://www.semanticscholar.org/paper/dfdf7ff01aa6f691831e663fd29bc71890be39e2
+- What Is the Impact of ChatGPT on Education? A Rapid Review of the Literature (semantic_scholar)
+  https://www.semanticscholar.org/paper/2c1d7e6f485da3b7189012227fed0a1839af353e
+- The use of ChatGPT in teaching and learning: a systematic review through SWOT analysis approach (semantic_scholar)
+  https://www.semanticscholar.org/paper/01ebd7e73378532fe33783be4cc5c73e5cf976a3
+
+=== Abstract 2/2: Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI) ===
+- An Introduction to the Principle of Transparency in Automated Decision-Making Systems (semantic_scholar)
+  https://www.semanticscholar.org/paper/e54dee3cd8e7917490a9a08e5e204ed14c6debb1
+- Introduction to special issue algorithmic transparency in government: Towards a multi-level perspective (semantic_scholar)
+  https://www.semanticscholar.org/paper/5c59fa20f9e87097ff43d8eb9dee1672d47c3ef6
+- Transparency in Qualitative Research: An Overview of Key Findings and Recommendations (Introduction to Working Paper Series: Qualitative Transparency Deliberations, Working Group Final Reports) (semantic_scholar)
+  https://www.semanticscholar.org/paper/7ba199cb93ae6c0d7cbd2ccb08625d69a2e1a196
+
+===== 🔎 Run at 2025-04-14 23:12:34 =====
+
+=== Abstract 1/2: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+- The Dynamic Capabilities of Firms: an Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/df8fcfeb8bbf73e401c2814eb867653ee1272b09
+- Introduction to special topic forum on developing the dynamic capabilities of global companies across levels and locations (semantic_scholar)
+  https://www.semanticscholar.org/paper/6a8ec1f90a167b91a18c30a8330489f4286873e9
+- Introduction to ChatGPT: A new revolution of artificial intelligence with machine learning algorithms and cybersecurity (semantic_scholar)
+  https://www.semanticscholar.org/paper/5bd1edd4e721daac968d20ba56aa2553aa14691d
+- ChatGPT and AI in the Universities: An Introduction to the Near Future (semantic_scholar)
+  https://www.semanticscholar.org/paper/48dbd00b807c9cfdaf062e8c5226cd5820a6aba3
+
+=== Abstract 2/2: Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI) ===
+- An Introduction to the Principle of Transparency in Automated Decision-Making Systems (semantic_scholar)
+  https://www.semanticscholar.org/paper/e54dee3cd8e7917490a9a08e5e204ed14c6debb1
+- Introduction to special issue algorithmic transparency in government: Towards a multi-level perspective (semantic_scholar)
+  https://www.semanticscholar.org/paper/5c59fa20f9e87097ff43d8eb9dee1672d47c3ef6
+- Transparency in Qualitative Research: An Overview of Key Findings and Recommendations (Introduction to Working Paper Series: Qualitative Transparency Deliberations, Working Group Final Reports) (semantic_scholar)
+  https://www.semanticscholar.org/paper/7ba199cb93ae6c0d7cbd2ccb08625d69a2e1a196
+
+===== 🔎 Run at 2025-04-14 23:16:27 =====
+
+=== Abstract 1/2: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+- The Dynamic Capabilities of Firms: an Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/df8fcfeb8bbf73e401c2814eb867653ee1272b09
+- Introduction to special topic forum on developing the dynamic capabilities of global companies across levels and locations (semantic_scholar)
+  https://www.semanticscholar.org/paper/6a8ec1f90a167b91a18c30a8330489f4286873e9
+- Introduction to ChatGPT: A new revolution of artificial intelligence with machine learning algorithms and cybersecurity (semantic_scholar)
+  https://www.semanticscholar.org/paper/5bd1edd4e721daac968d20ba56aa2553aa14691d
+- ChatGPT and AI in the Universities: An Introduction to the Near Future (semantic_scholar)
+  https://www.semanticscholar.org/paper/48dbd00b807c9cfdaf062e8c5226cd5820a6aba3
+
+=== Abstract 2/2: Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI) ===
+- Machine Learning Model Cards Transparency Review : Using model card toolkit (semantic_scholar)
+  https://www.semanticscholar.org/paper/61d93a88b4db300f963e6e1dfd86d0cb8b5d231f
+
+===== 🔎 Run at 2025-04-14 23:32:23 =====
+
+=== Abstract 1/2: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+- The Dynamic Capabilities of Firms: an Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/df8fcfeb8bbf73e401c2814eb867653ee1272b09
+- Introduction to special topic forum on developing the dynamic capabilities of global companies across levels and locations (semantic_scholar)
+  https://www.semanticscholar.org/paper/6a8ec1f90a167b91a18c30a8330489f4286873e9
+- Using ChatGPT to perform a systematic review: a tutorial. (semantic_scholar)
+  https://www.semanticscholar.org/paper/176b4cdc71d55cb90b2e0125b88c294e36523bc8
+- Is ChatGPT 'ready' to be a learning tool for medical undergraduates and will it perform equally in different subjects? Comparative study of ChatGPT performance in tutorial and case-based learning questions in physiology and biochemistry. (semantic_scholar)
+  https://www.semanticscholar.org/paper/b2b6d5c752c2934b76ec73c3ca681a01f36bf916
+- Proactive Conversational Agents in the Post-ChatGPT World (semantic_scholar)
+  https://www.semanticscholar.org/paper/49f97e7b63b0c6e592e256c0d47eb1f4150ad7e1
+
+=== Abstract 2/2: Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI) ===
+- An Introduction to the Principle of Transparency in Automated Decision-Making Systems (semantic_scholar)
+  https://www.semanticscholar.org/paper/e54dee3cd8e7917490a9a08e5e204ed14c6debb1
+- Introduction to special issue algorithmic transparency in government: Towards a multi-level perspective (semantic_scholar)
+  https://www.semanticscholar.org/paper/5c59fa20f9e87097ff43d8eb9dee1672d47c3ef6
+- Transparency in Qualitative Research: An Overview of Key Findings and Recommendations (Introduction to Working Paper Series: Qualitative Transparency Deliberations, Working Group Final Reports) (semantic_scholar)
+  https://www.semanticscholar.org/paper/7ba199cb93ae6c0d7cbd2ccb08625d69a2e1a196
+
+===== 🔎 Run at 2025-04-14 23:37:07 =====
+
+=== Abstract 1/2: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+- The Dynamic Capabilities of Firms: an Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/df8fcfeb8bbf73e401c2814eb867653ee1272b09
+- Introduction to special topic forum on developing the dynamic capabilities of global companies across levels and locations (semantic_scholar)
+  https://www.semanticscholar.org/paper/6a8ec1f90a167b91a18c30a8330489f4286873e9
+- Introduction to ChatGPT: A new revolution of artificial intelligence with machine learning algorithms and cybersecurity (semantic_scholar)
+  https://www.semanticscholar.org/paper/5bd1edd4e721daac968d20ba56aa2553aa14691d
+- ChatGPT and AI in the Universities: An Introduction to the Near Future (semantic_scholar)
+  https://www.semanticscholar.org/paper/48dbd00b807c9cfdaf062e8c5226cd5820a6aba3
+
+=== Abstract 2/2: Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI) ===
+- An Introduction to the Principle of Transparency in Automated Decision-Making Systems (semantic_scholar)
+  https://www.semanticscholar.org/paper/e54dee3cd8e7917490a9a08e5e204ed14c6debb1
+- Introduction to special issue algorithmic transparency in government: Towards a multi-level perspective (semantic_scholar)
+  https://www.semanticscholar.org/paper/5c59fa20f9e87097ff43d8eb9dee1672d47c3ef6
+- Transparency in Qualitative Research: An Overview of Key Findings and Recommendations (Introduction to Working Paper Series: Qualitative Transparency Deliberations, Working Group Final Reports) (semantic_scholar)
+  https://www.semanticscholar.org/paper/7ba199cb93ae6c0d7cbd2ccb08625d69a2e1a196
+
+===== 🔎 Run at 2025-04-14 23:38:42 =====
+
+=== Abstract 1/2: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+- The Dynamic Capabilities of Firms: an Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/df8fcfeb8bbf73e401c2814eb867653ee1272b09
+- Introduction to special topic forum on developing the dynamic capabilities of global companies across levels and locations (semantic_scholar)
+  https://www.semanticscholar.org/paper/6a8ec1f90a167b91a18c30a8330489f4286873e9
+- Introduction to ChatGPT: A new revolution of artificial intelligence with machine learning algorithms and cybersecurity (semantic_scholar)
+  https://www.semanticscholar.org/paper/5bd1edd4e721daac968d20ba56aa2553aa14691d
+- ChatGPT and AI in the Universities: An Introduction to the Near Future (semantic_scholar)
+  https://www.semanticscholar.org/paper/48dbd00b807c9cfdaf062e8c5226cd5820a6aba3
+
+=== Abstract 2/2: Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI) ===
+- Machine Learning Model Cards Transparency Review : Using model card toolkit (semantic_scholar)
+  https://www.semanticscholar.org/paper/61d93a88b4db300f963e6e1dfd86d0cb8b5d231f
+
+===== 🔎 Run at 2025-04-14 23:41:17 =====
+
+=== Abstract 1/2: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+- The Dynamic Capabilities of Firms: an Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/df8fcfeb8bbf73e401c2814eb867653ee1272b09
+- Introduction to special topic forum on developing the dynamic capabilities of global companies across levels and locations (semantic_scholar)
+  https://www.semanticscholar.org/paper/6a8ec1f90a167b91a18c30a8330489f4286873e9
+- ChatGPT Utility in Healthcare Education, Research, and Practice: Systematic Review on the Promising Perspectives and Valid Concerns (semantic_scholar)
+  https://www.semanticscholar.org/paper/dfdf7ff01aa6f691831e663fd29bc71890be39e2
+- What Is the Impact of ChatGPT on Education? A Rapid Review of the Literature (semantic_scholar)
+  https://www.semanticscholar.org/paper/2c1d7e6f485da3b7189012227fed0a1839af353e
+- The use of ChatGPT in teaching and learning: a systematic review through SWOT analysis approach (semantic_scholar)
+  https://www.semanticscholar.org/paper/01ebd7e73378532fe33783be4cc5c73e5cf976a3
+
+=== Abstract 2/2: Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI) ===
+- Machine Learning Model Cards Transparency Review : Using model card toolkit (semantic_scholar)
+  https://www.semanticscholar.org/paper/61d93a88b4db300f963e6e1dfd86d0cb8b5d231f
+
+===== 🔎 Run at 2025-04-14 23:43:19 =====
+
+=== Abstract 1/2: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+- The Dynamic Capabilities of Firms: an Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/df8fcfeb8bbf73e401c2814eb867653ee1272b09
+- Introduction to special topic forum on developing the dynamic capabilities of global companies across levels and locations (semantic_scholar)
+  https://www.semanticscholar.org/paper/6a8ec1f90a167b91a18c30a8330489f4286873e9
+- Introduction to ChatGPT: A new revolution of artificial intelligence with machine learning algorithms and cybersecurity (semantic_scholar)
+  https://www.semanticscholar.org/paper/5bd1edd4e721daac968d20ba56aa2553aa14691d
+- ChatGPT and AI in the Universities: An Introduction to the Near Future (semantic_scholar)
+  https://www.semanticscholar.org/paper/48dbd00b807c9cfdaf062e8c5226cd5820a6aba3
+
+=== Abstract 2/2: Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI) ===
+- An Introduction to the Principle of Transparency in Automated Decision-Making Systems (semantic_scholar)
+  https://www.semanticscholar.org/paper/e54dee3cd8e7917490a9a08e5e204ed14c6debb1
+- Introduction to special issue algorithmic transparency in government: Towards a multi-level perspective (semantic_scholar)
+  https://www.semanticscholar.org/paper/5c59fa20f9e87097ff43d8eb9dee1672d47c3ef6
+- Transparency in Qualitative Research: An Overview of Key Findings and Recommendations (Introduction to Working Paper Series: Qualitative Transparency Deliberations, Working Group Final Reports) (semantic_scholar)
+  https://www.semanticscholar.org/paper/7ba199cb93ae6c0d7cbd2ccb08625d69a2e1a196
+
+===== 🔎 Run at 2025-04-14 23:45:57 =====
+
+=== Abstract 1/2: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+- Mixed Capability Games (arxiv)
+  http://arxiv.org/abs/2208.04516v2
+- Trends and Practices in Process Capability Studies (arxiv)
+  http://arxiv.org/abs/1503.06885v1
+- Uninitialized Capabilities (arxiv)
+  http://arxiv.org/abs/2006.01608v1
+- Zeno: A Scalable Capability-Based Secure Architecture (arxiv)
+  http://arxiv.org/abs/2208.09800v1
+- Stress-Testing Capability Elicitation With Password-Locked Models (arxiv)
+  http://arxiv.org/abs/2405.19550v1
+- Introduction to ChatGPT: A new revolution of artificial intelligence with machine learning algorithms and cybersecurity (semantic_scholar)
+  https://www.semanticscholar.org/paper/5bd1edd4e721daac968d20ba56aa2553aa14691d
+- ChatGPT and AI in the Universities: An Introduction to the Near Future (semantic_scholar)
+  https://www.semanticscholar.org/paper/48dbd00b807c9cfdaf062e8c5226cd5820a6aba3
+
+=== Abstract 2/2: Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI) ===
+- An Introduction to the Principle of Transparency in Automated Decision-Making Systems (semantic_scholar)
+  https://www.semanticscholar.org/paper/e54dee3cd8e7917490a9a08e5e204ed14c6debb1
+- Introduction to special issue algorithmic transparency in government: Towards a multi-level perspective (semantic_scholar)
+  https://www.semanticscholar.org/paper/5c59fa20f9e87097ff43d8eb9dee1672d47c3ef6
+- Transparency in Qualitative Research: An Overview of Key Findings and Recommendations (Introduction to Working Paper Series: Qualitative Transparency Deliberations, Working Group Final Reports) (semantic_scholar)
+  https://www.semanticscholar.org/paper/7ba199cb93ae6c0d7cbd2ccb08625d69a2e1a196

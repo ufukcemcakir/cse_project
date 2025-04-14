@@ -1,8 +1,13 @@
+#--feed_abstracts_to_generator.py--
 import json
 import datetime
+from final_generator import extract_concepts_from_abstract
+from llm_evaluator import evaluate_reading_path
+from reward_logger import save_training_example
+
 
 OUTPUT_FILE = "reading_results.txt"
-MAX_RESULTS_PER_CONCEPT = 10  # Adjustable global setting
+MAX_RESULTS_PER_CONCEPT = 5  # Adjustable global setting
 
 
 def load_abstracts(file_path, limit=MAX_RESULTS_PER_CONCEPT):
@@ -38,6 +43,15 @@ def feed_abstracts_to_generator(abstracts, generator_function):
         log_to_file(header)
 
         papers = generator_function(abstract, max_results=MAX_RESULTS_PER_CONCEPT)
+        # --- LLM Scoring + Logging ---
+        concepts = extract_concepts_from_abstract(abstract)
+        score = evaluate_reading_path(papers)
+
+        if score is not None:
+            save_training_example(concepts, papers, score)
+            print(f"🧠 LLM Score: {score}/10")
+            log_to_file(f"🧠 LLM Score: {score}/10")
+
         abstract_result = {"abstract_title": title, "papers": []}
 
         if not papers:

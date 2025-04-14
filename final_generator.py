@@ -1,3 +1,5 @@
+#--final_generator.py--
+
 import spacy
 import joblib
 import requests
@@ -14,9 +16,69 @@ embed_model = SentenceTransformer("all-MiniLM-L6-v2")
 nlp = spacy.load("en_core_web_sm")
 
 # Config
-MAX_RESULTS_PER_CONCEPT = 10
+MAX_RESULTS_PER_CONCEPT = 5
 
 GENERIC_CONCEPTS = {"early", "key", "based", "systems", "tasks", "methods", "models", "approach", "approaches", "research"}
+
+GOOGLE_BOOKS_API = "https://www.googleapis.com/books/v1/volumes"
+
+def search_textbooks(concept, max_results=3):
+    base_url = "https://www.googleapis.com/books/v1/volumes"
+    params = {
+        "q": f"intitle:{concept}+subject:computer science",
+        "maxResults": max_results,
+        "printType": "books"
+    }
+
+    secondary_keywords = {"artificial intelligence", "computer science"}
+    blacklist_keywords = {"children", "fiction", "library", "MBA", "test prep", "dance", "grammar", "wellbeing"}
+    accepted = []
+
+    try:
+        response = requests.get(base_url, params=params)
+        response.raise_for_status()
+        data = response.json()
+
+        for item in data.get("items", []):
+            info = item.get("volumeInfo", {})
+            title = info.get("title", "").strip()
+            url = info.get("infoLink", "")
+            description = info.get("description", "")
+            categories = info.get("categories", [])
+            page_count = info.get("pageCount", 0)
+            authors = info.get("authors", [])
+
+            content = f"{title} {description}".lower()
+
+            # 🔍 Only require a secondary keyword now
+            if not any(kw in content for kw in secondary_keywords):
+                continue
+
+            # ❌ Blacklist bad categories
+            if any(bad in content for bad in blacklist_keywords):
+                continue
+
+            # 📘 Relaxed: allow shorter books
+            if page_count < 50:
+                continue
+
+            accepted.append({
+                "title": title,
+                "url": url,
+                "authors": authors,
+                "source": "google_books"
+            })
+
+            if len(accepted) >= max_results:
+                break
+
+    except Exception as e:
+        print(f"⚠️ Google Books error for '{concept}': {e}")
+
+    return accepted
+
+
+
 
 def is_valid_concept(concept):
     return len(concept) > 3 and concept.lower() not in GENERIC_CONCEPTS
@@ -97,7 +159,6 @@ def search_papers_for_concept(concept, max_results=MAX_RESULTS_PER_CONCEPT):
     if not results:
         results = search_arxiv(concept, max_results)
 
-    # Filter results using cosine similarity
     filtered = []
     concept_emb = embed_model.encode(concept, convert_to_tensor=True)
     for paper in results:
@@ -107,7 +168,6 @@ def search_papers_for_concept(concept, max_results=MAX_RESULTS_PER_CONCEPT):
             paper["matched_concept"] = concept
             filtered.append(paper)
 
-    # De-duplicate by title
     seen_titles = set()
     deduped = []
     for paper in filtered:
@@ -115,8 +175,16 @@ def search_papers_for_concept(concept, max_results=MAX_RESULTS_PER_CONCEPT):
             seen_titles.add(paper["title"])
             deduped.append(paper)
 
+    # 🆕 Add textbooks
+    textbooks = search_textbooks(concept, max_results=2)
+    for book in textbooks:
+        if book["title"] not in seen_titles:
+            seen_titles.add(book["title"])
+            deduped.append(book)
+
     search_cache[concept] = deduped
     return deduped
+
 
 def generate_reading_path_from_abstract(abstract, max_results=MAX_RESULTS_PER_CONCEPT):
     concepts = extract_concepts_from_abstract(abstract, top_n=7)
