@@ -992,3 +992,29 @@
   https://www.semanticscholar.org/paper/5c59fa20f9e87097ff43d8eb9dee1672d47c3ef6
 - Transparency in Qualitative Research: An Overview of Key Findings and Recommendations (Introduction to Working Paper Series: Qualitative Transparency Deliberations, Working Group Final Reports) (semantic_scholar)
   https://www.semanticscholar.org/paper/7ba199cb93ae6c0d7cbd2ccb08625d69a2e1a196
+
+===== 🔎 Run at 2025-04-14 23:50:19 =====
+
+=== Abstract 1/2: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+- The Dynamic Capabilities of Firms: an Introduction (semantic_scholar)
+  https://www.semanticscholar.org/paper/df8fcfeb8bbf73e401c2814eb867653ee1272b09
+- Introduction to special topic forum on developing the dynamic capabilities of global companies across levels and locations (semantic_scholar)
+  https://www.semanticscholar.org/paper/6a8ec1f90a167b91a18c30a8330489f4286873e9
+- In ChatGPT We Trust? Measuring and Characterizing the Reliability of
+  ChatGPT (arxiv)
+  http://arxiv.org/abs/2304.08979v2
+- Is ChatGPT Involved in Texts? Measure the Polish Ratio to Detect
+  ChatGPT-Generated Text (arxiv)
+  http://arxiv.org/abs/2307.11380v2
+- When ChatGPT is gone: Creativity reverts and homogeneity persists (arxiv)
+  http://arxiv.org/abs/2401.06816v1
+- Pros and Cons! Evaluating ChatGPT on Software Vulnerability (arxiv)
+  http://arxiv.org/abs/2404.03994v1
+- ChatGPT Creates a Review Article: State of the Art in the Most-Cited
+  Articles on ChatGPT in Health Science, Computer Science, Communication, and
+  Culture, According to Altmetric in Dimensions.ai (arxiv)
+  http://arxiv.org/abs/2307.02488v1
+
+=== Abstract 2/2: Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI) ===
+- Machine Learning Model Cards Transparency Review : Using model card toolkit (semantic_scholar)
+  https://www.semanticscholar.org/paper/61d93a88b4db300f963e6e1dfd86d0cb8b5d231f

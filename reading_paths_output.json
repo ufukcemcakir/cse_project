@@ -3,59 +3,59 @@
     "abstract_title": "Sparks of Artificial General Intelligence: Early experiments with GPT-4",
     "papers": [
       {
-        "title": "Mixed Capability Games",
-        "url": "http://arxiv.org/abs/2208.04516v2",
-        "abstract": "We present a new class of strategic games, mixed capability games, as a\nfoundation for studying how different player capabilities impact the dynamics\nand outcomes of strategic games. We analyze the impact of different player\ncapabilities via a capability transfer function that characterizes the payoff\nof each player at equilibrium given capabilities for all players in the game.\nIn this paper, we model a player's capability as the size of the strategy space\navailable to that player. We analyze a mixed capability variant of the Gold and\nMines Game recently proposed by Yang et al. and derive its capability transfer\nfunction in closed form.",
-        "source": "arxiv",
-        "score": 0.47,
-        "matched_concept": "capabilities"
-      },
-      {
-        "title": "Trends and Practices in Process Capability Studies",
-        "url": "http://arxiv.org/abs/1503.06885v1",
-        "abstract": "Quantifying the \"capability\" of a manufacturing process is an important\ninitial step in any quality improvement program. Capability is usually defined\nin dictionaries as \"the ability to carry out a task, to achieve an objective\".\nProcess capability indices(PCIs) is defined as a combination of materials,\nmethods, equipments and people engaged in producing a measurable output. PCIs\nwhich establish the relationships between the actual process performance and\nthe manufacturing specifications, have been a focus of research in quality\nassurance and process capability analysis. Capability indices that qualify\nprocess potential and process performance are practical tools for successful\nquality improvement activities and quality program implementation. As a matter\nof fact, all processes have inherent statistical variability, which can be\nidentified, evaluated and reduced by statistical methods. Generalized Process\nCapability Index, defined as the ratio of proportion of specification\nconformance (or, process yield) to proportion of desired (or, natural)\nconformance. We review the process capability indices in case of normal,\nnon-normal, discrete and multivariate process distributions and discuss the\ninferential aspects of some of these process capability indices. Relations\namong the process capability indices have also been illustrated with examples.\nFinally we also consider the process capability indices using conditional\nordering and transforming multivariate data to univariate one using the concept\nof structural function.",
-        "source": "arxiv",
-        "score": 0.47,
-        "matched_concept": "capabilities"
-      },
-      {
-        "title": "Uninitialized Capabilities",
-        "url": "http://arxiv.org/abs/2006.01608v1",
-        "abstract": "This technical report describes a new extension to capability machines.\nCapability machines are a special type of processors that include better\nsecurity primitives at the hardware level. In capability machines, every word\nhas an associated tag bit that indicates whether the value it contains is a\ncapability or a regular data value. Capabilities enable fine-grained control of\nthe authority over memory that program components have. Conceptually,\ncapabilities can be viewed as being an unforgeable token carrying authority\nover a resource. CHERI is a recently developed capability machine that aims to\nprovide fine-grained memory protection, software compartmentalization and\nbackwards compatibility. While our ideas are implemented on CHERI, they are not\nlimited to it and should be applicable to other capability machines as well. In\nthis technical report we propose a new type of capabilities, which represent\nthe authority to access (read and write to) a block of memory but not view its\ninitial contents. Our main goal is to use this new type of capability as part\nof a secure calling convention, but other applications may be possible too.",
-        "source": "arxiv",
-        "score": 0.526,
-        "matched_concept": "capabilities"
-      },
-      {
-        "title": "Zeno: A Scalable Capability-Based Secure Architecture",
-        "url": "http://arxiv.org/abs/2208.09800v1",
-        "abstract": "Despite the numerous efforts of security researchers, memory vulnerabilities\nremain a top issue for modern computing systems. Capability-based solutions aim\nto solve whole classes of memory vulnerabilities at the hardware level by\nencoding access permissions with each memory reference. While some capability\nsystems have seen commercial adoption, little work has been done to apply a\ncapability model to datacenter-scale systems. Cloud and high-performance\ncomputing often require programs to share memory across many compute nodes.\nThis presents a challenge for existing capability models, as capabilities must\nbe enforceable across multiple nodes. Each node must agree on what access\npermissions a capability has and overheads of remote memory access must remain\nmanageable.\n  To address these challenges, we introduce Zeno, a new capability-based\narchitecture. Zeno supports a Namespace-based capability model to support\nglobally shareable capabilities in a large-scale, multi-node system. In this\nwork, we describe the Zeno architecture, define Zeno's security properties,\nevaluate the scalability of Zeno as a large-scale capability architecture, and\nmeasure the hardware overhead with an FPGA implementation.",
-        "source": "arxiv",
-        "score": 0.429,
-        "matched_concept": "capabilities"
-      },
-      {
-        "title": "Stress-Testing Capability Elicitation With Password-Locked Models",
-        "url": "http://arxiv.org/abs/2405.19550v1",
-        "abstract": "To determine the safety of large language models (LLMs), AI developers must\nbe able to assess their dangerous capabilities. But simple prompting strategies\noften fail to elicit an LLM's full capabilities. One way to elicit capabilities\nmore robustly is to fine-tune the LLM to complete the task. In this paper, we\ninvestigate the conditions under which fine-tuning-based elicitation suffices\nto elicit capabilities. To do this, we introduce password-locked models, LLMs\nfine-tuned such that some of their capabilities are deliberately hidden.\nSpecifically, these LLMs are trained to exhibit these capabilities only when a\npassword is present in the prompt, and to imitate a much weaker LLM otherwise.\nPassword-locked models enable a novel method of evaluating capabilities\nelicitation methods, by testing whether these password-locked capabilities can\nbe elicited without using the password. We find that a few high-quality\ndemonstrations are often sufficient to fully elicit password-locked\ncapabilities. More surprisingly, fine-tuning can elicit other capabilities that\nhave been locked using the same password, or even different passwords.\nFurthermore, when only evaluations, and not demonstrations, are available,\napproaches like reinforcement learning are still often able to elicit\ncapabilities. Overall, our findings suggest that fine-tuning is an effective\nmethod of eliciting hidden capabilities of current models, but may be\nunreliable when high-quality demonstrations are not available, e.g. as may be\nthe case when models' (hidden) capabilities exceed those of human\ndemonstrators.",
-        "source": "arxiv",
-        "score": 0.317,
-        "matched_concept": "capabilities"
-      },
-      {
-        "title": "Introduction to ChatGPT: A new revolution of artificial intelligence with machine learning algorithms and cybersecurity",
-        "url": "https://www.semanticscholar.org/paper/5bd1edd4e721daac968d20ba56aa2553aa14691d",
-        "abstract": "ChatGPTis an innovative natural language processing (NLP) technology developed by OpenAI. It has revolutionized humancomputer interactions by utilizing Machine Learning (ML) and Deep Learning (DL) algorithms. ChatGPT generates a remarkable human-like conversations in response to user input. Consequently, the efficiency of ChatGPT lies in its ability to identify patterns in text, analyze context and produce responses that mimic human conversation. Its use of deep learning techniques which enables it to capture syntactic and semantic structures that resulting in natural-sounding output. Furthermore, its adaptive learning capability allows it to continuously improve and update its language understanding through exposure to a vast amount of user interactions. In this paper, a historical review of ChatGPT is introduced to catch up with the revolution of the Artificial Intelligence (AI) impact on life aspects, economic, financial, military and cybersecurity. Eventually, a comparison is made between ChatGPT versions and other AI platforms to present the effectiveness, weakness and strength points.",
+        "title": "The Dynamic Capabilities of Firms: an Introduction",
+        "url": "https://www.semanticscholar.org/paper/df8fcfeb8bbf73e401c2814eb867653ee1272b09",
+        "abstract": "An expanded paradigm is needed to explain how competitive advantage is gained and held. Firms resorting to 'resource-bas ed strategy' attempt to accumulate valuable technology assets and employ an aggressive intellectual property stance. However, winners in the global marketplace have been firms demonstrating timely responsiveness and rapid and flexible product innovation, along with the management capability to effectively coordinate and redeploy internal and external competences. This source of competitive advantage, 'dynamic capabilities', emphasizes two aspects. First, it refers to the shifting character of the environment; second, it emphasizes the key role of strategic management in appropriately adapting, integrating, and re-configuring internal and external organizational skills, resources, and functional competences toward changing environment.3 Only recently have researchers begun to focus on the specifics of developing firm-specific capabilities and the manner in which competences are renewed to respond to shifts in the business environment. The dynamic capabilities \\ approach provides a coherent framework to integrate existing conceptual and empirical ^ knowledge, and facilitate prescription. This paper argues that the competitive advanis tage of firms stems from dynamic capabilities rooted in high performance routines z operating inside the firm, embedded in the firm's processes, and conditioned by its •*> history. It offers dynamic capabilities as an emerging paradigm of the modern business J firm that draws on multiple disciplines and advances, with the help of industry studies > in the USA and elsewhere.",
         "source": "semantic_scholar",
-        "score": 0.4,
+        "score": 0.561,
+        "matched_concept": "capabilities"
+      },
+      {
+        "title": "Introduction to special topic forum on developing the dynamic capabilities of global companies across levels and locations",
+        "url": "https://www.semanticscholar.org/paper/6a8ec1f90a167b91a18c30a8330489f4286873e9",
+        "abstract": "Introduction to special topic forum on developing the dynamic capabilities of global companies across levels and locations",
+        "source": "semantic_scholar",
+        "score": 0.445,
+        "matched_concept": "capabilities"
+      },
+      {
+        "title": "In ChatGPT We Trust? Measuring and Characterizing the Reliability of\n  ChatGPT",
+        "url": "http://arxiv.org/abs/2304.08979v2",
+        "abstract": "The way users acquire information is undergoing a paradigm shift with the\nadvent of ChatGPT. Unlike conventional search engines, ChatGPT retrieves\nknowledge from the model itself and generates answers for users. ChatGPT's\nimpressive question-answering (QA) capability has attracted more than 100\nmillion users within a short period of time but has also raised concerns\nregarding its reliability. In this paper, we perform the first large-scale\nmeasurement of ChatGPT's reliability in the generic QA scenario with a\ncarefully curated set of 5,695 questions across ten datasets and eight domains.\nWe find that ChatGPT's reliability varies across different domains, especially\nunderperforming in law and science questions. We also demonstrate that system\nroles, originally designed by OpenAI to allow users to steer ChatGPT's\nbehavior, can impact ChatGPT's reliability in an imperceptible way. We further\nshow that ChatGPT is vulnerable to adversarial examples, and even a single\ncharacter change can negatively affect its reliability in certain cases. We\nbelieve that our study provides valuable insights into ChatGPT's reliability\nand underscores the need for strengthening the reliability and security of\nlarge language models (LLMs).",
+        "source": "arxiv",
+        "score": 0.332,
         "matched_concept": "chatgpt"
       },
       {
-        "title": "ChatGPT and AI in the Universities: An Introduction to the Near Future",
-        "url": "https://www.semanticscholar.org/paper/48dbd00b807c9cfdaf062e8c5226cd5820a6aba3",
-        "abstract": "The paper aims to present the theoretical and methodological foundations for developing and implementing artificial intelligence (AI) instruments in higher education within the HumanCentered AI framework and considers ChatGPT as a specific case. It is oriented toward critically analyzing scholarly literature from various disciplines to support a-disciplinary approach to utilizing AI research in higher education. The authors begin by outlining the foundations of the research, then by analyzing the implications of the “lessons” of the COVID-19 pandemic for the development of higher education in the age of AI. This is followed by an analysis of technologies such as ChatGPT that have the potential to radically change higher education in the near future. After that, the authors move on to general remarks about the prospects and challenges of using AI technologies in higher education. The relevance of the research is characterized by the analysis of the latest developments in the field of AI and their possible impact on higher education. The main results of the paper are characteristics of areas in which AI technologies can be implemented in higher education – accreditation and licensing of universities, student recruitment, teaching and learning – as well as areas in which AI technologies should not be used. In conclusion, two hypotheses are formulated, and three general and five specific conclusions about the use of AI technologies in higher education are made. ",
-        "source": "semantic_scholar",
-        "score": 0.301,
+        "title": "Is ChatGPT Involved in Texts? Measure the Polish Ratio to Detect\n  ChatGPT-Generated Text",
+        "url": "http://arxiv.org/abs/2307.11380v2",
+        "abstract": "The remarkable capabilities of large-scale language models, such as ChatGPT,\nin text generation have impressed readers and spurred researchers to devise\ndetectors to mitigate potential risks, including misinformation, phishing, and\nacademic dishonesty. Despite this, most previous studies have been\npredominantly geared towards creating detectors that differentiate between\npurely ChatGPT-generated texts and human-authored texts. This approach,\nhowever, fails to work on discerning texts generated through human-machine\ncollaboration, such as ChatGPT-polished texts. Addressing this gap, we\nintroduce a novel dataset termed HPPT (ChatGPT-polished academic abstracts),\nfacilitating the construction of more robust detectors. It diverges from extant\ncorpora by comprising pairs of human-written and ChatGPT-polished abstracts\ninstead of purely ChatGPT-generated texts. Additionally, we propose the \"Polish\nRatio\" method, an innovative measure of the degree of modification made by\nChatGPT compared to the original human-written text. It provides a mechanism to\nmeasure the degree of ChatGPT influence in the resulting text. Our experimental\nresults show our proposed model has better robustness on the HPPT dataset and\ntwo existing datasets (HC3 and CDB). Furthermore, the \"Polish Ratio\" we\nproposed offers a more comprehensive explanation by quantifying the degree of\nChatGPT involvement.",
+        "source": "arxiv",
+        "score": 0.333,
+        "matched_concept": "chatgpt"
+      },
+      {
+        "title": "When ChatGPT is gone: Creativity reverts and homogeneity persists",
+        "url": "http://arxiv.org/abs/2401.06816v1",
+        "abstract": "ChatGPT has been evidenced to enhance human performance in creative tasks.\nYet, it is still unclear if this boosting effect sustains with and without\nChatGPT. In a pre-registered seven-day lab experiment and a follow-up survey\nafter 30 days of experiment completion, we examined the impacts of ChatGPT\npresence and absence on sustained creativity using a text dataset of 3302\ncreative ideas and 427 creative solutions from 61 college students.\nParticipants in the treatment group used ChatGPT in creative tasks, while those\nin the control group completed the tasks by themselves. The findings show that\nalthough the boosting effect of ChatGPT was consistently observed over a\nfive-day creative journey, human creative performance reverted to baseline when\nChatGPT was down on the 7th and the 30th day. More critically, the use of\nChatGPT in creative tasks resulted in increasingly homogenized contents, and\nthis homogenization effect persisted even when ChatGPT was absence. These\nfindings pose a challenge to the prevailing argument that ChatGPT can enhance\nhuman creativity. In fact, generative AI like ChatGPT lends to human with a\ntemporary rise in creative performance but boxes human creative capability in\nthe long run, highlighting the imperative for cautious generative AI\nintegration in creative endeavors.",
+        "source": "arxiv",
+        "score": 0.331,
+        "matched_concept": "chatgpt"
+      },
+      {
+        "title": "Pros and Cons! Evaluating ChatGPT on Software Vulnerability",
+        "url": "http://arxiv.org/abs/2404.03994v1",
+        "abstract": "This paper proposes a pipeline for quantitatively evaluating interactive LLMs\nsuch as ChatGPT using publicly available dataset. We carry out an extensive\ntechnical evaluation of ChatGPT using Big-Vul covering five different common\nsoftware vulnerability tasks. We evaluate the multitask and multilingual\naspects of ChatGPT based on this dataset. We found that the existing\nstate-of-the-art methods are generally superior to ChatGPT in software\nvulnerability detection. Although ChatGPT improves accuracy when providing\ncontext information, it still has limitations in accurately predicting severity\nratings for certain CWE types. In addition, ChatGPT demonstrates some ability\nin locating vulnerabilities for certain CWE types, but its performance varies\namong different CWE types. ChatGPT exhibits limited vulnerability repair\ncapabilities in both providing and not providing context information. Finally,\nChatGPT shows uneven performance in generating CVE descriptions for various CWE\ntypes, with limited accuracy in detailed information. Overall, though ChatGPT\nperforms well in some aspects, it still needs improvement in understanding the\nsubtle differences in code vulnerabilities and the ability to describe\nvulnerabilities in order to fully realize its potential. Our evaluation\nframework provides valuable insights for further enhancing ChatGPT' s software\nvulnerability handling capabilities.",
+        "source": "arxiv",
+        "score": 0.378,
+        "matched_concept": "chatgpt"
+      },
+      {
+        "title": "ChatGPT Creates a Review Article: State of the Art in the Most-Cited\n  Articles on ChatGPT in Health Science, Computer Science, Communication, and\n  Culture, According to Altmetric in Dimensions.ai",
+        "url": "http://arxiv.org/abs/2307.02488v1",
+        "abstract": "We have analyzed all preprints on ChatGPT (N=501) and selected the most\ninfluential preprints (according to Altmetric) about ChatGPT across scientific\ndisciplines to provide the most discussed research results about ChatGPT. We\nprompted ChatGPT to create a structured review article based on them. The\nresults are surprisingly promising, suggesting that the future of creating\nreview articles can lie in ChatGPT.",
+        "source": "arxiv",
+        "score": 0.473,
         "matched_concept": "chatgpt"
       }
     ]
@@ -64,27 +64,11 @@
     "abstract_title": "Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)",
     "papers": [
       {
-        "title": "An Introduction to the Principle of Transparency in Automated Decision-Making Systems",
-        "url": "https://www.semanticscholar.org/paper/e54dee3cd8e7917490a9a08e5e204ed14c6debb1",
-        "abstract": "Under current European data protection law and the approach of the European Commission regarding artificial intelligence (AI) development, the principle of transparency and explainability by design are essential to protect the data subject's rights and generate confidence in AI systems. However, a closer look reveals that the legal approach ignores limitations of the transparency principle in the practical application of automated-decision making systems. Current transparency rules also require a high standard of transparency in automated decisions due to its potential risks.This paper seeks to analyze the scope of the principle of transparency and its limitations in the practical field, suggesting a division of data subjects to provide automated decision-making explanations according to their level of expertise to reach the transparency principle's goal: user understanding. The paper will address the semantic discussion of whether this objective is achieved through interpretability, explainability, accountability or, transparency in the broad sense. It also maps out the analysis about guidance to address transparency through a certification mechanism, contestability by design, or supplementary post hoc explanations in AI systems.",
+        "title": "Machine Learning Model Cards Transparency Review : Using model card toolkit",
+        "url": "https://www.semanticscholar.org/paper/61d93a88b4db300f963e6e1dfd86d0cb8b5d231f",
+        "abstract": "In our day to day life, we rely on information that is provided by product makers to make rightful choices such as the nutritional content of food, warnings in medications, strength parameters of a constructed road, etc but when it comes to AI there’s has not been any such provided information. The machine learning models are very often distributed without a proper clear understanding of how it functions, i.e. under what conditions would it perform the best and most consistently, whether or not it has blind spots, and, if so, then where are they.Model cards are a very recent and hot topic of research. In Machine Learning (ML), transparency with model cards is relevant as it affects a wide range of domains, from health care to finance and jobs, etc. This research paper presents the importance of model cards and transparency issues.",
         "source": "semantic_scholar",
-        "score": 0.42,
-        "matched_concept": "transparency"
-      },
-      {
-        "title": "Introduction to special issue algorithmic transparency in government: Towards a multi-level perspective",
-        "url": "https://www.semanticscholar.org/paper/5c59fa20f9e87097ff43d8eb9dee1672d47c3ef6",
-        "abstract": "The editorial sets the stage for the special issue on algorithmic transparency in government. The papers in the issue bring together transparency challenges experienced across different levels of government, including macro-, meso-, and micro-levels. This highlights that transparency issues transcend different levels of government – from European regulation to individual public bureaucrats. With a special focus on these links, the editorial sketches a future research agenda for transparency-related challenges. Highlighting these linkages is a first step towards seeing the bigger picture of why transparency mechanisms are put in place in some scenarios and not in others. Finally, this introduction present an agenda for future research, which opens the door to comparative analyses for future research and new insights for policymakers.",
-        "source": "semantic_scholar",
-        "score": 0.519,
-        "matched_concept": "transparency"
-      },
-      {
-        "title": "Transparency in Qualitative Research: An Overview of Key Findings and Recommendations (Introduction to Working Paper Series: Qualitative Transparency Deliberations, Working Group Final Reports)",
-        "url": "https://www.semanticscholar.org/paper/7ba199cb93ae6c0d7cbd2ccb08625d69a2e1a196",
-        "abstract": "In recent years, a variety of efforts have been made in political science to enable, encourage, or require scholars to be more open and explicit about the bases of their empirical claims and, in turn, make those claims more readily evaluable by others. While qualitative scholars have long taken an interest in making their research open, reflexive, and systematic, the recent push for overarching transparency norms and requirements has provoked serious concern within qualitative research communities and raised fundamental questions about the meaning, value, costs, and intellectual relevance of transparency for qualitative inquiry. This essay is the introduction to a symposium that crystallizes the central findings of a three-year deliberative process – the Qualitative Transparency Deliberations (QTD) – involving hundreds of political scientists in a broad discussion of these issues. The symposium’s centerpiece is a series of summaries of the QTD Working Group’s final reports. Drawing on a series of public, online conversations that unfolded at www.qualtd.net, the reports unpack transparency’s promise, practicalities, risks, and limitations in relation to different qualitative methodologies, forms of evidence, and research contexts. Taken as a whole, these reports offer practical guidance to scholars designing and implementing qualitative research, and to editors, reviewers, and funders seeking to develop criteria of evaluation that are appropriate – as understood by relevant research communities – to the forms of inquiry being assessed.",
-        "source": "semantic_scholar",
-        "score": 0.356,
+        "score": 0.39,
         "matched_concept": "transparency"
       }
     ]
