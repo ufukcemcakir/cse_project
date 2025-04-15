@@ -16,7 +16,7 @@ embed_model = SentenceTransformer("all-MiniLM-L6-v2")
 nlp = spacy.load("en_core_web_sm")
 
 # Config
-MAX_RESULTS_PER_CONCEPT = 5
+MAX_RESULTS_PER_CONCEPT = 100
 
 GENERIC_CONCEPTS = {"early", "key", "based", "systems", "tasks", "methods", "models", "approach", "approaches", "research"}
 
@@ -26,11 +26,11 @@ def search_textbooks(concept, max_results=3):
     base_url = "https://www.googleapis.com/books/v1/volumes"
     params = {
         "q": f"intitle:{concept}+subject:computer science",
-        "maxResults": max_results,
+        "maxResults": max_results * 2,  # fetch more, filter fewer
         "printType": "books"
     }
 
-    secondary_keywords = {"artificial intelligence", "computer science"}
+    secondary_keywords = {"artificial intelligence", "computer science", "machine learning", "data science"}
     blacklist_keywords = {"children", "fiction", "library", "MBA", "test prep", "dance", "grammar", "wellbeing"}
     accepted = []
 
@@ -39,27 +39,28 @@ def search_textbooks(concept, max_results=3):
         response.raise_for_status()
         data = response.json()
 
-        for item in data.get("items", []):
+        items = data.get("items", [])
+        print(f"📚 Google Books returned {len(items)} results for '{concept}'")
+
+        for item in items:
             info = item.get("volumeInfo", {})
             title = info.get("title", "").strip()
             url = info.get("infoLink", "")
             description = info.get("description", "")
-            categories = info.get("categories", [])
             page_count = info.get("pageCount", 0)
             authors = info.get("authors", [])
-
             content = f"{title} {description}".lower()
 
-            # 🔍 Only require a secondary keyword now
+            # Relaxed keyword check
             if not any(kw in content for kw in secondary_keywords):
                 continue
 
-            # ❌ Blacklist bad categories
+            # Blacklist check
             if any(bad in content for bad in blacklist_keywords):
                 continue
 
-            # 📘 Relaxed: allow shorter books
-            if page_count < 50:
+            # Relaxed page count
+            if page_count < 30:
                 continue
 
             accepted.append({
@@ -76,9 +77,6 @@ def search_textbooks(concept, max_results=3):
         print(f"⚠️ Google Books error for '{concept}': {e}")
 
     return accepted
-
-
-
 
 def is_valid_concept(concept):
     return len(concept) > 3 and concept.lower() not in GENERIC_CONCEPTS

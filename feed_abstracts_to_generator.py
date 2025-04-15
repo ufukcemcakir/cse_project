@@ -7,7 +7,7 @@ from reward_logger import save_training_example
 
 
 OUTPUT_FILE = "reading_results.txt"
-MAX_RESULTS_PER_CONCEPT = 5  # Adjustable global setting
+MAX_RESULTS_PER_CONCEPT = 100  # Adjustable global setting
 
 
 def load_abstracts(file_path, limit=MAX_RESULTS_PER_CONCEPT):

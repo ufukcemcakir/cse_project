@@ -1,3 +1,4 @@
+#--arxiv_added_paper_fetcer.py--
 import requests
 import json
 import time
@@ -22,6 +23,20 @@ def load_offset():
 def save_offset(offset):
     with open(OFFSET_FILE, "w") as f:
         f.write(str(offset))
+
+# --- Check for Duplicate Titles in Output File ---
+def is_duplicate_title(title, filepath):
+    if not os.path.exists(filepath):
+        return False
+    with open(filepath, "r", encoding="utf-8") as f:
+        for line in f:
+            try:
+                paper = json.loads(line)
+                if paper.get("title", "").strip().lower() == title.strip().lower():
+                    return True
+            except json.JSONDecodeError:
+                continue
+    return False
 
 # --- Semantic Scholar ---
 def fetch_semantic_scholar_papers(query, limit, offset):
@@ -55,12 +70,11 @@ def fetch_references(paper_id):
         return []
 
 # --- arXiv ---
-def fetch_arxiv_papers(query, max_results=10):
+def fetch_arxiv_papers(query, max_results=10, existing_titles=None):
     base_url = "http://export.arxiv.org/api/query"
-    search_query = f"all:{query}"
     encoded_query = urllib.parse.quote(f"all:{query}")
     url = f"http://export.arxiv.org/api/query?search_query={encoded_query}&start=0&max_results={max_results}"
-    print(f"🔍 [arXiv] Querying: {search_query}")
+    print(f"🔍 [arXiv] Querying: {query}")
     try:
         feed = feedparser.parse(url)
         papers = []
@@ -69,6 +83,8 @@ def fetch_arxiv_papers(query, max_results=10):
             abstract = entry.summary.strip()
             link = entry.link
             if title and abstract and link:
+                if existing_titles and title.lower() in existing_titles:
+                    continue
                 papers.append({
                     "title": title,
                     "abstract": abstract,
@@ -85,6 +101,20 @@ def append_to_file(papers, filepath):
     with open(filepath, "a", encoding="utf-8") as f:
         for paper in papers:
             f.write(json.dumps(paper) + "\n")
+
+def get_existing_titles(filepath):
+    titles = set()
+    if not os.path.exists(filepath):
+        return titles
+    with open(filepath, "r", encoding="utf-8") as f:
+        for line in f:
+            try:
+                paper = json.loads(line)
+                if "title" in paper:
+                    titles.add(paper["title"].strip().lower())
+            except json.JSONDecodeError:
+                continue
+    return titles
 
 # --- Main Runner ---
 def main():
@@ -105,8 +135,9 @@ def main():
         final_papers.append(paper)
         print(f"✅ [SS] {paper['title']}")
 
-    # --- arXiv ---
-    arxiv_papers = fetch_arxiv_papers(QUERY, max_results=LIMIT)
+    # --- arXiv with Deduplication ---
+    existing_titles = get_existing_titles(OUTPUT_FILE)
+    arxiv_papers = fetch_arxiv_papers(QUERY, max_results=LIMIT, existing_titles=existing_titles)
     for paper in arxiv_papers:
         final_papers.append(paper)
         print(f"✅ [arXiv] {paper['title']}")
