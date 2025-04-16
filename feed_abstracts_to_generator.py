@@ -1,13 +1,13 @@
 #--feed_abstracts_to_generator.py--
 import json
 import datetime
-from final_generator import extract_concepts_from_abstract
+from graph_enhanced_generator import graph_based_reading_path
 from llm_evaluator import evaluate_reading_path
 from reward_logger import save_training_example
-
+from final_generator import extract_concepts_from_abstract
 
 OUTPUT_FILE = "reading_results.txt"
-MAX_RESULTS_PER_CONCEPT = 100  # Adjustable global setting
+MAX_RESULTS_PER_CONCEPT = 5  # Adjustable global setting
 
 
 def load_abstracts(file_path, limit=MAX_RESULTS_PER_CONCEPT):
@@ -64,7 +64,7 @@ def feed_abstracts_to_generator(abstracts, generator_function):
         any_printed = False
         for paper in papers:
             paper_title = paper.get("title")
-            url = paper.get("url")
+            url = paper.get("url") or paper.get("fullTextUrl")
             source = paper.get("source", "unknown")
             if paper_title and url:
                 line = f"- {paper_title} ({source})\n  {url}"
@@ -74,7 +74,7 @@ def feed_abstracts_to_generator(abstracts, generator_function):
                 abstract_result["papers"].append(paper)
 
         if not any_printed:
-            msg = "No relevant papers found."
+            msg = f"⚠️ No papers with usable links found among {len(papers)} generated."
             print(msg)
             log_to_file(msg)
 
@@ -88,11 +88,16 @@ def save_reading_paths_to_file(results, output_file="reading_paths_output.json")
         json.dump(results, f, indent=2, ensure_ascii=False)
 
 
-# Usage
 if __name__ == "__main__":
+    from graph_enhanced_generator import graph_based_reading_path
     from final_generator import generate_reading_path_from_abstract
 
     file_path = "local_papers_with_refs.jsonl"
-    abstracts = load_abstracts(file_path)  # Load all
-    results = feed_abstracts_to_generator(abstracts, generate_reading_path_from_abstract)
+    abstracts = load_abstracts(file_path)
+
+    USE_GRAPH = True  # ← toggle here
+
+    generator = graph_based_reading_path if USE_GRAPH else generate_reading_path_from_abstract
+    results = feed_abstracts_to_generator(abstracts, generator)
     save_reading_paths_to_file(results)
+

@@ -16,7 +16,7 @@ embed_model = SentenceTransformer("all-MiniLM-L6-v2")
 nlp = spacy.load("en_core_web_sm")
 
 # Config
-MAX_RESULTS_PER_CONCEPT = 100
+MAX_RESULTS_PER_CONCEPT = 5
 
 GENERIC_CONCEPTS = {"early", "key", "based", "systems", "tasks", "methods", "models", "approach", "approaches", "research"}
 

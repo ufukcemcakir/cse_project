@@ -18798,3 +18798,46 @@ Future Outlook for Smart Textiles (semantic_scholar)
   https://www.semanticscholar.org/paper/aaf4f5615e17e21ca543efc55322b730e317ecfe
 - Introduction to From Higher Aims to Hired Hands The Social Transformation of American Business Schools and the Unfulfilled Promise of Management as a Profession (semantic_scholar)
   https://www.semanticscholar.org/paper/c16251aaf6f369cebb843bb64bb8c1b8ecb5b55a
+
+===== 🔎 Run at 2025-04-16 18:00:37 =====
+
+=== Abstract 1/74: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+
+===== 🔎 Run at 2025-04-16 18:05:13 =====
+
+=== Abstract 1/74: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+
+===== 🔎 Run at 2025-04-16 18:07:17 =====
+
+=== Abstract 1/2: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+🧠 LLM Score: 7.0/10
+No relevant papers found.
+
+=== Abstract 2/2: Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI) ===
+🧠 LLM Score: 8.0/10
+No relevant papers found.
+
+===== 🔎 Run at 2025-04-16 18:10:42 =====
+
+=== Abstract 1/2: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+🧠 LLM Score: 7.0/10
+No relevant papers found.
+
+=== Abstract 2/2: Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI) ===
+🧠 LLM Score: 8.0/10
+No relevant papers found.
+
+===== 🔎 Run at 2025-04-16 18:13:30 =====
+
+=== Abstract 1/2: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+🧠 LLM Score: 7.0/10
+⚠️ No papers with usable links found among 5 generated.
+
+=== Abstract 2/2: Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI) ===
+🧠 LLM Score: 8.0/10
+- Quo vadis artificial intelligence? (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s44163-022-00022-8.pdf
+- Trustworthy artificial intelligence (unknown)
+  https://link.springer.com/content/pdf/10.1007/s44204-023-00063-5.pdf
+- An Overview of Artificial Intelligence Ethics (unknown)
+  https://ieeexplore.ieee.org/ielx7/9078688/9184921/09844014.pdf
