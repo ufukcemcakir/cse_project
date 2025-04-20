@@ -18841,3 +18841,18 @@ No relevant papers found.
   https://link.springer.com/content/pdf/10.1007/s44204-023-00063-5.pdf
 - An Overview of Artificial Intelligence Ethics (unknown)
   https://ieeexplore.ieee.org/ielx7/9078688/9184921/09844014.pdf
+
+===== 🔎 Run at 2025-04-20 16:33:49 =====
+
+=== Abstract 1/2: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+🧠 LLM Score: 6.0/10
+⚠️ No papers with usable links found among 5 generated.
+
+=== Abstract 2/2: Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI) ===
+🧠 LLM Score: 7.0/10
+- Quo vadis artificial intelligence? (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s44163-022-00022-8.pdf
+- Trustworthy artificial intelligence (unknown)
+  https://link.springer.com/content/pdf/10.1007/s44204-023-00063-5.pdf
+- An Overview of Artificial Intelligence Ethics (unknown)
+  https://ieeexplore.ieee.org/ielx7/9078688/9184921/09844014.pdf

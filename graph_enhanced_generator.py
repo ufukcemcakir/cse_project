@@ -100,10 +100,3 @@ def graph_based_reading_path(abstract, max_results=5):
 
     ranked_papers = rank_papers(concepts, concept_map, citation_graph, top_k=max_results)
     return ranked_papers
-
-# Example Usage
-if __name__ == "__main__":
-    abstract = "This paper surveys recent advances in explainable artificial intelligence and its intersection with deep learning."
-    path = graph_based_reading_path(abstract, max_results=6)
-    for paper in path:
-        print(f"- {paper['title']} ({paper.get('year', '?')})\n  {paper.get('fullTextUrl') or paper.get('url', 'No link')}")

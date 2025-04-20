@@ -1,13 +1,31 @@
-#--arxiv_added_paper_fetcer.py--
+#--arxiv_added_paper_fetcher.py--
 import requests
 import json
 import time
 import os
 import feedparser
 import urllib.parse
+import random
 
 # --- Config ---
-QUERY = "artificial intelligence"
+QUERIES = [
+    "artificial intelligence", "machine learning", "natural language processing",
+    "reinforcement learning", "graph neural networks", "explainable ai",
+    "transformer models", "language models", "self-supervised learning",
+    "computer vision", "multi-modal learning", "zero-shot learning",
+    "few-shot learning", "deep learning", "neural networks", "data augmentation",
+    "transfer learning", "adversarial training", "semi-supervised learning",
+    "recurrent neural networks", "convolutional neural networks",
+    "generative adversarial networks", "autoencoders",
+    "attention mechanisms", "bayesian networks", "unsupervised learning",
+    "meta learning", "federated learning", "anomaly detection",
+    "active learning", "continual learning", "graph embeddings",
+    "natural logic", "symbolic ai", "optimization algorithms",
+    "hyperparameter tuning", "large language models", "text-to-image generation",
+    "contrastive learning", "knowledge distillation", "neurosymbolic AI",
+    "causal inference in machine learning", "multilingual NLP",
+    "automated machine learning", "open-domain question answering"
+]
 LIMIT = 10
 OUTPUT_FILE = "local_papers_with_refs.jsonl"
 OFFSET_FILE = "offset_tracker_refs.txt"
@@ -39,7 +57,8 @@ def is_duplicate_title(title, filepath):
     return False
 
 # --- Semantic Scholar ---
-def fetch_semantic_scholar_papers(query, limit, offset):
+# --- Semantic Scholar ---
+def fetch_semantic_scholar_papers(query, limit, offset, max_retries=5, delay=10):
     url = "https://api.semanticscholar.org/graph/v1/paper/search"
     params = {
         "query": query,
@@ -47,10 +66,23 @@ def fetch_semantic_scholar_papers(query, limit, offset):
         "offset": offset,
         "fields": PAPER_FIELDS
     }
-    print(f"🔍 [SS] Fetching {limit} papers from offset {offset}")
-    response = requests.get(url, params=params)
-    response.raise_for_status()
-    return response.json().get("data", [])
+    for attempt in range(max_retries):
+        try:
+            print(f"🔍 [SS] Fetching {limit} papers from offset {offset} for query: {query}")
+            response = requests.get(url, params=params)
+            if response.status_code == 429:
+                print("⚠️ Rate limit hit. Sleeping...")
+                time.sleep(delay * (attempt + 1))
+                continue
+            response.raise_for_status()
+            return response.json().get("data", [])
+        except requests.exceptions.HTTPError as e:
+            print(f"❌ HTTP error: {e}")
+            time.sleep(delay * (attempt + 1))
+        except Exception as e:
+            print(f"❌ Unexpected error: {e}")
+            break
+    return []
 
 def fetch_references(paper_id):
     url = f"https://api.semanticscholar.org/graph/v1/paper/{paper_id}/references?fields={REFERENCE_FIELDS}"
@@ -71,7 +103,6 @@ def fetch_references(paper_id):
 
 # --- arXiv ---
 def fetch_arxiv_papers(query, max_results=10, existing_titles=None):
-    base_url = "http://export.arxiv.org/api/query"
     encoded_query = urllib.parse.quote(f"all:{query}")
     url = f"http://export.arxiv.org/api/query?search_query={encoded_query}&start=0&max_results={max_results}"
     print(f"🔍 [arXiv] Querying: {query}")
@@ -120,9 +151,10 @@ def get_existing_titles(filepath):
 def main():
     offset = load_offset()
     final_papers = []
+    query = random.choice(QUERIES)
 
     # --- Semantic Scholar ---
-    ss_papers = fetch_semantic_scholar_papers(QUERY, LIMIT, offset)
+    ss_papers = fetch_semantic_scholar_papers(query, LIMIT, offset)
     for paper in ss_papers:
         pdf_url = paper.get("openAccessPdf", {}).get("url")
         if not pdf_url:
@@ -137,7 +169,7 @@ def main():
 
     # --- arXiv with Deduplication ---
     existing_titles = get_existing_titles(OUTPUT_FILE)
-    arxiv_papers = fetch_arxiv_papers(QUERY, max_results=LIMIT, existing_titles=existing_titles)
+    arxiv_papers = fetch_arxiv_papers(query, max_results=LIMIT, existing_titles=existing_titles)
     for paper in arxiv_papers:
         final_papers.append(paper)
         print(f"✅ [arXiv] {paper['title']}")
