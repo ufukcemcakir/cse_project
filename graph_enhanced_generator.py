@@ -47,6 +47,12 @@ def build_concept_to_papers(papers):
             mapping[concept].append(paper)
     return mapping
 
+# ✅ Exposed helper for RL loop
+def get_papers_for_concepts(concepts):
+    papers = load_papers(PAPER_FILE)
+    concept_map = build_concept_to_papers(papers)
+    return {c: concept_map.get(c, []) for c in concepts}
+
 # --- Step 2: Scoring and Recommendation ---
 def rank_papers(concepts, concept_map, citation_graph, top_k=5):
     scores = []

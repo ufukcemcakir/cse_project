@@ -2,9 +2,11 @@ import json
 import os
 import requests
 import time
+import shutil
+from tqdm import tqdm
 
-INPUT_FILE = "local_papers_with_refs.jsonl"
-OUTPUT_FILE = "local_papers_with_refs_enriched.jsonl"
+INPUT_FILE = "local_papers_with_refs_backup.jsonl"
+OUTPUT_FILE = "local_papers_with_refs.jsonl"
 OPENALEX_BASE = "https://api.openalex.org"
 
 
@@ -49,16 +51,30 @@ def get_referenced_works(openalex_id):
         return []
 
 
-def enrich_arxiv_papers(input_path, output_path):
+def enrich_and_merge_arxiv_papers(input_path, output_path):
     if not os.path.exists(input_path):
         print("❌ Input file not found.")
         return
 
-    with open(input_path, 'r', encoding='utf-8') as infile, open(output_path, 'w', encoding='utf-8') as outfile:
-        for line in infile:
-            try:
-                paper = json.loads(line)
-                if paper.get("source") == "arxiv" and "references" not in paper:
+    enriched_lines = []
+    seen_titles = set()
+
+    with open(input_path, 'r', encoding='utf-8') as infile:
+        lines = infile.readlines()
+
+    for line in tqdm(lines, desc="🔄 Enriching Papers", unit="paper"):
+        try:
+            paper = json.loads(line)
+            title_key = paper.get("title", "").strip().lower()
+            if title_key in seen_titles:
+                print(f"⚠️ Duplicate found, skipping: {paper['title']}")
+                continue
+            seen_titles.add(title_key)
+
+            if paper.get("source") == "arxiv":
+                if "references" in paper and isinstance(paper["references"], list) and len(paper["references"]) > 0:
+                    print(f"⏭️ Skipping already enriched: {paper['title']}")
+                else:
                     print(f"🔎 Enriching: {paper['title']}")
                     openalex_id = get_openalex_id(paper["title"])
                     if openalex_id:
@@ -67,10 +83,17 @@ def enrich_arxiv_papers(input_path, output_path):
                         print(f"✅ Added {len(paper['references'])} references")
                     else:
                         print("⚠️ No OpenAlex match found.")
-                outfile.write(json.dumps(paper) + "\n")
-            except Exception as e:
-                print(f"⚠️ Failed to process a paper: {e}")
+
+            enriched_lines.append(json.dumps(paper))
+        except Exception as e:
+            print(f"⚠️ Failed to process a paper: {e}")
+
+    with open(output_path, 'w', encoding='utf-8') as f:
+        for line in enriched_lines:
+            f.write(line + '\n')
+
+    print(f"✅ Enrichment complete. Output written to {output_path}")
 
 
 if __name__ == "__main__":
-    enrich_arxiv_papers(INPUT_FILE, OUTPUT_FILE)
+    enrich_and_merge_arxiv_papers(INPUT_FILE, OUTPUT_FILE)
