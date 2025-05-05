@@ -10,12 +10,17 @@ from graph_enhanced_generator import get_papers_for_concepts
 from llm_evaluator import evaluate_reading_path_with_rubric as evaluate_reading_path
 from reward_logger import save_training_example
 
-OUTPUT_FILE = "reading_results.txt"
-TRAINING_FILE = "llm_training_data.jsonl"
+# === CONFIG ===
+INPUT_FILE = "local_papers_with_refs_enriched.jsonl"
+OUTPUT_FILE = "reading_results_enriched.txt"
+TRAINING_FILE = "llm_training_data_enriched.jsonl"
 MISTRAL_REQUEST_INTERVAL = 2.0
 NUM_VARIANTS = 5
 TOP_K_PER_CONCEPT = 5
 MAX_ABSTRACTS = None
+PAUSE_INTERVAL = 25  # Pause after every 25 abstracts
+PAUSE_DURATION = 60  # seconds
+
 
 def load_abstracts(file_path, limit=None):
     abstracts = []
@@ -33,9 +38,11 @@ def load_abstracts(file_path, limit=None):
                 print(f"Warning: Skipping invalid line {i + 1}")
     return abstracts
 
+
 def log_to_file(text):
     with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
         f.write(text + "\n")
+
 
 def generate_variants(concepts, papers_by_concept, num_variants=5, top_k=5):
     candidates = []
@@ -51,6 +58,7 @@ def generate_variants(concepts, papers_by_concept, num_variants=5, top_k=5):
                         path.append(paper)
         candidates.append(path)
     return candidates
+
 
 def rl_guided_reading_path(abstract, n_variants=NUM_VARIANTS, top_k=TOP_K_PER_CONCEPT):
     concepts = extract_concepts_from_abstract(abstract)
@@ -75,12 +83,13 @@ def rl_guided_reading_path(abstract, n_variants=NUM_VARIANTS, top_k=TOP_K_PER_CO
             print("⚠️ Mistral scoring failed for this variant.")
 
     if best_path:
-        save_training_example(concepts, best_path, best_score)
+        save_training_example(concepts, best_path, best_score, file_path=TRAINING_FILE)
         print(f"🏆 Best score: {best_score}")
     else:
         print("⚠️ No valid reading path found.")
 
     return best_path
+
 
 def feed_abstracts_to_generator(abstracts):
     timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -88,7 +97,7 @@ def feed_abstracts_to_generator(abstracts):
     results = []
 
     with open(TRAINING_FILE, "w", encoding="utf-8") as f:
-        pass
+        pass  # Clear file
 
     for idx, (title, abstract) in enumerate(tqdm(abstracts, desc="Evaluating abstracts"), 1):
         header = f"\n=== Abstract {idx}: {title} ==="
@@ -124,14 +133,20 @@ def feed_abstracts_to_generator(abstracts):
 
         results.append(abstract_result)
 
+        # Pause every N abstracts
+        if idx % PAUSE_INTERVAL == 0:
+            print(f"⏸️ Pausing for {PAUSE_DURATION} seconds after {idx} abstracts...")
+            time.sleep(PAUSE_DURATION)
+
     return results
 
-def save_reading_paths_to_file(results, output_file="reading_paths_output.json"):
+
+def save_reading_paths_to_file(results, output_file="reading_paths_output_enriched.json"):
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
 
+
 if __name__ == "__main__":
-    file_path = "local_papers_with_refs.jsonl"
-    abstracts = load_abstracts(file_path, limit=MAX_ABSTRACTS)
+    abstracts = load_abstracts(INPUT_FILE, limit=MAX_ABSTRACTS)
     results = feed_abstracts_to_generator(abstracts)
     save_reading_paths_to_file(results)

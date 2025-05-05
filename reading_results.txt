@@ -29621,3 +29621,1334 @@ No relevant papers found.
 - Extended Abstract of Performance Analysis and Prediction of Model
   Transformation (arxiv)
   http://arxiv.org/abs/2004.08838v1
+
+===== 🔎 Run at 2025-05-05 20:46:54 =====
+
+=== Abstract 1: Sparks of Artificial General Intelligence: Early experiments with GPT-4 ===
+- Model Validation in Ontology Based Transformations (arxiv)
+  http://arxiv.org/abs/1210.6111v1
+- Attention mechanisms for physiological signal deep learning: which
+  attention should we take? (arxiv)
+  http://arxiv.org/abs/2207.06904v1
+- Active Few-Shot Learning with FASL (semantic_scholar)
+  https://arxiv.org/pdf/2204.09347
+- Explainable AI in Diagnosing and Anticipating Leukemia Using Transfer Learning Method (semantic_scholar)
+  https://downloads.hindawi.com/journals/cin/2022/5140148.pdf
+- Single-step Adversarial training with Dropout Scheduling (arxiv)
+  http://arxiv.org/abs/2004.08628v1
+- Cybertrust: From Explainable to Actionable and Interpretable AI (AI2) (arxiv)
+  http://arxiv.org/abs/2201.11117v1
+- Data-centric Artificial Intelligence: A Survey (unknown)
+  http://arxiv.org/pdf/2303.10158
+- FlipDA: Effective and Robust Data Augmentation for Few-Shot Learning (semantic_scholar)
+  https://aclanthology.org/2022.acl-long.592.pdf
+- Zero-Shot Task Transfer (arxiv)
+  http://arxiv.org/abs/1903.01092v1
+- Text Data Augmentation for Large Language Models: A Comprehensive Survey
+  of Methods, Challenges, and Opportunities (arxiv)
+  http://arxiv.org/abs/2501.18845v1
+
+=== Abstract 2: Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI) ===
+- Extended Abstract of Performance Analysis and Prediction of Model
+  Transformation (arxiv)
+  http://arxiv.org/abs/2004.08838v1
+- A Review of Artificial Intelligence (AI) in Education from 2010 to 2020 (semantic_scholar)
+  https://downloads.hindawi.com/journals/complexity/2021/8812542.pdf
+- Edge Intelligence: Paving the Last Mile of Artificial Intelligence With Edge Computing (semantic_scholar)
+  https://ieeexplore.ieee.org/ielx7/5/8789751/08736011.pdf
+- "Weak AI" is Likely to Never Become "Strong AI", So What is its Greatest
+  Value for us? (arxiv)
+  http://arxiv.org/abs/2103.15294v1
+- Tangible Explainable AI - an Initial Conceptual Framework (semantic_scholar)
+  https://dl.acm.org/doi/pdf/10.1145/3568444.3568456
+- From Explainable to Interactive AI: A Literature Review on Current
+  Trends in Human-AI Interaction (arxiv)
+  http://arxiv.org/abs/2405.15051v1
+- Cybertrust: From Explainable to Actionable and Interpretable AI (AI2) (arxiv)
+  http://arxiv.org/abs/2201.11117v1
+- Artificial intelligence in healthcare: transforming the practice of medicine (semantic_scholar)
+  https://www.rcpjournals.org/content/futurehosp/8/2/e188.full.pdf
+- Explainable Artificial Intelligence Applications in Cyber Security: State-of-the-Art in Research (semantic_scholar)
+  https://ieeexplore.ieee.org/ielx7/6287639/6514899/09875264.pdf
+- Segmentation-Based Classification Deep Learning Model Embedded with Explainable AI for COVID-19 Detection in Chest X-ray Scans (semantic_scholar)
+  https://www.mdpi.com/2075-4418/12/9/2132/pdf?version=1662097065
+- The role of artificial intelligence in achieving the Sustainable Development Goals (semantic_scholar)
+  https://www.nature.com/articles/s41467-019-14108-y.pdf
+- A Closer Look into Transformer-Based Code Intelligence Through Code
+  Transformation: Challenges and Opportunities (arxiv)
+  http://arxiv.org/abs/2207.04285v1
+- An Explainable AI-Based Fault Diagnosis Model for Bearings (semantic_scholar)
+  https://www.mdpi.com/1424-8220/21/12/4070/pdf?version=1623998792
+- Transformer Feed-Forward Layers Are Key-Value Memories (semantic_scholar)
+  https://aclanthology.org/2021.emnlp-main.446.pdf
+- Explainable AI and Reinforcement Learning—A Systematic Review of Current Approaches and Trends (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/frai.2021.550030/pdf
+- Improving Health Professionals' Onboarding with AI and XAI for
+  Trustworthy Human-AI Collaborative Decision Making (arxiv)
+  http://arxiv.org/abs/2405.16424v1
+- eXplainable AI for Quantum Machine Learning (semantic_scholar)
+  https://arxiv.org/pdf/2211.01441
+
+=== Abstract 3: Adaptation in Natural and Artificial Systems: An Introductory Analysis with Applications to Biology, Control, and Artificial Intelligence ===
+- Machine Learning in Medicine (semantic_scholar)
+  https://europepmc.org/articles/pmc5831252?pdf=render
+- Explainability and the Fourth AI Revolution (arxiv)
+  http://arxiv.org/abs/2111.06773v1
+- Cybertrust: From Explainable to Actionable and Interpretable AI (AI2) (arxiv)
+  http://arxiv.org/abs/2201.11117v1
+- Vision-based human activity recognition: a survey (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s11042-020-09004-3.pdf
+- The Clinician and Dataset Shift in Artificial Intelligence. (semantic_scholar)
+  https://www.nejm.org/doi/pdf/10.1056/NEJMc2104626?articleTools=true
+- Artificial intelligence in disease diagnosis: a systematic literature review, synthesizing framework and future research agenda (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s12652-021-03612-z.pdf
+- Attitudes and perception of artificial intelligence in healthcare: A cross-sectional survey among patients (semantic_scholar)
+  https://journals.sagepub.com/doi/pdf/10.1177/20552076221116772
+- Watershed of Artificial Intelligence: Human Intelligence, Machine
+  Intelligence, and Biological Intelligence (arxiv)
+  http://arxiv.org/abs/2104.13155v2
+- Artificial intelligence in medical education: a cross-sectional needs assessment (semantic_scholar)
+  https://bmcmededuc.biomedcentral.com/counter/pdf/10.1186/s12909-022-03852-3
+- Has the Future Started? The Current Growth of Artificial Intelligence, Machine Learning, and Deep Learning (semantic_scholar)
+  https://journal.esj.edu.iq/index.php/IJCM/article/download/100/139
+- A Comprehensive Overview and Survey of Recent Advances in Meta-Learning (arxiv)
+  http://arxiv.org/abs/2004.11149v7
+- The ART of Transfer Learning: An Adaptive and Robust Pipeline (arxiv)
+  http://arxiv.org/abs/2305.00520v1
+
+=== Abstract 4: Impact of Artificial Intelligence in Customer Journey ===
+- From ”Explainable AI” to ”Graspable AI” (semantic_scholar)
+  https://kth.diva-portal.org/smash/get/diva2:1556569/FULLTEXT01
+- Explainability and the Fourth AI Revolution (arxiv)
+  http://arxiv.org/abs/2111.06773v1
+- Cybertrust: From Explainable to Actionable and Interpretable AI (AI2) (arxiv)
+  http://arxiv.org/abs/2201.11117v1
+- From Explainable to Interactive AI: A Literature Review on Current
+  Trends in Human-AI Interaction (arxiv)
+  http://arxiv.org/abs/2405.15051v1
+
+=== Abstract 5: Explainable Artificial Intelligence (XAI) ===
+- Explainable AI and Reinforcement Learning—A Systematic Review of Current Approaches and Trends (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/frai.2021.550030/pdf
+- Towards Trustable Explainable AI (semantic_scholar)
+  https://www.ijcai.org/proceedings/2020/0726.pdf
+- Explainable Artificial Intelligence Applications in Cyber Security: State-of-the-Art in Research (semantic_scholar)
+  https://ieeexplore.ieee.org/ielx7/6287639/6514899/09875264.pdf
+- Tangible Explainable AI - an Initial Conceptual Framework (semantic_scholar)
+  https://dl.acm.org/doi/pdf/10.1145/3568444.3568456
+- A Machine Learning Tutorial for Operational Meteorology, Part I:
+  Traditional Machine Learning (arxiv)
+  http://arxiv.org/abs/2204.07492v2
+- Deep Learning vs. Traditional Computer Vision (arxiv)
+  http://arxiv.org/abs/1910.13796v1
+- Position Paper: Towards Transparent Machine Learning (arxiv)
+  http://arxiv.org/abs/1911.06612v1
+- Some Insights into Lifelong Reinforcement Learning Systems (arxiv)
+  http://arxiv.org/abs/2001.09608v1
+- A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT (semantic_scholar)
+  http://arxiv.org/pdf/2302.09419
+- The Importance of Being Recurrent for Modeling Hierarchical Structure (arxiv)
+  http://arxiv.org/abs/1803.03585v2
+- EmoNet: Fine-Grained Emotion Detection with Gated Recurrent Neural Networks (semantic_scholar)
+  https://www.aclweb.org/anthology/P17-1067.pdf
+- Computer-aided diagnosis of lung nodule classification between benign nodule, primary lung cancer, and metastatic lung cancer at different image size using deep convolutional neural network with transfer learning (semantic_scholar)
+  https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0200721&type=printable
+- Effective Heart Disease Prediction Using Hybrid Machine Learning Techniques (semantic_scholar)
+  https://ieeexplore.ieee.org/ielx7/6287639/8600701/08740989.pdf
+- Scaling Vision Transformers (semantic_scholar)
+  https://arxiv.org/pdf/2106.04560
+- Accuracy of a Generative Artificial Intelligence Model in a Complex Diagnostic Challenge. (unknown)
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10273128
+- Artificial Intelligence in Education: AIEd for Personalised Learning Pathways (semantic_scholar)
+  https://academic-publishing.org/index.php/ejel/article/download/2597/2107
+- Artificial Intelligence and Management: The Automation–Augmentation Paradox (semantic_scholar)
+  https://zenodo.org/records/8338404/files/RaischKrakowski_AMR_inpress.pdf
+- Artificial intelligence-based solutions for climate change: a review (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s10311-023-01617-y.pdf
+- The case for psychometric artificial general intelligence (arxiv)
+  http://arxiv.org/abs/2101.02179v1
+- Explainable AI: Using Shapley Value to Explain Complex Anomaly Detection ML-Based Systems (semantic_scholar)
+  https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA200777
+- Improving Health Professionals' Onboarding with AI and XAI for
+  Trustworthy Human-AI Collaborative Decision Making (arxiv)
+  http://arxiv.org/abs/2405.16424v1
+- Has the Future Started? The Current Growth of Artificial Intelligence, Machine Learning, and Deep Learning (semantic_scholar)
+  https://journal.esj.edu.iq/index.php/IJCM/article/download/100/139
+- The role of domain expertise in trusting and following explainable AI decision support systems (semantic_scholar)
+  https://www.tandfonline.com/doi/pdf/10.1080/12460125.2021.1958505?needAccess=true
+- Cybertrust: From Explainable to Actionable and Interpretable AI (AI2) (arxiv)
+  http://arxiv.org/abs/2201.11117v1
+
+=== Abstract 6: Revolutionizing healthcare: the role of artificial intelligence in clinical practice ===
+- Artificial intelligence in healthcare: past, present and future (semantic_scholar)
+  https://svn.bmj.com/content/svnbmj/2/4/230.full.pdf
+- The potential for artificial intelligence in healthcare (semantic_scholar)
+  https://www.rcpjournals.org/content/futurehosp/6/2/94.full.pdf
+- Artificial intelligence in medical education: a cross-sectional needs assessment (semantic_scholar)
+  https://bmcmededuc.biomedcentral.com/counter/pdf/10.1186/s12909-022-03852-3
+- Has the Future Started? The Current Growth of Artificial Intelligence, Machine Learning, and Deep Learning (semantic_scholar)
+  https://journal.esj.edu.iq/index.php/IJCM/article/download/100/139
+- Artificial intelligence in healthcare: transforming the practice of medicine (semantic_scholar)
+  https://www.rcpjournals.org/content/futurehosp/8/2/e188.full.pdf
+- A Review of the Role of Artificial Intelligence in Healthcare (unknown)
+  https://www.mdpi.com/2075-4426/13/6/951/pdf?version=1685933257
+- Artificial Intelligence in Pharmaceutical Technology and Drug Delivery Design (unknown)
+  https://www.mdpi.com/1999-4923/15/7/1916/pdf?version=1688977390
+- Artificial intelligence for digital and computational pathology (semantic_scholar)
+  http://arxiv.org/pdf/2401.06148
+- Artificial intelligence-enhanced electrocardiography in cardiovascular disease management (semantic_scholar)
+  https://www.nature.com/articles/s41569-020-00503-2.pdf
+- Generating Radiology Reports via Memory-driven Transformer (semantic_scholar)
+  https://www.aclweb.org/anthology/2020.emnlp-main.112.pdf
+- The Clinician and Dataset Shift in Artificial Intelligence. (semantic_scholar)
+  https://www.nejm.org/doi/pdf/10.1056/NEJMc2104626?articleTools=true
+- Machine Learning for Clinical Predictive Analytics (arxiv)
+  http://arxiv.org/abs/1909.09246v1
+- Explainable AI: A review of applications to neuroimaging data (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/fnins.2022.906290/pdf
+- Artificial Intelligence in Dentistry—Narrative Review (semantic_scholar)
+  https://www.mdpi.com/1660-4601/19/6/3449/pdf?version=1647326964
+- Explainable AI improves task performance in human-AI collaboration (arxiv)
+  http://arxiv.org/abs/2406.08271v1
+- Improving Health Professionals' Onboarding with AI and XAI for
+  Trustworthy Human-AI Collaborative Decision Making (arxiv)
+  http://arxiv.org/abs/2405.16424v1
+- New Era of Artificial Intelligence in Education: Towards a Sustainable Multifaceted Revolution (unknown)
+  https://www.mdpi.com/2071-1050/15/16/12451/pdf?version=1692181759
+- Machine Learning in Medicine (semantic_scholar)
+  https://europepmc.org/articles/pmc5831252?pdf=render
+
+=== Abstract 7: Collaborating With ChatGPT: Considering the Implications of Generative Artificial Intelligence for Journalism and Media Education ===
+- Diffusion Models in Vision: A Survey (semantic_scholar)
+  https://arxiv.org/pdf/2209.04747
+- Empowering Education with Generative Artificial Intelligence Tools: Approach with an Instructional Design Matrix (unknown)
+  https://www.mdpi.com/2071-1050/15/15/11524/pdf?version=1690354809
+- Accuracy of a Generative Artificial Intelligence Model in a Complex Diagnostic Challenge. (unknown)
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10273128
+- Multimodal Large Language Models for Image, Text, and Speech Data
+  Augmentation: A Survey (arxiv)
+  http://arxiv.org/abs/2501.18648v2
+- Learning Statistical Scripts with LSTM Recurrent Neural Networks (semantic_scholar)
+  https://ojs.aaai.org/index.php/AAAI/article/download/10347/10206
+- DocFormer: End-to-End Transformer for Document Understanding (semantic_scholar)
+  https://arxiv.org/pdf/2106.11539
+
+=== Abstract 8: Experimental evidence on the productivity effects of generative artificial intelligence ===
+- Data-centric Artificial Intelligence: A Survey (unknown)
+  http://arxiv.org/pdf/2303.10158
+- FlipDA: Effective and Robust Data Augmentation for Few-Shot Learning (semantic_scholar)
+  https://aclanthology.org/2022.acl-long.592.pdf
+- Artificial intelligence for digital and computational pathology (semantic_scholar)
+  http://arxiv.org/pdf/2401.06148
+- InstructDiffusion: A Generalist Modeling Interface for Vision Tasks (semantic_scholar)
+  https://arxiv.org/pdf/2309.03895
+
+=== Abstract 9: Can artificial intelligence help for scientific writing? ===
+- On scientific understanding with artificial intelligence (semantic_scholar)
+  https://www.nature.com/articles/s42254-022-00518-3.pdf
+- Machine Learning in Computer Vision: A Review (semantic_scholar)
+  http://eudl.eu/pdf/10.4108/eai.21-4-2021.169418
+- Empowering Education with Generative Artificial Intelligence Tools: Approach with an Instructional Design Matrix (unknown)
+  https://www.mdpi.com/2071-1050/15/15/11524/pdf?version=1690354809
+- Artificial Intelligence in Dentistry—Narrative Review (semantic_scholar)
+  https://www.mdpi.com/1660-4601/19/6/3449/pdf?version=1647326964
+- Computer vision syndrome: a study of knowledge and practices in university students. (semantic_scholar)
+  https://www.nepjol.info/index.php/NEPJOPH/article/view/8707/7099
+
+=== Abstract 10: New Era of Artificial Intelligence in Education: Towards a Sustainable Multifaceted Revolution ===
+- Artificial Intelligence in Education: AIEd for Personalised Learning Pathways (semantic_scholar)
+  https://academic-publishing.org/index.php/ejel/article/download/2597/2107
+- Empowering Education with Generative Artificial Intelligence Tools: Approach with an Instructional Design Matrix (unknown)
+  https://www.mdpi.com/2071-1050/15/15/11524/pdf?version=1690354809
+- A Review of Artificial Intelligence (AI) in Education from 2010 to 2020 (semantic_scholar)
+  https://downloads.hindawi.com/journals/complexity/2021/8812542.pdf
+- New Era of Artificial Intelligence in Education: Towards a Sustainable Multifaceted Revolution (unknown)
+  https://www.mdpi.com/2071-1050/15/16/12451/pdf?version=1692181759
+- Systematic review of research on artificial intelligence applications in higher education – where are the educators? (semantic_scholar)
+  https://educationaltechnologyjournal.springeropen.com/track/pdf/10.1186/s41239-019-0171-0
+- Introducing Adaptive Continuous Adversarial Training (ACAT) to Enhance
+  ML Robustness (arxiv)
+  http://arxiv.org/abs/2403.10461v2
+- Minimax deviation strategies for machine learning and recognition with
+  short learning samples (arxiv)
+  http://arxiv.org/abs/1707.04849v1
+- Explainable AI in Diagnosing and Anticipating Leukemia Using Transfer Learning Method (semantic_scholar)
+  https://downloads.hindawi.com/journals/cin/2022/5140148.pdf
+- Augmented Q Imitation Learning (AQIL) (arxiv)
+  http://arxiv.org/abs/2004.00993v2
+- The ART of Transfer Learning: An Adaptive and Robust Pipeline (arxiv)
+  http://arxiv.org/abs/2305.00520v1
+- Legal and Ethical Consideration in Artificial Intelligence in Healthcare: Who Takes Responsibility? (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/fsurg.2022.862322/pdf
+- Artificial intelligence-enhanced electrocardiography in cardiovascular disease management (semantic_scholar)
+  https://www.nature.com/articles/s41569-020-00503-2.pdf
+- Artificial intelligence for waste management in smart cities: a review (unknown)
+  https://link.springer.com/content/pdf/10.1007/s10311-023-01604-3.pdf
+- The case for psychometric artificial general intelligence (arxiv)
+  http://arxiv.org/abs/2101.02179v1
+- Transfer Learning and Organic Computing for Autonomous Vehicles (arxiv)
+  http://arxiv.org/abs/1808.05443v1
+- Artificial intelligence for digital and computational pathology (semantic_scholar)
+  http://arxiv.org/pdf/2401.06148
+- On scientific understanding with artificial intelligence (semantic_scholar)
+  https://www.nature.com/articles/s42254-022-00518-3.pdf
+- Artificial intelligence in disease diagnosis: a systematic literature review, synthesizing framework and future research agenda (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s12652-021-03612-z.pdf
+
+=== Abstract 11: A Review of the Role of Artificial Intelligence in Healthcare ===
+- Artificial intelligence in healthcare and education (semantic_scholar)
+  https://www.nature.com/articles/s41415-023-5845-2.pdf
+- Attitudes and perception of artificial intelligence in healthcare: A cross-sectional survey among patients (semantic_scholar)
+  https://journals.sagepub.com/doi/pdf/10.1177/20552076221116772
+- A Review of the Role of Artificial Intelligence in Healthcare (unknown)
+  https://www.mdpi.com/2075-4426/13/6/951/pdf?version=1685933257
+- Artificial intelligence in healthcare: transforming the practice of medicine (semantic_scholar)
+  https://www.rcpjournals.org/content/futurehosp/8/2/e188.full.pdf
+- Legal and Ethical Consideration in Artificial Intelligence in Healthcare: Who Takes Responsibility? (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/fsurg.2022.862322/pdf
+- Artificial Intelligence in Pharmaceutical Technology and Drug Delivery Design (unknown)
+  https://www.mdpi.com/1999-4923/15/7/1916/pdf?version=1688977390
+- Generating Radiology Reports via Memory-driven Transformer (semantic_scholar)
+  https://www.aclweb.org/anthology/2020.emnlp-main.112.pdf
+- Artificial intelligence in disease diagnosis: a systematic literature review, synthesizing framework and future research agenda (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s12652-021-03612-z.pdf
+- Artificial intelligence in medical education: a cross-sectional needs assessment (semantic_scholar)
+  https://bmcmededuc.biomedcentral.com/counter/pdf/10.1186/s12909-022-03852-3
+- DS-TransUNet: Dual Swin Transformer U-Net for Medical Image Segmentation (semantic_scholar)
+  https://arxiv.org/pdf/2106.06716
+- The role of artificial intelligence in healthcare: a structured literature review (semantic_scholar)
+  https://bmcmedinformdecismak.biomedcentral.com/track/pdf/10.1186/s12911-021-01488-9
+- Artificial Intelligence and Chatbots in Psychiatry (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s11126-022-09973-8.pdf
+- The potential for artificial intelligence in healthcare (semantic_scholar)
+  https://www.rcpjournals.org/content/futurehosp/6/2/94.full.pdf
+
+=== Abstract 12: Artificial Intelligence in Pharmaceutical Technology and Drug Delivery Design ===
+- Artificial intelligence to deep learning: machine intelligence approach for drug discovery (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s11030-021-10217-3.pdf
+- Artificial Intelligence in Pharmaceutical Technology and Drug Delivery Design (unknown)
+  https://www.mdpi.com/1999-4923/15/7/1916/pdf?version=1688977390
+- Machine Learning in Medicine (semantic_scholar)
+  https://europepmc.org/articles/pmc5831252?pdf=render
+- VisDrone-DET2019: The Vision Meets Drone Object Detection in Image Challenge Results (semantic_scholar)
+  http://publica.fraunhofer.de/bitstreams/5b7f6394-0c99-405e-8681-d2afda800fb0/download
+- Trustworthy Transfer Learning: A Survey (arxiv)
+  http://arxiv.org/abs/2412.14116v1
+- WeMix: How to Better Utilize Data Augmentation (arxiv)
+  http://arxiv.org/abs/2010.01267v1
+- Data-centric Artificial Intelligence: A Survey (unknown)
+  http://arxiv.org/pdf/2303.10158
+- Generative artificial intelligence empowers educational reform: current status, issues, and prospects (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/feduc.2023.1183162/pdf
+- Quo vadis artificial intelligence? (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s44163-022-00022-8.pdf
+- Watershed of Artificial Intelligence: Human Intelligence, Machine
+  Intelligence, and Biological Intelligence (arxiv)
+  http://arxiv.org/abs/2104.13155v2
+- A Review of the Role of Artificial Intelligence in Healthcare (unknown)
+  https://www.mdpi.com/2075-4426/13/6/951/pdf?version=1685933257
+
+=== Abstract 13: Accuracy of a Generative Artificial Intelligence Model in a Complex Diagnostic Challenge. ===
+- Effective Heart Disease Prediction Using Hybrid Machine Learning Techniques (semantic_scholar)
+  https://ieeexplore.ieee.org/ielx7/6287639/8600701/08740989.pdf
+- Scaling Vision Transformers (semantic_scholar)
+  https://arxiv.org/pdf/2106.04560
+- Data Augmentation Revisited: Rethinking the Distribution Gap between
+  Clean and Augmented Data (arxiv)
+  http://arxiv.org/abs/1909.09148v2
+- EmoNet: Fine-Grained Emotion Detection with Gated Recurrent Neural Networks (semantic_scholar)
+  https://www.aclweb.org/anthology/P17-1067.pdf
+- Artificial Intelligence in Education: AIEd for Personalised Learning Pathways (semantic_scholar)
+  https://academic-publishing.org/index.php/ejel/article/download/2597/2107
+- Artificial intelligence in cancer target identification and drug discovery (semantic_scholar)
+  https://www.nature.com/articles/s41392-022-00994-0.pdf
+- Appropriateness of Cardiovascular Disease Prevention Recommendations Obtained From a Popular Online Chat-Based Artificial Intelligence Model. (unknown)
+  https://jamanetwork.com/journals/jama/articlepdf/2801244/jama_sarraju_2023_ld_230010_1678493543.47064.pdf
+- The potential for artificial intelligence in healthcare (semantic_scholar)
+  https://www.rcpjournals.org/content/futurehosp/6/2/94.full.pdf
+- A Mathematical Model, Implementation and Study of a Swarm System (arxiv)
+  http://arxiv.org/abs/1310.2279v1
+- Accuracy of a Generative Artificial Intelligence Model in a Complex Diagnostic Challenge. (unknown)
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10273128
+- Empowering Education with Generative Artificial Intelligence Tools: Approach with an Instructional Design Matrix (unknown)
+  https://www.mdpi.com/2071-1050/15/15/11524/pdf?version=1690354809
+- Generative AI for Data Augmentation in Wireless Networks: Analysis,
+  Applications, and Case Study (arxiv)
+  http://arxiv.org/abs/2411.08341v1
+- Diffusion Models in Vision: A Survey (semantic_scholar)
+  https://arxiv.org/pdf/2209.04747
+
+=== Abstract 14: Artificial Intelligence in Medicine ===
+- A Review of Artificial Intelligence (AI) in Education from 2010 to 2020 (semantic_scholar)
+  https://downloads.hindawi.com/journals/complexity/2021/8812542.pdf
+- Generalized Probabilistic Attention Mechanism in Transformers (arxiv)
+  http://arxiv.org/abs/2410.15578v1
+- Uncovering the Connections Between Adversarial Transferability and
+  Knowledge Transferability (arxiv)
+  http://arxiv.org/abs/2006.14512v4
+- Artificial intelligence in healthcare: transforming the practice of medicine (semantic_scholar)
+  https://www.rcpjournals.org/content/futurehosp/8/2/e188.full.pdf
+- Explainable AI and Reinforcement Learning—A Systematic Review of Current Approaches and Trends (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/frai.2021.550030/pdf
+
+=== Abstract 15: Data-centric Artificial Intelligence: A Survey ===
+- Handwritten image augmentation (arxiv)
+  http://arxiv.org/abs/2308.13791v1
+- ACP-DA: Improving the Prediction of Anticancer Peptides Using Data Augmentation (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/fgene.2021.698477/pdf
+- SpecMix : A Mixed Sample Data Augmentation method for Training withTime-Frequency Domain Features (semantic_scholar)
+  https://osf.io/ubcft/download
+- Generative artificial intelligence empowers educational reform: current status, issues, and prospects (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/feduc.2023.1183162/pdf
+- Scaling Vision Transformers (semantic_scholar)
+  https://arxiv.org/pdf/2106.04560
+- Data-centric Artificial Intelligence: A Survey (unknown)
+  http://arxiv.org/pdf/2303.10158
+- Watershed of Artificial Intelligence: Human Intelligence, Machine
+  Intelligence, and Biological Intelligence (arxiv)
+  http://arxiv.org/abs/2104.13155v2
+- Ethical principles for artificial intelligence in education (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s10639-022-11316-w.pdf
+- The role of artificial intelligence in achieving the Sustainable Development Goals (semantic_scholar)
+  https://www.nature.com/articles/s41467-019-14108-y.pdf
+- Quo vadis artificial intelligence? (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s44163-022-00022-8.pdf
+- Deep Optimal Transport: A Practical Algorithm for Photo-realistic Image
+  Restoration (arxiv)
+  http://arxiv.org/abs/2306.02342v2
+- Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007%2Fs11263-016-0981-7.pdf
+- Artificial intelligence for digital and computational pathology (semantic_scholar)
+  http://arxiv.org/pdf/2401.06148
+- Text Data Augmentation for Large Language Models: A Comprehensive Survey
+  of Methods, Challenges, and Opportunities (arxiv)
+  http://arxiv.org/abs/2501.18845v1
+- Learning Statistical Scripts with LSTM Recurrent Neural Networks (semantic_scholar)
+  https://ojs.aaai.org/index.php/AAAI/article/download/10347/10206
+
+=== Abstract 16: Appropriateness of Cardiovascular Disease Prevention Recommendations Obtained From a Popular Online Chat-Based Artificial Intelligence Model. ===
+- Appropriateness of Cardiovascular Disease Prevention Recommendations Obtained From a Popular Online Chat-Based Artificial Intelligence Model. (unknown)
+  https://jamanetwork.com/journals/jama/articlepdf/2801244/jama_sarraju_2023_ld_230010_1678493543.47064.pdf
+- Artificial intelligence in disease diagnosis: a systematic literature review, synthesizing framework and future research agenda (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s12652-021-03612-z.pdf
+- Proceedings of the Ninth Conference on Uncertainty in Artificial
+  Intelligence (1993) (arxiv)
+  http://arxiv.org/abs/1304.3851v1
+- Empowering Education with Generative Artificial Intelligence Tools: Approach with an Instructional Design Matrix (unknown)
+  https://www.mdpi.com/2071-1050/15/15/11524/pdf?version=1690354809
+- Artificial intelligence in medical education: a cross-sectional needs assessment (semantic_scholar)
+  https://bmcmededuc.biomedcentral.com/counter/pdf/10.1186/s12909-022-03852-3
+- Effective Heart Disease Prediction Using Hybrid Machine Learning Techniques (semantic_scholar)
+  https://ieeexplore.ieee.org/ielx7/6287639/8600701/08740989.pdf
+- Artificial intelligence-enhanced electrocardiography in cardiovascular disease management (semantic_scholar)
+  https://www.nature.com/articles/s41569-020-00503-2.pdf
+- The Governance of Physical Artificial Intelligence (arxiv)
+  http://arxiv.org/abs/2304.02924v1
+- Artificial intelligence-based solutions for climate change: a review (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s10311-023-01617-y.pdf
+- Artificial Intelligence in Education: AIEd for Personalised Learning Pathways (semantic_scholar)
+  https://academic-publishing.org/index.php/ejel/article/download/2597/2107
+- Does an artificial intelligence perform market manipulation with its own
+  discretion? -- A genetic algorithm learns in an artificial market simulation (arxiv)
+  http://arxiv.org/abs/2005.10488v1
+- Artificial intelligence in cancer target identification and drug discovery (semantic_scholar)
+  https://www.nature.com/articles/s41392-022-00994-0.pdf
+- Sequential Short-Text Classification with Recurrent and Convolutional Neural Networks (semantic_scholar)
+  https://www.aclweb.org/anthology/N16-1062.pdf
+- Scaling Vision Transformers (semantic_scholar)
+  https://arxiv.org/pdf/2106.04560
+- Urban Vegetation Mapping from Aerial Imagery Using Explainable AI (XAI) (semantic_scholar)
+  https://www.mdpi.com/1424-8220/21/14/4738/pdf?version=1625997215
+- Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior? (semantic_scholar)
+  https://www.aclweb.org/anthology/2020.acl-main.491.pdf
+
+=== Abstract 17: Trustworthy artificial intelligence ===
+- Trustworthy artificial intelligence (unknown)
+  https://link.springer.com/content/pdf/10.1007/s44204-023-00063-5.pdf
+- The role of artificial intelligence in healthcare: a structured literature review (semantic_scholar)
+  https://bmcmedinformdecismak.biomedcentral.com/track/pdf/10.1186/s12911-021-01488-9
+- Artificial Intelligence and Business Value: a Literature Review (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s10796-021-10186-w.pdf
+
+=== Abstract 18: Empowering Education with Generative Artificial Intelligence Tools: Approach with an Instructional Design Matrix ===
+- Artificial Intelligence in Education: AIEd for Personalised Learning Pathways (semantic_scholar)
+  https://academic-publishing.org/index.php/ejel/article/download/2597/2107
+- Systematic review of research on artificial intelligence applications in higher education – where are the educators? (semantic_scholar)
+  https://educationaltechnologyjournal.springeropen.com/track/pdf/10.1186/s41239-019-0171-0
+- Artificial intelligence in healthcare and education (semantic_scholar)
+  https://www.nature.com/articles/s41415-023-5845-2.pdf
+- Empowering Education with Generative Artificial Intelligence Tools: Approach with an Instructional Design Matrix (unknown)
+  https://www.mdpi.com/2071-1050/15/15/11524/pdf?version=1690354809
+- A Review of Artificial Intelligence (AI) in Education from 2010 to 2020 (semantic_scholar)
+  https://downloads.hindawi.com/journals/complexity/2021/8812542.pdf
+- OD-XAI: Explainable AI-Based Semantic Object Detection for Autonomous Vehicles (semantic_scholar)
+  https://www.mdpi.com/2076-3417/12/11/5310/pdf?version=1653488430
+- Accuracy of a Generative Artificial Intelligence Model in a Complex Diagnostic Challenge. (unknown)
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10273128
+- The Roles of Personality Traits, AI Anxiety, and Demographic Factors in Attitudes toward Artificial Intelligence (semantic_scholar)
+  https://doi.org/10.1080/10447318.2022.2151730
+- Legal and Ethical Consideration in Artificial Intelligence in Healthcare: Who Takes Responsibility? (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/fsurg.2022.862322/pdf
+- Artificial intelligence and machine learning in design of mechanical materials. (semantic_scholar)
+  https://pubs.rsc.org/en/content/articlepdf/2021/mh/d0mh01451f
+- Artificial intelligence to deep learning: machine intelligence approach for drug discovery (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s11030-021-10217-3.pdf
+- Artificial Intelligence in Meta-optics (semantic_scholar)
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9562283
+- Generative AI for Data Augmentation in Wireless Networks: Analysis,
+  Applications, and Case Study (arxiv)
+  http://arxiv.org/abs/2411.08341v1
+- Diffusion Models in Vision: A Survey (semantic_scholar)
+  https://arxiv.org/pdf/2209.04747
+
+=== Abstract 19: An Overview of Artificial Intelligence Ethics ===
+- An Overview of Artificial Intelligence Ethics (unknown)
+  https://ieeexplore.ieee.org/ielx7/9078688/9184921/09844014.pdf
+- Ethical principles for artificial intelligence in education (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s10639-022-11316-w.pdf
+- Legal and Ethical Consideration in Artificial Intelligence in Healthcare: Who Takes Responsibility? (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/fsurg.2022.862322/pdf
+- Extended Abstract of Performance Analysis and Prediction of Model
+  Transformation (arxiv)
+  http://arxiv.org/abs/2004.08838v1
+- From ”Explainable AI” to ”Graspable AI” (semantic_scholar)
+  https://kth.diva-portal.org/smash/get/diva2:1556569/FULLTEXT01
+- Generalized Probabilistic Attention Mechanism in Transformers (arxiv)
+  http://arxiv.org/abs/2410.15578v1
+- Killing it with Zero-Shot: Adversarially Robust Novelty Detection (arxiv)
+  http://arxiv.org/abs/2501.15271v1
+- Vision-based human activity recognition: a survey (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s11042-020-09004-3.pdf
+- A General Survey on Attention Mechanisms in Deep Learning (arxiv)
+  http://arxiv.org/abs/2203.14263v1
+- The Governance of Physical Artificial Intelligence (arxiv)
+  http://arxiv.org/abs/2304.02924v1
+
+=== Abstract 20: Artificial intelligence in developing countries: The impact of generative artificial intelligence (AI) technologies for development ===
+- Generative artificial intelligence empowers educational reform: current status, issues, and prospects (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/feduc.2023.1183162/pdf
+- Accuracy of a Generative Artificial Intelligence Model in a Complex Diagnostic Challenge. (unknown)
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10273128
+- Empowering Education with Generative Artificial Intelligence Tools: Approach with an Instructional Design Matrix (unknown)
+  https://www.mdpi.com/2071-1050/15/15/11524/pdf?version=1690354809
+- On scientific understanding with artificial intelligence (semantic_scholar)
+  https://www.nature.com/articles/s42254-022-00518-3.pdf
+- Learning Statistical Scripts with LSTM Recurrent Neural Networks (semantic_scholar)
+  https://ojs.aaai.org/index.php/AAAI/article/download/10347/10206
+- New Era of Artificial Intelligence in Education: Towards a Sustainable Multifaceted Revolution (unknown)
+  https://www.mdpi.com/2071-1050/15/16/12451/pdf?version=1692181759
+- Impact of Artificial Intelligence on Economic Theory (arxiv)
+  http://arxiv.org/abs/1509.01213v1
+- Photonics for artificial intelligence and neuromorphic computing (semantic_scholar)
+  https://arxiv.org/pdf/2011.00111
+- Watershed of Artificial Intelligence: Human Intelligence, Machine
+  Intelligence, and Biological Intelligence (arxiv)
+  http://arxiv.org/abs/2104.13155v2
+- Legal and Ethical Consideration in Artificial Intelligence in Healthcare: Who Takes Responsibility? (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/fsurg.2022.862322/pdf
+- An Empirical Study of Spatial Attention Mechanisms in Deep Networks (arxiv)
+  http://arxiv.org/abs/1904.05873v1
+- Text Data Augmentation for Large Language Models: A Comprehensive Survey
+  of Methods, Challenges, and Opportunities (arxiv)
+  http://arxiv.org/abs/2501.18845v1
+
+=== Abstract 21: Evaluation of artificial intelligence techniques in disease diagnosis and prediction ===
+- Artificial intelligence in disease diagnosis: a systematic literature review, synthesizing framework and future research agenda (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s12652-021-03612-z.pdf
+- Artificial intelligence in healthcare and education (semantic_scholar)
+  https://www.nature.com/articles/s41415-023-5845-2.pdf
+- Generating Radiology Reports via Memory-driven Transformer (semantic_scholar)
+  https://www.aclweb.org/anthology/2020.emnlp-main.112.pdf
+- Artificial intelligence in medical education: a cross-sectional needs assessment (semantic_scholar)
+  https://bmcmededuc.biomedcentral.com/counter/pdf/10.1186/s12909-022-03852-3
+- A Review of the Role of Artificial Intelligence in Healthcare (unknown)
+  https://www.mdpi.com/2075-4426/13/6/951/pdf?version=1685933257
+- Evaluation of artificial intelligence techniques in disease diagnosis and prediction (unknown)
+  https://link.springer.com/content/pdf/10.1007/s44163-023-00049-5.pdf
+- Artificial Intelligence in Pharmaceutical Technology and Drug Delivery Design (unknown)
+  https://www.mdpi.com/1999-4923/15/7/1916/pdf?version=1688977390
+- Augmenting Transfer Learning with Semantic Reasoning (arxiv)
+  http://arxiv.org/abs/1905.13672v2
+- Killing it with Zero-Shot: Adversarially Robust Novelty Detection (arxiv)
+  http://arxiv.org/abs/2501.15271v1
+- Vision Transformers in Medical Computer Vision -- A Contemplative
+  Retrospection (arxiv)
+  http://arxiv.org/abs/2203.15269v1
+- GABO: Graph Augmentations with Bi-level Optimization (arxiv)
+  http://arxiv.org/abs/2104.00722v1
+- The Tribes of Machine Learning and the Realm of Computer Architecture (arxiv)
+  http://arxiv.org/abs/2012.04105v1
+- Machine Learning in Computer Vision: A Review (semantic_scholar)
+  http://eudl.eu/pdf/10.4108/eai.21-4-2021.169418
+- An Explainable AI-Based Fault Diagnosis Model for Bearings (semantic_scholar)
+  https://www.mdpi.com/1424-8220/21/12/4070/pdf?version=1623998792
+
+=== Abstract 22: Artificial intelligence for waste management in smart cities: a review ===
+- Artificial intelligence for waste management in smart cities: a review (unknown)
+  https://link.springer.com/content/pdf/10.1007/s10311-023-01604-3.pdf
+- The role of artificial intelligence in achieving the Sustainable Development Goals (semantic_scholar)
+  https://www.nature.com/articles/s41467-019-14108-y.pdf
+- AAAI FSS-18: Artificial Intelligence in Government and Public Sector
+  Proceedings (arxiv)
+  http://arxiv.org/abs/1810.06018v1
+- New Era of Artificial Intelligence in Education: Towards a Sustainable Multifaceted Revolution (unknown)
+  https://www.mdpi.com/2071-1050/15/16/12451/pdf?version=1692181759
+- The Governance of Physical Artificial Intelligence (arxiv)
+  http://arxiv.org/abs/2304.02924v1
+- Watershed of Artificial Intelligence: Human Intelligence, Machine
+  Intelligence, and Biological Intelligence (arxiv)
+  http://arxiv.org/abs/2104.13155v2
+- Artificial intelligence in cancer target identification and drug discovery (semantic_scholar)
+  https://www.nature.com/articles/s41392-022-00994-0.pdf
+- Artificial intelligence to deep learning: machine intelligence approach for drug discovery (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s11030-021-10217-3.pdf
+- Does an artificial intelligence perform market manipulation with its own
+  discretion? -- A genetic algorithm learns in an artificial market simulation (arxiv)
+  http://arxiv.org/abs/2005.10488v1
+- Artificial intelligence-based solutions for climate change: a review (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s10311-023-01617-y.pdf
+
+=== Abstract 23: From Artificial Intelligence to Explainable Artificial Intelligence in Industry 4.0: A Survey on What, How, and Where ===
+- Explainable AI and Adoption of Financial Algorithmic Advisors: An Experimental Study (semantic_scholar)
+  https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3461702.3462565&file=aiespp050aux.pdf
+- The role of domain expertise in trusting and following explainable AI decision support systems (semantic_scholar)
+  https://www.tandfonline.com/doi/pdf/10.1080/12460125.2021.1958505?needAccess=true
+- An Explainable AI-Based Fault Diagnosis Model for Bearings (semantic_scholar)
+  https://www.mdpi.com/1424-8220/21/12/4070/pdf?version=1623998792
+- Gradient-Free Adversarial Purification with Diffusion Models (arxiv)
+  http://arxiv.org/abs/2501.13336v1
+- ACP-DA: Improving the Prediction of Anticancer Peptides Using Data Augmentation (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/fgene.2021.698477/pdf
+- Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior? (semantic_scholar)
+  https://www.aclweb.org/anthology/2020.acl-main.491.pdf
+- A Machine Learning Tutorial for Operational Meteorology, Part I:
+  Traditional Machine Learning (arxiv)
+  http://arxiv.org/abs/2204.07492v2
+- eXplainable AI for Quantum Machine Learning (semantic_scholar)
+  https://arxiv.org/pdf/2211.01441
+- Towards Trustable Explainable AI (semantic_scholar)
+  https://www.ijcai.org/proceedings/2020/0726.pdf
+- Tangible Explainable AI - an Initial Conceptual Framework (semantic_scholar)
+  https://dl.acm.org/doi/pdf/10.1145/3568444.3568456
+- Explainable Artificial Intelligence Applications in Cyber Security: State-of-the-Art in Research (semantic_scholar)
+  https://ieeexplore.ieee.org/ielx7/6287639/6514899/09875264.pdf
+- Improving Health Professionals' Onboarding with AI and XAI for
+  Trustworthy Human-AI Collaborative Decision Making (arxiv)
+  http://arxiv.org/abs/2405.16424v1
+- The Roles of Personality Traits, AI Anxiety, and Demographic Factors in Attitudes toward Artificial Intelligence (semantic_scholar)
+  https://doi.org/10.1080/10447318.2022.2151730
+- Proceedings of the Thirteenth Conference on Uncertainty in Artificial
+  Intelligence (1997) (arxiv)
+  http://arxiv.org/abs/1304.3846v1
+- Proceedings of the Ninth Conference on Uncertainty in Artificial
+  Intelligence (1993) (arxiv)
+  http://arxiv.org/abs/1304.3851v1
+- On scientific understanding with artificial intelligence (semantic_scholar)
+  https://www.nature.com/articles/s42254-022-00518-3.pdf
+- The case for psychometric artificial general intelligence (arxiv)
+  http://arxiv.org/abs/2101.02179v1
+- Artificial Intelligence in Dentistry—Narrative Review (semantic_scholar)
+  https://www.mdpi.com/1660-4601/19/6/3449/pdf?version=1647326964
+- Explainable AI improves task performance in human-AI collaboration (arxiv)
+  http://arxiv.org/abs/2406.08271v1
+- Explainable AI: A review of applications to neuroimaging data (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/fnins.2022.906290/pdf
+- Quo vadis artificial intelligence? (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s44163-022-00022-8.pdf
+- Human-Centered Artificial Intelligence: Reliable, Safe & Trustworthy (semantic_scholar)
+  https://www.tandfonline.com/doi/pdf/10.1080/10447318.2020.1741118?needAccess=true
+
+=== Abstract 24: Artificial intelligence for digital and computational pathology ===
+- Machine Learning for Clinical Predictive Analytics (arxiv)
+  http://arxiv.org/abs/1909.09246v1
+- Artificial intelligence-enhanced electrocardiography in cardiovascular disease management (semantic_scholar)
+  https://www.nature.com/articles/s41569-020-00503-2.pdf
+- The Clinician and Dataset Shift in Artificial Intelligence. (semantic_scholar)
+  https://www.nejm.org/doi/pdf/10.1056/NEJMc2104626?articleTools=true
+- Generating Radiology Reports via Memory-driven Transformer (semantic_scholar)
+  https://www.aclweb.org/anthology/2020.emnlp-main.112.pdf
+- Artificial intelligence for digital and computational pathology (semantic_scholar)
+  http://arxiv.org/pdf/2401.06148
+- On scientific understanding with artificial intelligence (semantic_scholar)
+  https://www.nature.com/articles/s42254-022-00518-3.pdf
+- Linear Attention Mechanism: An Efficient Attention for Semantic
+  Segmentation (arxiv)
+  http://arxiv.org/abs/2007.14902v3
+- Artificial intelligence in disease diagnosis: a systematic literature review, synthesizing framework and future research agenda (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s12652-021-03612-z.pdf
+- Empowering Education with Generative Artificial Intelligence Tools: Approach with an Instructional Design Matrix (unknown)
+  https://www.mdpi.com/2071-1050/15/15/11524/pdf?version=1690354809
+- Artificial intelligence for waste management in smart cities: a review (unknown)
+  https://link.springer.com/content/pdf/10.1007/s10311-023-01604-3.pdf
+- Proceedings of the Thirteenth Conference on Uncertainty in Artificial
+  Intelligence (1997) (arxiv)
+  http://arxiv.org/abs/1304.3846v1
+- Legal and Ethical Consideration in Artificial Intelligence in Healthcare: Who Takes Responsibility? (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/fsurg.2022.862322/pdf
+- Proceedings of the Second Conference on Uncertainty in Artificial
+  Intelligence (1986) (arxiv)
+  http://arxiv.org/abs/1304.3859v1
+- Attitudes and perception of artificial intelligence in healthcare: A cross-sectional survey among patients (semantic_scholar)
+  https://journals.sagepub.com/doi/pdf/10.1177/20552076221116772
+- The Governance of Physical Artificial Intelligence (arxiv)
+  http://arxiv.org/abs/2304.02924v1
+- Artificial Intelligence in Dentistry—Narrative Review (semantic_scholar)
+  https://www.mdpi.com/1660-4601/19/6/3449/pdf?version=1647326964
+- Photonics for artificial intelligence and neuromorphic computing (semantic_scholar)
+  https://arxiv.org/pdf/2011.00111
+- An Optimal Control View of Adversarial Machine Learning (arxiv)
+  http://arxiv.org/abs/1811.04422v1
+- Attention in Attention Network for Image Super-Resolution (arxiv)
+  http://arxiv.org/abs/2104.09497v3
+- A Comprehensive Overview and Survey of Recent Advances in Meta-Learning (arxiv)
+  http://arxiv.org/abs/2004.11149v7
+- Towards Lightweight Transformer via Group-wise Transformation for
+  Vision-and-Language Tasks (arxiv)
+  http://arxiv.org/abs/2204.07780v1
+- Text Data Augmentation for Large Language Models: A Comprehensive Survey
+  of Methods, Challenges, and Opportunities (arxiv)
+  http://arxiv.org/abs/2501.18845v1
+- The Importance of Being Recurrent for Modeling Hierarchical Structure (arxiv)
+  http://arxiv.org/abs/1803.03585v2
+
+=== Abstract 25: Artificial intelligence-based solutions for climate change: a review ===
+- AAAI FSS-18: Artificial Intelligence in Government and Public Sector
+  Proceedings (arxiv)
+  http://arxiv.org/abs/1810.06018v1
+- The case for psychometric artificial general intelligence (arxiv)
+  http://arxiv.org/abs/2101.02179v1
+- Artificial Intelligence in Education: AIEd for Personalised Learning Pathways (semantic_scholar)
+  https://academic-publishing.org/index.php/ejel/article/download/2597/2107
+- Generative artificial intelligence empowers educational reform: current status, issues, and prospects (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/feduc.2023.1183162/pdf
+- Artificial intelligence in disease diagnosis: a systematic literature review, synthesizing framework and future research agenda (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s12652-021-03612-z.pdf
+- The Governance of Physical Artificial Intelligence (arxiv)
+  http://arxiv.org/abs/2304.02924v1
+- Artificial intelligence in cancer target identification and drug discovery (semantic_scholar)
+  https://www.nature.com/articles/s41392-022-00994-0.pdf
+- The Roles of Personality Traits, AI Anxiety, and Demographic Factors in Attitudes toward Artificial Intelligence (semantic_scholar)
+  https://doi.org/10.1080/10447318.2022.2151730
+- Does an artificial intelligence perform market manipulation with its own
+  discretion? -- A genetic algorithm learns in an artificial market simulation (arxiv)
+  http://arxiv.org/abs/2005.10488v1
+- Artificial intelligence-based solutions for climate change: a review (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s10311-023-01617-y.pdf
+- Artificial intelligence for waste management in smart cities: a review (unknown)
+  https://link.springer.com/content/pdf/10.1007/s10311-023-01604-3.pdf
+
+=== Abstract 26: Generative artificial intelligence empowers educational reform: current status, issues, and prospects ===
+- Artificial Intelligence in Education: AIEd for Personalised Learning Pathways (semantic_scholar)
+  https://academic-publishing.org/index.php/ejel/article/download/2597/2107
+- Proceedings of the Ninth Conference on Uncertainty in Artificial
+  Intelligence (1993) (arxiv)
+  http://arxiv.org/abs/1304.3851v1
+- The Governance of Physical Artificial Intelligence (arxiv)
+  http://arxiv.org/abs/2304.02924v1
+- On scientific understanding with artificial intelligence (semantic_scholar)
+  https://www.nature.com/articles/s42254-022-00518-3.pdf
+- New Era of Artificial Intelligence in Education: Towards a Sustainable Multifaceted Revolution (unknown)
+  https://www.mdpi.com/2071-1050/15/16/12451/pdf?version=1692181759
+- A Review of Artificial Intelligence (AI) in Education from 2010 to 2020 (semantic_scholar)
+  https://downloads.hindawi.com/journals/complexity/2021/8812542.pdf
+- Generative artificial intelligence empowers educational reform: current status, issues, and prospects (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/feduc.2023.1183162/pdf
+- Artificial intelligence in healthcare and education (semantic_scholar)
+  https://www.nature.com/articles/s41415-023-5845-2.pdf
+- Systematic review of research on artificial intelligence applications in higher education – where are the educators? (semantic_scholar)
+  https://educationaltechnologyjournal.springeropen.com/track/pdf/10.1186/s41239-019-0171-0
+- Generative AI for Data Augmentation in Wireless Networks: Analysis,
+  Applications, and Case Study (arxiv)
+  http://arxiv.org/abs/2411.08341v1
+- Empowering Education with Generative Artificial Intelligence Tools: Approach with an Instructional Design Matrix (unknown)
+  https://www.mdpi.com/2071-1050/15/15/11524/pdf?version=1690354809
+- Diffusion Models in Vision: A Survey (semantic_scholar)
+  https://arxiv.org/pdf/2209.04747
+- Artificial intelligence in medical education: a cross-sectional needs assessment (semantic_scholar)
+  https://bmcmededuc.biomedcentral.com/counter/pdf/10.1186/s12909-022-03852-3
+- Quo vadis artificial intelligence? (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s44163-022-00022-8.pdf
+- Artificial intelligence for waste management in smart cities: a review (unknown)
+  https://link.springer.com/content/pdf/10.1007/s10311-023-01604-3.pdf
+- Explainable Artificial Intelligence Applications in Cyber Security: State-of-the-Art in Research (semantic_scholar)
+  https://ieeexplore.ieee.org/ielx7/6287639/6514899/09875264.pdf
+- Artificial intelligence in healthcare: transforming the practice of medicine (semantic_scholar)
+  https://www.rcpjournals.org/content/futurehosp/8/2/e188.full.pdf
+- Minimax deviation strategies for machine learning and recognition with
+  short learning samples (arxiv)
+  http://arxiv.org/abs/1707.04849v1
+- Understanding Bias in Machine Learning (arxiv)
+  http://arxiv.org/abs/1909.01866v1
+- Explainable AI Methods - A Brief Overview (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/978-3-031-04083-2_2.pdf
+- Data Augmentation for Cross-Domain Named Entity Recognition (semantic_scholar)
+  https://aclanthology.org/2021.emnlp-main.434.pdf
+- Exploring ChatGPT-based Augmentation Strategies for Contrastive
+  Aspect-based Sentiment Analysis (arxiv)
+  http://arxiv.org/abs/2409.11218v1
+- Handwritten image augmentation (arxiv)
+  http://arxiv.org/abs/2308.13791v1
+- WeMix: How to Better Utilize Data Augmentation (arxiv)
+  http://arxiv.org/abs/2010.01267v1
+- Ethical principles for artificial intelligence in education (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s10639-022-11316-w.pdf
+- Artificial Intelligence in Pharmaceutical Technology and Drug Delivery Design (unknown)
+  https://www.mdpi.com/1999-4923/15/7/1916/pdf?version=1688977390
+- Data-centric Artificial Intelligence: A Survey (unknown)
+  http://arxiv.org/pdf/2303.10158
+- Artificial intelligence to deep learning: machine intelligence approach for drug discovery (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s11030-021-10217-3.pdf
+
+=== Abstract 27: Artificial intelligence in healthcare and education ===
+- Minimax deviation strategies for machine learning and recognition with
+  short learning samples (arxiv)
+  http://arxiv.org/abs/1707.04849v1
+- Artificial intelligence in healthcare and education (semantic_scholar)
+  https://www.nature.com/articles/s41415-023-5845-2.pdf
+- Understanding Bias in Machine Learning (arxiv)
+  http://arxiv.org/abs/1909.01866v1
+- EXplainable AI (XAI) approach to image captioning (semantic_scholar)
+  https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/joe.2019.1217
+- Explainable AI Methods - A Brief Overview (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/978-3-031-04083-2_2.pdf
+- Artificial Intelligence in Education: AIEd for Personalised Learning Pathways (semantic_scholar)
+  https://academic-publishing.org/index.php/ejel/article/download/2597/2107
+- A Review of Artificial Intelligence (AI) in Education from 2010 to 2020 (semantic_scholar)
+  https://downloads.hindawi.com/journals/complexity/2021/8812542.pdf
+- Systematic review of research on artificial intelligence applications in higher education – where are the educators? (semantic_scholar)
+  https://educationaltechnologyjournal.springeropen.com/track/pdf/10.1186/s41239-019-0171-0
+- New Era of Artificial Intelligence in Education: Towards a Sustainable Multifaceted Revolution (unknown)
+  https://www.mdpi.com/2071-1050/15/16/12451/pdf?version=1692181759
+- The potential for artificial intelligence in healthcare (semantic_scholar)
+  https://www.rcpjournals.org/content/futurehosp/6/2/94.full.pdf
+- Legal and Ethical Consideration in Artificial Intelligence in Healthcare: Who Takes Responsibility? (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/fsurg.2022.862322/pdf
+- Has the Future Started? The Current Growth of Artificial Intelligence, Machine Learning, and Deep Learning (semantic_scholar)
+  https://journal.esj.edu.iq/index.php/IJCM/article/download/100/139
+- Impact of Artificial Intelligence on Economic Theory (arxiv)
+  http://arxiv.org/abs/1509.01213v1
+- Artificial intelligence in disease diagnosis: a systematic literature review, synthesizing framework and future research agenda (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s12652-021-03612-z.pdf
+- Realistic Adversarial Data Augmentation for MR Image Segmentation (semantic_scholar)
+  https://openaccess.city.ac.uk/id/eprint/24425/1/2006.13322v1.pdf
+- Generating Radiology Reports via Memory-driven Transformer (semantic_scholar)
+  https://www.aclweb.org/anthology/2020.emnlp-main.112.pdf
+- Evaluation of artificial intelligence techniques in disease diagnosis and prediction (unknown)
+  https://link.springer.com/content/pdf/10.1007/s44163-023-00049-5.pdf
+
+=== Abstract 28: Artificial intelligence in healthcare: past, present and future ===
+- Data-centric Artificial Intelligence: A Survey (unknown)
+  http://arxiv.org/pdf/2303.10158
+- An Explainable AI-Based Fault Diagnosis Model for Bearings (semantic_scholar)
+  https://www.mdpi.com/1424-8220/21/12/4070/pdf?version=1623998792
+- Realistic Adversarial Data Augmentation for MR Image Segmentation (semantic_scholar)
+  https://openaccess.city.ac.uk/id/eprint/24425/1/2006.13322v1.pdf
+- The role of artificial intelligence in healthcare: a structured literature review (semantic_scholar)
+  https://bmcmedinformdecismak.biomedcentral.com/track/pdf/10.1186/s12911-021-01488-9
+- Multimodal Large Language Models for Image, Text, and Speech Data
+  Augmentation: A Survey (arxiv)
+  http://arxiv.org/abs/2501.18648v2
+- Attitudes and perception of artificial intelligence in healthcare: A cross-sectional survey among patients (semantic_scholar)
+  https://journals.sagepub.com/doi/pdf/10.1177/20552076221116772
+- Artificial intelligence in healthcare and education (semantic_scholar)
+  https://www.nature.com/articles/s41415-023-5845-2.pdf
+- A Review of the Role of Artificial Intelligence in Healthcare (unknown)
+  https://www.mdpi.com/2075-4426/13/6/951/pdf?version=1685933257
+- Artificial intelligence in medical education: a cross-sectional needs assessment (semantic_scholar)
+  https://bmcmededuc.biomedcentral.com/counter/pdf/10.1186/s12909-022-03852-3
+- Legal and Ethical Consideration in Artificial Intelligence in Healthcare: Who Takes Responsibility? (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/fsurg.2022.862322/pdf
+- The potential for artificial intelligence in healthcare (semantic_scholar)
+  https://www.rcpjournals.org/content/futurehosp/6/2/94.full.pdf
+- Artificial Intelligence and Chatbots in Psychiatry (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s11126-022-09973-8.pdf
+- Augmenting Transfer Learning with Semantic Reasoning (arxiv)
+  http://arxiv.org/abs/1905.13672v2
+- Artificial intelligence in healthcare: past, present and future (semantic_scholar)
+  https://svn.bmj.com/content/svnbmj/2/4/230.full.pdf
+- Understanding Mental Models of AI through Player-AI Interaction (arxiv)
+  http://arxiv.org/abs/2103.16168v1
+- The ART of Transfer Learning: An Adaptive and Robust Pipeline (arxiv)
+  http://arxiv.org/abs/2305.00520v1
+- Machine Learning in Medicine (semantic_scholar)
+  https://europepmc.org/articles/pmc5831252?pdf=render
+- Artificial Intelligence in Education: AIEd for Personalised Learning Pathways (semantic_scholar)
+  https://academic-publishing.org/index.php/ejel/article/download/2597/2107
+- Risk of Transfer Learning and its Applications in Finance (arxiv)
+  http://arxiv.org/abs/2311.03283v1
+- Augmented Q Imitation Learning (AQIL) (arxiv)
+  http://arxiv.org/abs/2004.00993v2
+- BMVC 2019: Workshop on Interpretable and Explainable Machine Vision (arxiv)
+  http://arxiv.org/abs/1909.07245v1
+- Machine Learning for Clinical Predictive Analytics (arxiv)
+  http://arxiv.org/abs/1909.09246v1
+- Understanding Bias in Machine Learning (arxiv)
+  http://arxiv.org/abs/1909.01866v1
+- Has the Future Started? The Current Growth of Artificial Intelligence, Machine Learning, and Deep Learning (semantic_scholar)
+  https://journal.esj.edu.iq/index.php/IJCM/article/download/100/139
+- Machine Learning in Computer Vision: A Review (semantic_scholar)
+  http://eudl.eu/pdf/10.4108/eai.21-4-2021.169418
+
+=== Abstract 29: Legal and Ethical Consideration in Artificial Intelligence in Healthcare: Who Takes Responsibility? ===
+- From ”Explainable AI” to ”Graspable AI” (semantic_scholar)
+  https://kth.diva-portal.org/smash/get/diva2:1556569/FULLTEXT01
+- Extended Abstract of Performance Analysis and Prediction of Model
+  Transformation (arxiv)
+  http://arxiv.org/abs/2004.08838v1
+- An Overview of Artificial Intelligence Ethics (unknown)
+  https://ieeexplore.ieee.org/ielx7/9078688/9184921/09844014.pdf
+- Legal and Ethical Consideration in Artificial Intelligence in Healthcare: Who Takes Responsibility? (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/fsurg.2022.862322/pdf
+- Generalized Probabilistic Attention Mechanism in Transformers (arxiv)
+  http://arxiv.org/abs/2410.15578v1
+- Artificial intelligence in disease diagnosis: a systematic literature review, synthesizing framework and future research agenda (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s12652-021-03612-z.pdf
+- Artificial intelligence for waste management in smart cities: a review (unknown)
+  https://link.springer.com/content/pdf/10.1007/s10311-023-01604-3.pdf
+- Artificial Intelligence in Dentistry—Narrative Review (semantic_scholar)
+  https://www.mdpi.com/1660-4601/19/6/3449/pdf?version=1647326964
+- Artificial intelligence for digital and computational pathology (semantic_scholar)
+  http://arxiv.org/pdf/2401.06148
+- Artificial intelligence to deep learning: machine intelligence approach for drug discovery (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s11030-021-10217-3.pdf
+- Ethical principles for artificial intelligence in education (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s10639-022-11316-w.pdf
+- A Review of the Role of Artificial Intelligence in Healthcare (unknown)
+  https://www.mdpi.com/2075-4426/13/6/951/pdf?version=1685933257
+- Artificial intelligence in healthcare: past, present and future (semantic_scholar)
+  https://svn.bmj.com/content/svnbmj/2/4/230.full.pdf
+- Has the Future Started? The Current Growth of Artificial Intelligence, Machine Learning, and Deep Learning (semantic_scholar)
+  https://journal.esj.edu.iq/index.php/IJCM/article/download/100/139
+- The potential for artificial intelligence in healthcare (semantic_scholar)
+  https://www.rcpjournals.org/content/futurehosp/6/2/94.full.pdf
+- On scientific understanding with artificial intelligence (semantic_scholar)
+  https://www.nature.com/articles/s42254-022-00518-3.pdf
+- Proceedings of the Second Conference on Uncertainty in Artificial
+  Intelligence (1986) (arxiv)
+  http://arxiv.org/abs/1304.3859v1
+- Appropriateness of Cardiovascular Disease Prevention Recommendations Obtained From a Popular Online Chat-Based Artificial Intelligence Model. (unknown)
+  https://jamanetwork.com/journals/jama/articlepdf/2801244/jama_sarraju_2023_ld_230010_1678493543.47064.pdf
+- The Governance of Physical Artificial Intelligence (arxiv)
+  http://arxiv.org/abs/2304.02924v1
+- Generative artificial intelligence empowers educational reform: current status, issues, and prospects (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/feduc.2023.1183162/pdf
+
+=== Abstract 30: The potential for artificial intelligence in healthcare ===
+- Attitudes and perception of artificial intelligence in healthcare: A cross-sectional survey among patients (semantic_scholar)
+  https://journals.sagepub.com/doi/pdf/10.1177/20552076221116772
+- A Review of the Role of Artificial Intelligence in Healthcare (unknown)
+  https://www.mdpi.com/2075-4426/13/6/951/pdf?version=1685933257
+- The potential for artificial intelligence in healthcare (semantic_scholar)
+  https://www.rcpjournals.org/content/futurehosp/6/2/94.full.pdf
+- Has the Future Started? The Current Growth of Artificial Intelligence, Machine Learning, and Deep Learning (semantic_scholar)
+  https://journal.esj.edu.iq/index.php/IJCM/article/download/100/139
+- Data Augmentation and Dense-LSTM for Human Activity Recognition Using WiFi Signal (semantic_scholar)
+  http://nrl.northumbria.ac.uk/id/eprint/45667/1/FINAL%20VERSION.pdf
+- Generative AI for Data Augmentation in Wireless Networks: Analysis,
+  Applications, and Case Study (arxiv)
+  http://arxiv.org/abs/2411.08341v1
+- The Governance of Physical Artificial Intelligence (arxiv)
+  http://arxiv.org/abs/2304.02924v1
+- Artificial intelligence in healthcare: transforming the practice of medicine (semantic_scholar)
+  https://www.rcpjournals.org/content/futurehosp/8/2/e188.full.pdf
+- Explainable AI Methods - A Brief Overview (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/978-3-031-04083-2_2.pdf
+- Explainable Artificial Intelligence Applications in Cyber Security: State-of-the-Art in Research (semantic_scholar)
+  https://ieeexplore.ieee.org/ielx7/6287639/6514899/09875264.pdf
+- AI-in-the-Loop -- The impact of HMI in AI-based Application (arxiv)
+  http://arxiv.org/abs/2303.11508v1
+- Artificial intelligence in medical education: a cross-sectional needs assessment (semantic_scholar)
+  https://bmcmededuc.biomedcentral.com/counter/pdf/10.1186/s12909-022-03852-3
+- Artificial intelligence in healthcare: past, present and future (semantic_scholar)
+  https://svn.bmj.com/content/svnbmj/2/4/230.full.pdf
+- Watershed of Artificial Intelligence: Human Intelligence, Machine
+  Intelligence, and Biological Intelligence (arxiv)
+  http://arxiv.org/abs/2104.13155v2
+- Empowering Education with Generative Artificial Intelligence Tools: Approach with an Instructional Design Matrix (unknown)
+  https://www.mdpi.com/2071-1050/15/15/11524/pdf?version=1690354809
+- AAAI FSS-18: Artificial Intelligence in Government and Public Sector
+  Proceedings (arxiv)
+  http://arxiv.org/abs/1810.06018v1
+- Impact of Artificial Intelligence on Economic Theory (arxiv)
+  http://arxiv.org/abs/1509.01213v1
+
+=== Abstract 31: Ethical principles for artificial intelligence in education ===
+- Legal and Ethical Consideration in Artificial Intelligence in Healthcare: Who Takes Responsibility? (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/fsurg.2022.862322/pdf
+- An Overview of Artificial Intelligence Ethics (unknown)
+  https://ieeexplore.ieee.org/ielx7/9078688/9184921/09844014.pdf
+- Ethical principles for artificial intelligence in education (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s10639-022-11316-w.pdf
+- Systematic review of research on artificial intelligence applications in higher education – where are the educators? (semantic_scholar)
+  https://educationaltechnologyjournal.springeropen.com/track/pdf/10.1186/s41239-019-0171-0
+- Artificial Intelligence in Education: AIEd for Personalised Learning Pathways (semantic_scholar)
+  https://academic-publishing.org/index.php/ejel/article/download/2597/2107
+- Deep Hierarchies in the Primate Visual Cortex: What Can We Learn for Computer Vision? (semantic_scholar)
+  https://findresearcher.sdu.dk/ws/files/118768349/VisualHierarchyWithReference.pdf
+- On Two XAI Cultures: A Case Study of Non-technical Explanations in
+  Deployed AI System (arxiv)
+  http://arxiv.org/abs/2112.01016v1
+- Generative artificial intelligence empowers educational reform: current status, issues, and prospects (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/feduc.2023.1183162/pdf
+- Artificial Intelligence in Pharmaceutical Technology and Drug Delivery Design (unknown)
+  https://www.mdpi.com/1999-4923/15/7/1916/pdf?version=1688977390
+- The role of artificial intelligence in achieving the Sustainable Development Goals (semantic_scholar)
+  https://www.nature.com/articles/s41467-019-14108-y.pdf
+- Artificial intelligence to deep learning: machine intelligence approach for drug discovery (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s11030-021-10217-3.pdf
+
+=== Abstract 32: Artificial intelligence in disease diagnosis: a systematic literature review, synthesizing framework and future research agenda ===
+- Appropriateness of Cardiovascular Disease Prevention Recommendations Obtained From a Popular Online Chat-Based Artificial Intelligence Model. (unknown)
+  https://jamanetwork.com/journals/jama/articlepdf/2801244/jama_sarraju_2023_ld_230010_1678493543.47064.pdf
+- Proceedings of the Second Conference on Uncertainty in Artificial
+  Intelligence (1986) (arxiv)
+  http://arxiv.org/abs/1304.3859v1
+- The role of artificial intelligence in achieving the Sustainable Development Goals (semantic_scholar)
+  https://www.nature.com/articles/s41467-019-14108-y.pdf
+- Learning Statistical Scripts with LSTM Recurrent Neural Networks (semantic_scholar)
+  https://ojs.aaai.org/index.php/AAAI/article/download/10347/10206
+- Generative artificial intelligence empowers educational reform: current status, issues, and prospects (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/feduc.2023.1183162/pdf
+- Artificial intelligence-based solutions for climate change: a review (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s10311-023-01617-y.pdf
+- On scientific understanding with artificial intelligence (semantic_scholar)
+  https://www.nature.com/articles/s42254-022-00518-3.pdf
+- Artificial Intelligence in Education: AIEd for Personalised Learning Pathways (semantic_scholar)
+  https://academic-publishing.org/index.php/ejel/article/download/2597/2107
+- Artificial intelligence in cancer target identification and drug discovery (semantic_scholar)
+  https://www.nature.com/articles/s41392-022-00994-0.pdf
+- Attitudes and perception of artificial intelligence in healthcare: A cross-sectional survey among patients (semantic_scholar)
+  https://journals.sagepub.com/doi/pdf/10.1177/20552076221116772
+- Effective Heart Disease Prediction Using Hybrid Machine Learning Techniques (semantic_scholar)
+  https://ieeexplore.ieee.org/ielx7/6287639/8600701/08740989.pdf
+- Artificial intelligence in disease diagnosis: a systematic literature review, synthesizing framework and future research agenda (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s12652-021-03612-z.pdf
+- Artificial intelligence-enhanced electrocardiography in cardiovascular disease management (semantic_scholar)
+  https://www.nature.com/articles/s41569-020-00503-2.pdf
+- Deep Learning vs. Traditional Computer Vision (arxiv)
+  http://arxiv.org/abs/1910.13796v1
+- Evaluation of artificial intelligence techniques in disease diagnosis and prediction (unknown)
+  https://link.springer.com/content/pdf/10.1007/s44163-023-00049-5.pdf
+- The Tribes of Machine Learning and the Realm of Computer Architecture (arxiv)
+  http://arxiv.org/abs/2012.04105v1
+- DS-TransUNet: Dual Swin Transformer U-Net for Medical Image Segmentation (semantic_scholar)
+  https://arxiv.org/pdf/2106.06716
+- Artificial intelligence in medical education: a cross-sectional needs assessment (semantic_scholar)
+  https://bmcmededuc.biomedcentral.com/counter/pdf/10.1186/s12909-022-03852-3
+- A Review of the Role of Artificial Intelligence in Healthcare (unknown)
+  https://www.mdpi.com/2075-4426/13/6/951/pdf?version=1685933257
+- Vision Transformers in Medical Computer Vision -- A Contemplative
+  Retrospection (arxiv)
+  http://arxiv.org/abs/2203.15269v1
+
+=== Abstract 33: Artificial Intelligence and Jobs: Evidence from Online Vacancies ===
+- Artificial Intelligence and Jobs: Evidence from Online Vacancies (semantic_scholar)
+  http://eprints.lse.ac.uk/113325/1/AI_And_Jobs.pdf
+- Joint Character-Level Word Embedding and Adversarial Stability Training to Defend Adversarial Text (semantic_scholar)
+  https://ojs.aaai.org/index.php/AAAI/article/download/6356/6212
+
+=== Abstract 34: The Governance of Physical Artificial Intelligence ===
+- On scientific understanding with artificial intelligence (semantic_scholar)
+  https://www.nature.com/articles/s42254-022-00518-3.pdf
+- Photonics for artificial intelligence and neuromorphic computing (semantic_scholar)
+  https://arxiv.org/pdf/2011.00111
+- New Era of Artificial Intelligence in Education: Towards a Sustainable Multifaceted Revolution (unknown)
+  https://www.mdpi.com/2071-1050/15/16/12451/pdf?version=1692181759
+- Empowering Education with Generative Artificial Intelligence Tools: Approach with an Instructional Design Matrix (unknown)
+  https://www.mdpi.com/2071-1050/15/15/11524/pdf?version=1690354809
+- Explainable Artificial Intelligence Applications in Cyber Security: State-of-the-Art in Research (semantic_scholar)
+  https://ieeexplore.ieee.org/ielx7/6287639/6514899/09875264.pdf
+- Proceedings of the Second Conference on Uncertainty in Artificial
+  Intelligence (1986) (arxiv)
+  http://arxiv.org/abs/1304.3859v1
+- Artificial intelligence for waste management in smart cities: a review (unknown)
+  https://link.springer.com/content/pdf/10.1007/s10311-023-01604-3.pdf
+- Artificial intelligence-based solutions for climate change: a review (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s10311-023-01617-y.pdf
+- Artificial Intelligence in Humans (arxiv)
+  http://arxiv.org/abs/1311.0716v1
+- SPARK: Multi-Vision Sensor Perception and Reasoning Benchmark for
+  Large-scale Vision-Language Models (arxiv)
+  http://arxiv.org/abs/2408.12114v3
+- The Governance of Physical Artificial Intelligence (arxiv)
+  http://arxiv.org/abs/2304.02924v1
+- Tangible Explainable AI - an Initial Conceptual Framework (semantic_scholar)
+  https://dl.acm.org/doi/pdf/10.1145/3568444.3568456
+- Artificial intelligence in healthcare: transforming the practice of medicine (semantic_scholar)
+  https://www.rcpjournals.org/content/futurehosp/8/2/e188.full.pdf
+- Generative AI for Data Augmentation in Wireless Networks: Analysis,
+  Applications, and Case Study (arxiv)
+  http://arxiv.org/abs/2411.08341v1
+- The potential for artificial intelligence in healthcare (semantic_scholar)
+  https://www.rcpjournals.org/content/futurehosp/6/2/94.full.pdf
+- Explainable AI Methods - A Brief Overview (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/978-3-031-04083-2_2.pdf
+- The Tribes of Machine Learning and the Realm of Computer Architecture (arxiv)
+  http://arxiv.org/abs/2012.04105v1
+- Adapting Computer Vision Algorithms for Omnidirectional Video (arxiv)
+  http://arxiv.org/abs/1907.09233v1
+- Joint Character-Level Word Embedding and Adversarial Stability Training to Defend Adversarial Text (semantic_scholar)
+  https://ojs.aaai.org/index.php/AAAI/article/download/6356/6212
+- A General Survey on Attention Mechanisms in Deep Learning (arxiv)
+  http://arxiv.org/abs/2203.14263v1
+- An Overview of Artificial Intelligence Ethics (unknown)
+  https://ieeexplore.ieee.org/ielx7/9078688/9184921/09844014.pdf
+
+=== Abstract 35: Does an artificial intelligence perform market manipulation with its own
+  discretion? -- A genetic algorithm learns in an artificial market simulation ===
+- Artificial Intelligence and Management: The Automation–Augmentation Paradox (semantic_scholar)
+  https://zenodo.org/records/8338404/files/RaischKrakowski_AMR_inpress.pdf
+- Beyond XAI:Obstacles Towards Responsible AI (arxiv)
+  http://arxiv.org/abs/2309.03638v1
+- Proceedings of the Second Conference on Uncertainty in Artificial
+  Intelligence (1986) (arxiv)
+  http://arxiv.org/abs/1304.3859v1
+- Has the Future Started? The Current Growth of Artificial Intelligence, Machine Learning, and Deep Learning (semantic_scholar)
+  https://journal.esj.edu.iq/index.php/IJCM/article/download/100/139
+- Artificial intelligence in disease diagnosis: a systematic literature review, synthesizing framework and future research agenda (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s12652-021-03612-z.pdf
+- Explainable Artificial Intelligence Applications in Cyber Security: State-of-the-Art in Research (semantic_scholar)
+  https://ieeexplore.ieee.org/ielx7/6287639/6514899/09875264.pdf
+- Proceedings of the Thirteenth Conference on Uncertainty in Artificial
+  Intelligence (1997) (arxiv)
+  http://arxiv.org/abs/1304.3846v1
+- New Era of Artificial Intelligence in Education: Towards a Sustainable Multifaceted Revolution (unknown)
+  https://www.mdpi.com/2071-1050/15/16/12451/pdf?version=1692181759
+- Does an artificial intelligence perform market manipulation with its own
+  discretion? -- A genetic algorithm learns in an artificial market simulation (arxiv)
+  http://arxiv.org/abs/2005.10488v1
+- Logistic Regression as Soft Perceptron Learning (arxiv)
+  http://arxiv.org/abs/1708.07826v1
+- Deep Optimal Transport: A Practical Algorithm for Photo-realistic Image
+  Restoration (arxiv)
+  http://arxiv.org/abs/2306.02342v2
+- Learning to Transfer (arxiv)
+  http://arxiv.org/abs/1708.05629v1
+- A Learning Algorithm for Relational Logistic Regression: Preliminary
+  Results (arxiv)
+  http://arxiv.org/abs/1606.08531v1
+
+=== Abstract 36: The case for psychometric artificial general intelligence ===
+- "Weak AI" is Likely to Never Become "Strong AI", So What is its Greatest
+  Value for us? (arxiv)
+  http://arxiv.org/abs/2103.15294v1
+- Beyond XAI:Obstacles Towards Responsible AI (arxiv)
+  http://arxiv.org/abs/2309.03638v1
+- The potential for artificial intelligence in healthcare (semantic_scholar)
+  https://www.rcpjournals.org/content/futurehosp/6/2/94.full.pdf
+- Artificial intelligence-enhanced electrocardiography in cardiovascular disease management (semantic_scholar)
+  https://www.nature.com/articles/s41569-020-00503-2.pdf
+- The Governance of Physical Artificial Intelligence (arxiv)
+  http://arxiv.org/abs/2304.02924v1
+- The case for psychometric artificial general intelligence (arxiv)
+  http://arxiv.org/abs/2101.02179v1
+- Proceedings of the Second Conference on Uncertainty in Artificial
+  Intelligence (1986) (arxiv)
+  http://arxiv.org/abs/1304.3859v1
+- The Roles of Personality Traits, AI Anxiety, and Demographic Factors in Attitudes toward Artificial Intelligence (semantic_scholar)
+  https://doi.org/10.1080/10447318.2022.2151730
+- Appropriateness of Cardiovascular Disease Prevention Recommendations Obtained From a Popular Online Chat-Based Artificial Intelligence Model. (unknown)
+  https://jamanetwork.com/journals/jama/articlepdf/2801244/jama_sarraju_2023_ld_230010_1678493543.47064.pdf
+- Artificial intelligence to deep learning: machine intelligence approach for drug discovery (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s11030-021-10217-3.pdf
+- Does an artificial intelligence perform market manipulation with its own
+  discretion? -- A genetic algorithm learns in an artificial market simulation (arxiv)
+  http://arxiv.org/abs/2005.10488v1
+- Machine Learning in Medicine (semantic_scholar)
+  https://europepmc.org/articles/pmc5831252?pdf=render
+- A Comprehensive Survey on Transfer Learning (arxiv)
+  http://arxiv.org/abs/1911.02685v3
+- Learning Statistical Scripts with LSTM Recurrent Neural Networks (semantic_scholar)
+  https://ojs.aaai.org/index.php/AAAI/article/download/10347/10206
+- Artificial intelligence in cancer target identification and drug discovery (semantic_scholar)
+  https://www.nature.com/articles/s41392-022-00994-0.pdf
+- VisDrone-DET2019: The Vision Meets Drone Object Detection in Image Challenge Results (semantic_scholar)
+  http://publica.fraunhofer.de/bitstreams/5b7f6394-0c99-405e-8681-d2afda800fb0/download
+- Introducing Adaptive Continuous Adversarial Training (ACAT) to Enhance
+  ML Robustness (arxiv)
+  http://arxiv.org/abs/2403.10461v2
+- OD-XAI: Explainable AI-Based Semantic Object Detection for Autonomous Vehicles (semantic_scholar)
+  https://www.mdpi.com/2076-3417/12/11/5310/pdf?version=1653488430
+- Explainable AI: Using Shapley Value to Explain Complex Anomaly Detection ML-Based Systems (semantic_scholar)
+  https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA200777
+
+=== Abstract 37: Impact of Artificial Intelligence on Economic Theory ===
+- Has the Future Started? The Current Growth of Artificial Intelligence, Machine Learning, and Deep Learning (semantic_scholar)
+  https://journal.esj.edu.iq/index.php/IJCM/article/download/100/139
+- Beyond XAI:Obstacles Towards Responsible AI (arxiv)
+  http://arxiv.org/abs/2309.03638v1
+- Does an artificial intelligence perform market manipulation with its own
+  discretion? -- A genetic algorithm learns in an artificial market simulation (arxiv)
+  http://arxiv.org/abs/2005.10488v1
+- AAAI FSS-18: Artificial Intelligence in Government and Public Sector
+  Proceedings (arxiv)
+  http://arxiv.org/abs/1810.06018v1
+- Artificial intelligence-enhanced electrocardiography in cardiovascular disease management (semantic_scholar)
+  https://www.nature.com/articles/s41569-020-00503-2.pdf
+- Artificial intelligence to deep learning: machine intelligence approach for drug discovery (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s11030-021-10217-3.pdf
+- Artificial intelligence-based solutions for climate change: a review (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s10311-023-01617-y.pdf
+- Artificial intelligence for digital and computational pathology (semantic_scholar)
+  http://arxiv.org/pdf/2401.06148
+- The Roles of Personality Traits, AI Anxiety, and Demographic Factors in Attitudes toward Artificial Intelligence (semantic_scholar)
+  https://doi.org/10.1080/10447318.2022.2151730
+- Impact of Artificial Intelligence on Economic Theory (arxiv)
+  http://arxiv.org/abs/1509.01213v1
+- Artificial intelligence in healthcare and education (semantic_scholar)
+  https://www.nature.com/articles/s41415-023-5845-2.pdf
+
+=== Abstract 38: Proceedings of the Thirteenth Conference on Uncertainty in Artificial
+  Intelligence (1997) ===
+
+===== 🔎 Run at 2025-05-05 21:19:33 =====
+
+=== Abstract 1: Artificial intelligence for waste management in smart cities: a review ===
+- Artificial intelligence for waste management in smart cities: a review (unknown)
+  https://link.springer.com/content/pdf/10.1007/s10311-023-01604-3.pdf
+- The role of artificial intelligence in achieving the Sustainable Development Goals (semantic_scholar)
+  https://www.nature.com/articles/s41467-019-14108-y.pdf
+- Learning Statistical Scripts with LSTM Recurrent Neural Networks (semantic_scholar)
+  https://ojs.aaai.org/index.php/AAAI/article/download/10347/10206
+- Accuracy of a Generative Artificial Intelligence Model in a Complex Diagnostic Challenge. (unknown)
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10273128
+- Artificial intelligence in cancer target identification and drug discovery (semantic_scholar)
+  https://www.nature.com/articles/s41392-022-00994-0.pdf
+- The Roles of Personality Traits, AI Anxiety, and Demographic Factors in Attitudes toward Artificial Intelligence (semantic_scholar)
+  https://doi.org/10.1080/10447318.2022.2151730
+- Artificial Intelligence in Humans (arxiv)
+  http://arxiv.org/abs/1311.0716v1
+- Artificial Intelligence in Education: AIEd for Personalised Learning Pathways (semantic_scholar)
+  https://academic-publishing.org/index.php/ejel/article/download/2597/2107
+- Appropriateness of Cardiovascular Disease Prevention Recommendations Obtained From a Popular Online Chat-Based Artificial Intelligence Model. (unknown)
+  https://jamanetwork.com/journals/jama/articlepdf/2801244/jama_sarraju_2023_ld_230010_1678493543.47064.pdf
+- Quo vadis artificial intelligence? (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s44163-022-00022-8.pdf
+- Artificial intelligence-based solutions for climate change: a review (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s10311-023-01617-y.pdf
+
+=== Abstract 2: From Artificial Intelligence to Explainable Artificial Intelligence in Industry 4.0: A Survey on What, How, and Where ===
+- Vision Transformers in Medical Computer Vision -- A Contemplative
+  Retrospection (arxiv)
+  http://arxiv.org/abs/2203.15269v1
+- True Few-Shot Learning with Prompts—A Real-World Perspective (semantic_scholar)
+  https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00485/2030692/tacl_a_00485.pdf
+- Artificial Intelligence and Chatbots in Psychiatry (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s11126-022-09973-8.pdf
+- An Explainable AI-Based Fault Diagnosis Model for Bearings (semantic_scholar)
+  https://www.mdpi.com/1424-8220/21/12/4070/pdf?version=1623998792
+- ACP-DA: Improving the Prediction of Anticancer Peptides Using Data Augmentation (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/fgene.2021.698477/pdf
+- Explainable AI Methods - A Brief Overview (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/978-3-031-04083-2_2.pdf
+- A Mathematical Model, Implementation and Study of a Swarm System (arxiv)
+  http://arxiv.org/abs/1310.2279v1
+- A Comparison on Data Augmentation Methods Based on Deep Learning for Audio Classification (semantic_scholar)
+  https://doi.org/10.1088/1742-6596/1453/1/012085
+- Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior? (semantic_scholar)
+  https://www.aclweb.org/anthology/2020.acl-main.491.pdf
+- Improving Health Professionals' Onboarding with AI and XAI for
+  Trustworthy Human-AI Collaborative Decision Making (arxiv)
+  http://arxiv.org/abs/2405.16424v1
+- Towards Trustable Explainable AI (semantic_scholar)
+  https://www.ijcai.org/proceedings/2020/0726.pdf
+- On Two XAI Cultures: A Case Study of Non-technical Explanations in
+  Deployed AI System (arxiv)
+  http://arxiv.org/abs/2112.01016v1
+- Explainable AI and Reinforcement Learning—A Systematic Review of Current Approaches and Trends (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/frai.2021.550030/pdf
+- Artificial Intelligence in Education: AIEd for Personalised Learning Pathways (semantic_scholar)
+  https://academic-publishing.org/index.php/ejel/article/download/2597/2107
+- Artificial intelligence in cancer target identification and drug discovery (semantic_scholar)
+  https://www.nature.com/articles/s41392-022-00994-0.pdf
+- Learning Statistical Scripts with LSTM Recurrent Neural Networks (semantic_scholar)
+  https://ojs.aaai.org/index.php/AAAI/article/download/10347/10206
+- The Roles of Personality Traits, AI Anxiety, and Demographic Factors in Attitudes toward Artificial Intelligence (semantic_scholar)
+  https://doi.org/10.1080/10447318.2022.2151730
+- Appropriateness of Cardiovascular Disease Prevention Recommendations Obtained From a Popular Online Chat-Based Artificial Intelligence Model. (unknown)
+  https://jamanetwork.com/journals/jama/articlepdf/2801244/jama_sarraju_2023_ld_230010_1678493543.47064.pdf
+- Explainable AI: A review of applications to neuroimaging data (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/fnins.2022.906290/pdf
+- Quo vadis artificial intelligence? (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s44163-022-00022-8.pdf
+- Explainable AI improves task performance in human-AI collaboration (arxiv)
+  http://arxiv.org/abs/2406.08271v1
+
+=== Abstract 3: Artificial intelligence for digital and computational pathology ===
+- Artificial intelligence for digital and computational pathology (semantic_scholar)
+  http://arxiv.org/pdf/2401.06148
+- Machine Learning for Clinical Predictive Analytics (arxiv)
+  http://arxiv.org/abs/1909.09246v1
+- Artificial intelligence-enhanced electrocardiography in cardiovascular disease management (semantic_scholar)
+  https://www.nature.com/articles/s41569-020-00503-2.pdf
+- Generating Radiology Reports via Memory-driven Transformer (semantic_scholar)
+  https://www.aclweb.org/anthology/2020.emnlp-main.112.pdf
+- Linear Attention Mechanism: An Efficient Attention for Semantic
+  Segmentation (arxiv)
+  http://arxiv.org/abs/2007.14902v3
+- On scientific understanding with artificial intelligence (semantic_scholar)
+  https://www.nature.com/articles/s42254-022-00518-3.pdf
+- New Era of Artificial Intelligence in Education: Towards a Sustainable Multifaceted Revolution (unknown)
+  https://www.mdpi.com/2071-1050/15/16/12451/pdf?version=1692181759
+- Has the Future Started? The Current Growth of Artificial Intelligence, Machine Learning, and Deep Learning (semantic_scholar)
+  https://journal.esj.edu.iq/index.php/IJCM/article/download/100/139
+- Proceedings of the Ninth Conference on Uncertainty in Artificial
+  Intelligence (1993) (arxiv)
+  http://arxiv.org/abs/1304.3851v1
+- Generative artificial intelligence empowers educational reform: current status, issues, and prospects (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/feduc.2023.1183162/pdf
+- Artificial intelligence in disease diagnosis: a systematic literature review, synthesizing framework and future research agenda (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s12652-021-03612-z.pdf
+- The case for psychometric artificial general intelligence (arxiv)
+  http://arxiv.org/abs/2101.02179v1
+- Quo vadis artificial intelligence? (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s44163-022-00022-8.pdf
+- Artificial Intelligence in Humans (arxiv)
+  http://arxiv.org/abs/1311.0716v1
+- An Optimal Control View of Adversarial Machine Learning (arxiv)
+  http://arxiv.org/abs/1811.04422v1
+- Attention in Attention Network for Image Super-Resolution (arxiv)
+  http://arxiv.org/abs/2104.09497v3
+- Photonics for artificial intelligence and neuromorphic computing (semantic_scholar)
+  https://arxiv.org/pdf/2011.00111
+- Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007%2Fs11263-016-0981-7.pdf
+- A Comprehensive Overview and Survey of Recent Advances in Meta-Learning (arxiv)
+  http://arxiv.org/abs/2004.11149v7
+- The Importance of Being Recurrent for Modeling Hierarchical Structure (arxiv)
+  http://arxiv.org/abs/1803.03585v2
+- FlipDA: Effective and Robust Data Augmentation for Few-Shot Learning (semantic_scholar)
+  https://aclanthology.org/2022.acl-long.592.pdf
+
+=== Abstract 4: Artificial intelligence-based solutions for climate change: a review ===
+
+===== 🔎 Run at 2025-05-05 21:22:36 =====
+
+=== Abstract 1: Artificial intelligence for waste management in smart cities: a review ===
+- Artificial intelligence for waste management in smart cities: a review (unknown)
+  https://link.springer.com/content/pdf/10.1007/s10311-023-01604-3.pdf
+- The case for psychometric artificial general intelligence (arxiv)
+  http://arxiv.org/abs/2101.02179v1
+- Accuracy of a Generative Artificial Intelligence Model in a Complex Diagnostic Challenge. (unknown)
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10273128
+- Legal and Ethical Consideration in Artificial Intelligence in Healthcare: Who Takes Responsibility? (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/fsurg.2022.862322/pdf
+- Proceedings of the Second Conference on Uncertainty in Artificial
+  Intelligence (1986) (arxiv)
+  http://arxiv.org/abs/1304.3859v1
+- The Governance of Physical Artificial Intelligence (arxiv)
+  http://arxiv.org/abs/2304.02924v1
+- Generative artificial intelligence empowers educational reform: current status, issues, and prospects (semantic_scholar)
+  https://www.frontiersin.org/articles/10.3389/feduc.2023.1183162/pdf
+- Artificial Intelligence in Dentistry—Narrative Review (semantic_scholar)
+  https://www.mdpi.com/1660-4601/19/6/3449/pdf?version=1647326964
+- Artificial intelligence-based solutions for climate change: a review (semantic_scholar)
+  https://link.springer.com/content/pdf/10.1007/s10311-023-01617-y.pdf
+- On scientific understanding with artificial intelligence (semantic_scholar)
+  https://www.nature.com/articles/s42254-022-00518-3.pdf
+
+=== Abstract 2: From Artificial Intelligence to Explainable Artificial Intelligence in Industry 4.0: A Survey on What, How, and Where ===
+
+===== 🔎 Run at 2025-05-05 21:24:34 =====
+
+=== Abstract 38: Artificial intelligence for waste management in smart cities: a review ===
