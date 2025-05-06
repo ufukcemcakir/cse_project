@@ -44,51 +44,64 @@ def log_to_file(text):
         f.write(text + "\n")
 
 
-def generate_variants(concepts, papers_by_concept, num_variants=5, top_k=5):
-    candidates = []
-    for _ in range(num_variants):
-        path = []
-        seen_titles = set()
-        for c in concepts:
-            if c in papers_by_concept:
-                sampled = random.sample(papers_by_concept[c], min(len(papers_by_concept[c]), top_k))
-                for paper in sampled:
-                    if paper["title"] not in seen_titles:
-                        seen_titles.add(paper["title"])
-                        path.append(paper)
-        candidates.append(path)
-    return candidates
+def generate_quality_variants(concepts, papers_by_concept, top_k=5):
+    high_quality = []
+    low_quality = []
+    seen_titles_hq = set()
+    seen_titles_lq = set()
+
+    # --- High quality: pick best top_k from each concept
+    for c in concepts:
+        papers = papers_by_concept.get(c, [])
+        ranked = sorted(papers, key=lambda p: p.get("score", 0), reverse=True)[:top_k]
+        for paper in ranked:
+            if paper["title"] not in seen_titles_hq:
+                high_quality.append(paper)
+                seen_titles_hq.add(paper["title"])
+
+    # --- Low quality: random unrelated or repeated papers
+    all_papers = [p for papers in papers_by_concept.values() for p in papers]
+    if all_papers:
+        for _ in range(min(len(concepts) * top_k, 10)):
+            p = random.choice(all_papers)
+            if p["title"] not in seen_titles_lq:
+                low_quality.append(p)
+                seen_titles_lq.add(p["title"])
+        # Intentionally inject some repeated or unrelated entries
+        if len(all_papers) > 0:
+            for _ in range(2):
+                low_quality.append(random.choice(all_papers))
+
+    return high_quality, low_quality
 
 
-def rl_guided_reading_path(abstract, n_variants=NUM_VARIANTS, top_k=TOP_K_PER_CONCEPT):
+
+def rl_guided_reading_path(abstract):
     concepts = extract_concepts_from_abstract(abstract)
     concepts = [c for c in concepts if len(c) > 2]
     papers_by_concept = get_papers_for_concepts(concepts)
-    candidates = generate_variants(concepts, papers_by_concept, n_variants, top_k)
 
-    best_score = -1
-    best_path = []
+    high, low = generate_quality_variants(concepts, papers_by_concept)
 
-    for idx, path in enumerate(candidates):
-        print(f"\n🔁 Evaluating path variant {idx+1}/{n_variants}...")
-        score = evaluate_reading_path(path, abstract)
+    scored_variants = []
+
+    for label, variant in [("high", high), ("low", low)]:
+        print(f"\n🔁 Evaluating {label}-quality path...")
+        score = evaluate_reading_path(variant, abstract)
         time.sleep(MISTRAL_REQUEST_INTERVAL)
-
         if score is not None:
-            print(f"✅ Mistral Score: {score}")
-            if score > best_score:
-                best_score = score
-                best_path = path
+            print(f"✅ Mistral Score ({label}): {score}")
+            save_training_example(concepts, variant, score, quality=label)
+            scored_variants.append((score, label))
         else:
-            print("⚠️ Mistral scoring failed for this variant.")
+            print(f"⚠️ Mistral scoring failed for {label} variant.")
 
-    if best_path:
-        save_training_example(concepts, best_path, best_score, file_path=TRAINING_FILE)
-        print(f"🏆 Best score: {best_score}")
+    if scored_variants:
+        best_label = max(scored_variants)[1]
+        print(f"🏆 Best path type: {best_label}")
+        return high if best_label == "high" else low
     else:
-        print("⚠️ No valid reading path found.")
-
-    return best_path
+        return []
 
 
 def feed_abstracts_to_generator(abstracts):

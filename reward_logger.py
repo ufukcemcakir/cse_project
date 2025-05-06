@@ -12,12 +12,15 @@ def is_duplicate_entry(new_example, existing_examples):
             return True
     return False
 
-def save_training_example(concepts, papers, score, output_file="llm_training_data.jsonl"):
+def save_training_example(concepts, papers, score, quality=None, output_file="llm_training_data.jsonl"):
     new_example = {
         "concepts": concepts,
         "papers": papers,
-        "score": score
+        "score": score,
     }
+
+    if quality is not None:
+        new_example["quality"] = quality
 
     # Load existing examples (if file exists)
     existing = []
@@ -37,3 +40,4 @@ def save_training_example(concepts, papers, score, output_file="llm_training_dat
         json.dump(new_example, f)
         f.write("\n")
     print("✅ New example saved.")
+
