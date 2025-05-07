@@ -4,3 +4,8 @@ llm_training_data_enriched.jsonl
 reading_paths_output.json
 reading_paths_output_enriched.json
 reading_results_enriched.txt
+local_papers_with_abstracts_only.jsonl
+non_rl_results.json
+rl_results.jsonl
+rl_vs_mistral_scores.json
+rl_vs_non_rl_evaluation.jsonl

@@ -9,8 +9,9 @@ from graph_based_reading_path_with_rl import graph_based_reading_path_with_rl
 
 # === CONFIG ===
 INPUT_FILE = "local_papers_with_abstracts_only.jsonl"
-OUTPUT_FILE = "reading_results_enriched.txt"
-MAX_ABSTRACTS = 1  # Set an integer for testing
+TEXT_LOG_FILE = "reading_results_enriched.txt"
+STRUCTURED_LOG_FILE = "rl_results.jsonl"
+MAX_ABSTRACTS = 1
 PAUSE_INTERVAL = 25
 PAUSE_DURATION = 60  # seconds
 
@@ -30,19 +31,22 @@ def load_abstracts(file_path, limit=None):
                 print(f"Warning: Skipping invalid line {i + 1}")
     return abstracts
 
-def log_to_file(text):
-    with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
+def log_to_text(text):
+    with open(TEXT_LOG_FILE, "a", encoding="utf-8") as f:
         f.write(text + "\n")
+
+def log_to_jsonl(entry):
+    with open(STRUCTURED_LOG_FILE, "a", encoding="utf-8") as f:
+        f.write(json.dumps(entry, ensure_ascii=False) + "\n")
 
 def feed_abstracts_to_generator(abstracts):
     timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    log_to_file(f"\n===== 🔎 Run at {timestamp} =====")
-    results = []
+    log_to_text(f"\n===== 🔎 Run at {timestamp} =====")
 
-    for idx, (title, abstract) in enumerate(tqdm(abstracts, desc="Evaluating abstracts"), 1):
+    for idx, (title, abstract) in enumerate(tqdm(abstracts, desc="Generating RL paths"), 1):
         header = f"\n=== Abstract {idx}: {title} ==="
         print(header)
-        log_to_file(header)
+        log_to_text(header)
 
         papers = graph_based_reading_path_with_rl(abstract)
         abstract_result = {"abstract_title": title, "papers": []}
@@ -50,11 +54,10 @@ def feed_abstracts_to_generator(abstracts):
         if not papers:
             msg = "No relevant papers found."
             print(msg)
-            log_to_file(msg)
-            results.append(abstract_result)
+            log_to_text(msg)
+            log_to_jsonl(abstract_result)
             continue
 
-        any_printed = False
         for paper in papers:
             paper_title = paper.get("title")
             url = paper.get("url") or paper.get("fullTextUrl")
@@ -62,31 +65,21 @@ def feed_abstracts_to_generator(abstracts):
             if paper_title and url:
                 line = f"- {paper_title} ({source})\n  {url}"
                 print(line)
-                log_to_file(line)
-                any_printed = True
+                log_to_text(line)
                 abstract_result["papers"].append(paper)
 
-        if not any_printed:
+        if not abstract_result["papers"]:
             msg = f"⚠️ No papers with usable links found among {len(papers)} generated."
             print(msg)
-            log_to_file(msg)
+            log_to_text(msg)
 
-        results.append(abstract_result)
+        log_to_jsonl(abstract_result)
 
-        # Pause every N abstracts
         if idx % PAUSE_INTERVAL == 0:
             print(f"⏸️ Pausing for {PAUSE_DURATION} seconds after {idx} abstracts...")
             time.sleep(PAUSE_DURATION)
 
-    return results
-
-def save_reading_paths_to_file(results, output_file="reading_paths_output_enriched.json"):
-    with open(output_file, "w", encoding="utf-8") as f:
-        json.dump(results, f, indent=2, ensure_ascii=False)
-
 if __name__ == "__main__":
     abstracts = load_abstracts(INPUT_FILE, limit=MAX_ABSTRACTS)
-    print(f"✅ Loaded {len(abstracts)} abstracts from {INPUT_FILE}")  # Add this
-    results = feed_abstracts_to_generator(abstracts)
-    save_reading_paths_to_file(results)
-
+    print(f"✅ Loaded {len(abstracts)} abstracts from {INPUT_FILE}")
+    feed_abstracts_to_generator(abstracts)

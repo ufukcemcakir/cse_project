@@ -15,7 +15,20 @@ def evaluate_reading_path_with_rubric(papers, abstract=None):
         print("⚠️ No papers provided to LLM evaluator.")
         return None
 
-    items = "\n".join(f"- {paper['title']}" for paper in papers)
+    valid_items = []
+    for i, paper in enumerate(papers):
+        if isinstance(paper, dict) and "title" in paper:
+            valid_items.append(f"- {paper['title']}")
+        elif isinstance(paper, str):
+            print(f"⚠️ Skipping string entry at index {i}: {paper}")
+        else:
+            print(f"⚠️ Malformed paper at index {i}: {paper}")
+    items = "\n".join(valid_items)
+
+    if not valid_items:
+        print("⚠️ No valid paper titles found to evaluate.")
+        return None
+
 
     prompt = f"""
 You are an academic assistant helping evaluate reading paths for learning.
