@@ -2,7 +2,7 @@ import json
 from llm_evaluator import evaluate_reading_path_with_rubric
 
 RL_FILE = "rl_results.jsonl"
-NON_RL_FILE = "non_rl_results.json"
+NON_RL_FILE = "non_rl_results.jsonl"
 OUTPUT_LOG = "comparison_scores.jsonl"
 
 def flatten_papers(papers_by_concept):

@@ -11,7 +11,7 @@ from graph_based_reading_path_with_rl import graph_based_reading_path_with_rl
 INPUT_FILE = "local_papers_with_abstracts_only.jsonl"
 TEXT_LOG_FILE = "reading_results_enriched.txt"
 STRUCTURED_LOG_FILE = "rl_results.jsonl"
-MAX_ABSTRACTS = 1
+MAX_ABSTRACTS = None
 PAUSE_INTERVAL = 25
 PAUSE_DURATION = 60  # seconds
 

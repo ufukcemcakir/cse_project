@@ -4,9 +4,9 @@ from final_generator import extract_concepts_from_abstract
 from graph_enhanced_generator import get_papers_for_concepts  # your old non-RL generator
 
 INPUT_FILE = "local_papers_with_abstracts_only.jsonl"
-OUTPUT_FILE = "non_rl_results.json"
+OUTPUT_FILE = "non_rl_results.jsonl"
 
-MAX_ABSTRACTS = 1  # Match the same limit as RL run
+MAX_ABSTRACTS = None  # Match the same limit as RL run
 
 def load_abstracts(file_path, limit=None):
     abstracts = []
@@ -39,4 +39,7 @@ if __name__ == "__main__":
     abstracts = load_abstracts(INPUT_FILE, limit=MAX_ABSTRACTS)
     results = generate_reading_paths(abstracts)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(results, f, indent=2, ensure_ascii=False)
+        for entry in results:
+            json.dump(entry, f, ensure_ascii=False)
+            f.write("\n")
+
