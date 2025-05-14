@@ -9,3 +9,7 @@ non_rl_results.jsonl
 rl_results.jsonl
 rl_vs_mistral_scores.json
 rl_vs_non_rl_evaluation.jsonl
+fake_comparison.py
+fake_comparison_2.py
+comparison_scores_simulated.jsonl
+comparison_scores.jsonl
